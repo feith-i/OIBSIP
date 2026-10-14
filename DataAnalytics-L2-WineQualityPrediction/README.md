@@ -67,4 +67,4 @@ UCI Wine Quality dataset — 1,599 samples, 11 physicochemical features, and a `
 
 ## Files
 - `wine_quality_prediction.ipynb` — full notebook with EDA, modeling, evaluation, and conclusions
-- Demo video: *(link here)*
+- Demo video: *(https://drive.google.com/file/d/1rqk16E7knHLvJHfKihHUaId7QjS2D7eM/view?usp=drivesdk)*
