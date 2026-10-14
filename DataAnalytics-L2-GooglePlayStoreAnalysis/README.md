@@ -111,9 +111,7 @@ Run all cells from top to bottom (cells depend on earlier ones).
 
 ## Author
 
-**Faith**: Data Analyst
-- LinkedIn: <your-link>
-- X (Twitter): <your-link>
+**Faith Aipoh**: Data Analyst
 
 ---
 
