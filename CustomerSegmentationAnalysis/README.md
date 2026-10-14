@@ -72,10 +72,10 @@ K-Means (`random_state=42`, `n_init=10`) was fitted on the scaled RFM data, and 
 - **New / Low-Engagement** is the largest segment, nearly half of the customer base.
 
 <!-- Add your charts here, e.g.:
-![Elbow Method] images/01_elbow_method.png
-![Recency vs Monetary] images/02_recency_vs_monetary.png
-![Frequency vs Monetary] images/03_frequency_vs_monetary.png
-![Customers per Segment] images/04_customers_per_segment.png
+![Elbow Method](images/01_elbow_method.png)
+![Recency vs Monetary](images/02_recency_vs_monetary.png)
+![Frequency vs Monetary](images/03_frequency_vs_monetary.png)
+![Customers per Segment](images/04_customers_per_segment.png)
 -->
 
 ## Insights & Recommendations
