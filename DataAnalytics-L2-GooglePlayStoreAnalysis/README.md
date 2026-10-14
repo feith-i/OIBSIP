@@ -74,12 +74,12 @@ Answer one practical question: **if you were launching a new Android app, what d
 
 ## Visuals
 
-![Size vs. Installs](images/app_size_vs_num_installs.png.png)
+![Size vs. Installs](images/app_size_vs_num_installs.png)
 
 
-![Rating distribution](images/avg_rating_cat.png.png)
+![Rating distribution](images/avg_rating_cat.png)
 
-![Sentiment by category](images/review_sentiment_cat.png.png)
+![Sentiment by category](images/review_sentiment_cat.png)
 
 ![Free vs. Paid Apps](image/free_vs_paid.png)
 
