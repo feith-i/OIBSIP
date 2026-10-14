@@ -88,7 +88,7 @@ K-Means (`random_state=42`, `n_init=10`) was fitted on the scaled RFM data, and 
 | **At-Risk / Churned** | Win-back campaigns (reactivation offers, "we miss you" messaging) before these customers are lost for good. |
 
 ## Demo Video 
-[Link here]
+[https://drive.google.com/file/d/1HGm6am8PigtEAgnto8n0bo23onEM2R8q/view?usp=drivesdk]
 
 ## How to Run
 
