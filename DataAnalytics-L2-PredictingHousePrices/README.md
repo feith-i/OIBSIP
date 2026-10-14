@@ -83,7 +83,7 @@ While the model did not achieve strong predictive performance, this project demo
 - `House Price Prediction Dataset.csv` — Dataset used
 
 ## 🎥 Demo
-*(Add link to walkthrough video here, if applicable)*
+[Watch the Video](https://drive.google.com/file/d/1MD6MQ18wjYsJzR_ddCVbcU7R4bWS_LDC/view?usp=drivesdk)
 
 ## 👤 Author
 **Faith Aipoh** — Data Analyst 
