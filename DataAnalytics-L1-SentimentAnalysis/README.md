@@ -68,7 +68,7 @@ This type of model could power an airline customer service triage system — aut
 
 
 ## 🎥 Demo Video
-[Link to walkthrough video](#)
+[Link to walkthrough video](https://drive.google.com/file/d/1FtD9MlljYQAQL-vK6NitpEdukOgQwxgv/view?usp=drivesdk)
 
 ## 📁 Repository Structure
 
