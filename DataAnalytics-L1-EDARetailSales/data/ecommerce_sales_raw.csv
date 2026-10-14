@@ -1,0 +1,321 @@
+OrderID,OrderDate,CustomerName,Age,Gender,Region,Product,Category,Quantity,UnitPrice,Discount,ShippingCost,PaymentMethod,OrderStatus,GrossRevenue,NetRevenue
+1017,1/14/2025,Aisha Sharma,28,Female,South,Running Shoes,Sports & Fitness,5,59.99,0.2,9.69,Credit Card,Delivered,299.95,239.96
+1164,3/26/2025,Emma Brown,30,Female,South,Wireless Mouse,Electronics,1,15.99,0.05,10.05,Credit Card,Delivered,15.99,15.1905
+1016,5/27/2025,Grace Rodriguez,24,Female,North,Backpack,"Home, Office & Lifestyle",1,45,0.15,7.52,Credit Card,Delivered,45,38.25
+1273,5/22/2025,David Rodriguez,53,Male,South,Water Bottle,Sports & Fitness,4,12.5,0.15,5.89,Paypal,Delivered,50,42.5
+1296,3/20/2025,Ahmed Brown,44,Male,West,Phone Case,Electronics,2,9.99,0.15,8.48,Debit Card,Delivered,19.98,16.983
+1237,4/11/2025,Sara Rodriguez,23,Female,East,Backpack,"Home, Office & Lifestyle",2,45,0.15,10.25,Credit Card,Processing,90,76.5
+1049,5/28/2025,Sara Johnson,51,Female,South,Notebook Set,"Home, Office & Lifestyle",1,6.5,0,9.58,Credit Card,Delivered,6.5,6.5
+1036,2/23/2025,Tom Yousuf,48,Male,West,Wireless Mouse,Electronics,2,15.99,0,6.24,Paypal,Shipped,31.98,31.98
+1094,2/2/2025,David Smith,38,Male,South,Yoga Mat,Sports & Fitness,2,22,0,9.84,Credit Card,Delivered,44,44
+1282,3/9/2025,Linda Ali,74,Female,West,Backpack,"Home, Office & Lifestyle",3,45,0.05,7.52,Credit Card,Shipped,135,128.25
+1195,3/26/2025,Fatima Khan,46,Female,North,Coffee Mug,"Home, Office & Lifestyle",4,8.25,0.15,11.31,Credit Card,Cancelled,33,28.05
+1184,4/5/2025,Carlos Wilson,30,Male,North,USB Charger,Electronics,1,11.2,0.05,5.12,Paypal,Processing,11.2,10.64
+1125,2/27/2025,Aisha Brown,47,Female,North,Running Shoes,Sports & Fitness,1,59.99,0,10.63,Debit Card,Returned,59.99,59.99
+1146,5/25/2025,Chen Li,72,Male,North,Yoga Mat,Sports & Fitness,3,22,0.2,11.56,Credit Card,Delivered,66,52.8
+1119,2/5/2025,Carlos Wilson,30,Male,South,Coffee Mug,"Home, Office & Lifestyle",2,8.25,0,10.2,Credit Card,Delivered,16.5,16.5
+1207,4/29/2025,Layla Ahmed,43,Female,South,USB Charger,Electronics,1,11.2,0.15,5.98,Paypal,Delivered,11.2,9.52
+1279,2/19/2025,Linda Farouk,51,Female,South,Yoga Mat,Sports & Fitness,1,22,0,11.9,Credit Card,Delivered,22,22
+1304,5/17/2025,Maria Clark,45,Female,North,USB Charger,Electronics,2,11.2,0.2,3.91,Credit Card,Shipped,22.4,17.92
+1160,6/24/2025,Omar Yousuf,69,Male,South,Phone Case,Electronics,3,9.99,0.15,5.13,Debit Card,Shipped,29.97,25.4745
+1079,6/24/2025,Wei Brown,65,Male,South,Backpack,"Home, Office & Lifestyle",4,45,0.1,8.68,Paypal,Delivered,180,162
+1206,3/4/2025,Tom Wilson,38,Male,East,Desk Lamp,"Home, Office & Lifestyle",5,18.75,0.1,10.18,Credit Card,Delivered,93.75,84.375
+1156,5/25/2025,Sara Wang,60,Female,East,Phone Case,Electronics,5,9.99,0.15,6.63,Credit Card,Cancelled,49.95,42.4575
+1124,4/22/2025,Fatima Malik,32,Female,North,Coffee Mug,"Home, Office & Lifestyle",1,8.25,0.2,11.02,Paypal,Cancelled,8.25,6.6
+1310,2/5/2025,Priya Johnson,40,Female,South,Bluetooth Speaker,Electronics,1,34.5,0,11.1,Paypal,Delivered,34.5,34.5
+1021,5/16/2025,David Garcia,45,Male,South,Wireless Mouse,Electronics,5,15.99,0.1,4.18,Credit Card,Returned,79.95,71.955
+1073,1/1/2025,Priya Wilson,60,Female,East,Backpack,"Home, Office & Lifestyle",2,45,0.2,8.43,Debit Card,Cancelled,90,72
+1224,6/6/2025,Linda Brown,60,Female,South,Water Bottle,Sports & Fitness,3,12.5,0.2,4.68,Credit Card,Delivered,37.5,30
+1251,1/25/2025,Aisha Farouk,65,Female,North,Throw Pillow,"Home, Office & Lifestyle",1,14,0.1,6.85,Paypal,Shipped,14,12.6
+1123,6/14/2025,Carlos Taylor,41,Male,West,Yoga Mat,Sports & Fitness,2,22,0,4.37,Debit Card,Shipped,44,44
+1286,5/15/2025,Sara Davis,47,Female,North,Running Shoes,Sports & Fitness,1,59.99,0.2,10.94,Credit Card,Delivered,59.99,47.992
+1148,4/23/2025,Omar Khan,50,Male,West,Throw Pillow,"Home, Office & Lifestyle",1,14,0,6.39,Credit Card,Delivered,14,14
+1187,5/1/2025,Noah Lee,67,Male,East,Coffee Mug,"Home, Office & Lifestyle",1,8.25,0.2,7.02,Paypal,Delivered,8.25,6.6
+1015,1/19/2025,Chen Yousuf,28,Male,South,Water Bottle,Sports & Fitness,2,12.5,0,11.2,Credit Card,Delivered,25,25
+1031,2/28/2025,Emma Rodriguez,69,Female,South,Coffee Mug,"Home, Office & Lifestyle",3,8.25,0,6.89,Credit Card,Shipped,24.75,24.75
+1188,2/9/2025,Yusuf Yousuf,69,Female,South,Notebook Set,"Home, Office & Lifestyle",4,6.5,0,8.34,Debit Card,Delivered,26,26
+1285,4/15/2025,Ahmed Rodriguez,64,Male,South,Coffee Mug,"Home, Office & Lifestyle",2,8.25,0.2,10.87,Credit Card,Processing,16.5,13.2
+1026,3/29/2025,Yusuf Ali,29,Male,South,Notebook Set,"Home, Office & Lifestyle",2,6.5,0.15,5.63,Debit Card,Delivered,13,11.05
+1289,6/16/2025,Emma Brown,30,Female,West,USB Charger,Electronics,2,11.2,0,10.13,Paypal,Delivered,22.4,22.4
+1265,2/7/2025,David Ahmed,72,Male,North,Phone Case,Electronics,1,9.99,0,10.7,Paypal,Processing,9.99,9.99
+1162,3/30/2025,Chen Yousuf,28,Male,South,Running Shoes,Sports & Fitness,4,59.99,0.2,11.62,Debit Card,Delivered,239.96,191.968
+1111,5/25/2025,Ahmed Ahmed,70,Male,North,USB Charger,Electronics,5,11.2,0.05,11,Credit Card,Shipped,56,53.2
+1039,6/28/2025,Linda Sharma,58,Female,North,Water Bottle,Sports & Fitness,1,12.5,0.2,5.62,Credit Card,Delivered,12.5,10
+1109,1/21/2025,Linda Brown,60,Female,West,Running Shoes,Sports & Fitness,4,59.99,0.1,5.38,Debit Card,Processing,239.96,215.964
+1133,6/17/2025,Carlos Ali,72,Male,East,Phone Case,Electronics,1,9.99,0.2,6.63,Debit Card,Delivered,9.99,7.992
+1168,3/7/2025,Linda Wilson,20,Female,South,Yoga Mat,Sports & Fitness,5,22,0.15,6.37,Paypal,Delivered,110,93.5
+1077,5/5/2025,David Yousuf,62,Male,North,Running Shoes,Sports & Fitness,3,59.99,0.15,5.5,Credit Card,Shipped,179.97,152.9745
+1306,1/27/2025,Linda Davis,59,Female,North,Desk Lamp,"Home, Office & Lifestyle",1,18.75,0.05,4.47,Paypal,Delivered,18.75,17.8125
+1211,4/29/2025,Chen Brown,34,Male,South,Coffee Mug,"Home, Office & Lifestyle",3,8.25,0.05,4.78,Paypal,Shipped,24.75,23.5125
+1314,3/28/2025,Noah Wang,60,Male,North,Throw Pillow,"Home, Office & Lifestyle",2,14,0.15,8.76,Paypal,Shipped,28,23.8
+1218,1/30/2025,Wei Wilson,23,Male,South,Bluetooth Speaker,Electronics,2,34.5,0,7.84,Debit Card,Shipped,69,69
+1087,6/22/2025,Yusuf Wang,40,Male,South,Running Shoes,Sports & Fitness,3,59.99,0,11.02,Credit Card,Delivered,179.97,179.97
+1185,2/23/2025,Ahmed Rodriguez,64,Male,East,Notebook Set,"Home, Office & Lifestyle",2,6.5,0.05,3.63,Debit Card,Returned,13,12.35
+1121,6/23/2025,Fatima Farouk,66,Female,South,Wireless Mouse,Electronics,4,15.99,0,8.69,Paypal,Returned,63.96,63.96
+1080,3/7/2025,Chen Li,72,Male,West,Water Bottle,Sports & Fitness,5,12.5,0.15,11.14,Debit Card,Shipped,62.5,53.125
+1172,5/18/2025,Olivia Hassan,65,Female,South,Running Shoes,Sports & Fitness,5,59.99,0.2,9.28,Paypal,Processing,299.95,239.96
+1047,6/16/2025,Aisha Brown,47,Female,North,USB Charger,Electronics,1,11.2,0.2,5.19,Credit Card,Returned,11.2,8.96
+1257,2/20/2025,Chen Malik,44,Male,South,Bluetooth Speaker,Electronics,1,34.5,0,4.28,Credit Card,Cancelled,34.5,34.5
+1102,6/18/2025,Priya Yousuf,74,Female,South,Notebook Set,"Home, Office & Lifestyle",1,6.5,0.1,5.82,Debit Card,Delivered,6.5,5.85
+1035,2/2/2025,David Clark,26,Male,South,Throw Pillow,"Home, Office & Lifestyle",2,14,0.1,6.72,Credit Card,Shipped,28,25.2
+1008,5/24/2025,Omar Li,39,Male,North,Desk Lamp,"Home, Office & Lifestyle",1,18.75,0,7.14,Debit Card,Processing,18.75,18.75
+1044,2/26/2025,Priya Yousuf,74,Female,East,Throw Pillow,"Home, Office & Lifestyle",2,14,0.05,6.81,Credit Card,Delivered,28,26.6
+1287,4/5/2025,Maria Hassan,38,Female,West,Throw Pillow,"Home, Office & Lifestyle",2,14,0,11.35,Paypal,Delivered,28,28
+1294,2/26/2025,Maria Wang,51,Female,South,Throw Pillow,"Home, Office & Lifestyle",2,14,0,7.54,Paypal,Shipped,28,28
+1170,5/30/2025,Emma Farouk,38,Female,South,Desk Lamp,"Home, Office & Lifestyle",3,18.75,0,9.06,Paypal,Delivered,56.25,56.25
+1216,4/28/2025,Layla Ahmed,43,Female,North,Phone Case,Electronics,3,9.99,0,7.66,Debit Card,Shipped,29.97,29.97
+1113,6/15/2025,Maria Garcia,50,Female,North,Phone Case,Electronics,2,9.99,0,6.77,Paypal,Shipped,19.98,19.98
+1127,3/15/2025,Olivia Davis,36,Female,South,Running Shoes,Sports & Fitness,1,59.99,0.2,5.53,Debit Card,Delivered,59.99,47.992
+1053,1/8/2025,Omar Wang,65,Male,West,Notebook Set,"Home, Office & Lifestyle",4,6.5,0,5.3,Debit Card,Delivered,26,26
+1210,3/26/2025,Fatima Taylor,28,Female,West,Wireless Mouse,Electronics,4,15.99,0.2,5.7,Credit Card,Delivered,63.96,51.168
+1303,2/28/2025,Aisha Rodriguez,18,Female,South,Yoga Mat,Sports & Fitness,4,22,0,3.69,Paypal,Delivered,88,88
+1208,3/6/2025,Priya Lee,45,Female,South,Yoga Mat,Sports & Fitness,2,22,0,10.21,Paypal,Processing,44,44
+1307,4/15/2025,Yusuf Davis,42,Male,East,Water Bottle,Sports & Fitness,3,12.5,0.15,7.72,Paypal,Delivered,37.5,31.875
+1023,6/21/2025,David Brown,66,Male,South,Desk Lamp,"Home, Office & Lifestyle",4,18.75,0,11.4,Debit Card,Delivered,75,75
+1051,6/12/2025,Priya Lee,45,Female,West,Bluetooth Speaker,Electronics,4,34.5,0,9.74,Paypal,Delivered,138,138
+1183,2/6/2025,Layla Lee,50,Female,West,Water Bottle,Sports & Fitness,2,12.5,0,11.73,Credit Card,Shipped,25,25
+1012,1/5/2025,Noah Smith,72,Male,North,Notebook Set,"Home, Office & Lifestyle",3,6.5,0.05,10.57,Debit Card,Cancelled,19.5,18.525
+1005,3/13/2025,Sara Khan,69,Female,West,Water Bottle,Sports & Fitness,1,12.5,0.05,6.52,Debit Card,Delivered,12.5,11.875
+1043,5/28/2025,Carlos Sharma,63,Male,West,Running Shoes,Sports & Fitness,1,59.99,0.2,6.49,Credit Card,Delivered,59.99,47.992
+1059,3/29/2025,Chen Ali,30,Male,South,Coffee Mug,"Home, Office & Lifestyle",5,8.25,0.05,10.82,Credit Card,Delivered,41.25,39.1875
+1298,4/28/2025,Wei Rodriguez,65,Male,South,Phone Case,Electronics,4,9.99,0.1,5.03,Debit Card,Cancelled,39.96,35.964
+1255,3/18/2025,Aisha Clark,41,Female,East,Backpack,"Home, Office & Lifestyle",1,45,0.15,6.94,Paypal,Delivered,45,38.25
+1010,1/30/2025,Omar Davis,36,Male,South,Desk Lamp,"Home, Office & Lifestyle",1,18.75,0.15,10.03,Paypal,Processing,18.75,15.9375
+1293,2/5/2025,Olivia Clark,64,Female,South,USB Charger,Electronics,3,11.2,0.15,11.98,Credit Card,Shipped,33.6,28.56
+1233,1/19/2025,David Johnson,34,Male,South,Running Shoes,Sports & Fitness,1,59.99,0.05,10.35,Credit Card,Delivered,59.99,56.9905
+1226,6/17/2025,Wei Sharma,49,Male,South,Wireless Mouse,Electronics,2,15.99,0.2,9.55,Paypal,Delivered,31.98,25.584
+1096,1/21/2025,Priya Johnson,40,Female,East,Coffee Mug,"Home, Office & Lifestyle",5,8.25,0,4.57,Paypal,Delivered,41.25,41.25
+1169,4/13/2025,Olivia Clark,64,Female,South,Running Shoes,Sports & Fitness,3,59.99,0,4.7,Credit Card,Delivered,179.97,179.97
+1145,6/12/2025,Noah Ali,19,Male,North,Bluetooth Speaker,Electronics,2,34.5,0,6.07,Debit Card,Delivered,69,69
+1088,4/15/2025,Ahmed Farouk,21,Male,North,Throw Pillow,"Home, Office & Lifestyle",2,14,0.15,3.82,Paypal,Delivered,28,23.8
+1266,3/24/2025,Tom Wang,27,Male,South,Bluetooth Speaker,Electronics,3,34.5,0,7.21,Paypal,Processing,103.5,103.5
+1260,4/2/2025,Noah Brown,23,Male,West,USB Charger,Electronics,1,11.2,0.05,6.42,Paypal,Processing,11.2,10.64
+1086,5/23/2025,Ahmed Li,39,Male,East,Water Bottle,Sports & Fitness,4,12.5,0.2,3.62,Credit Card,Processing,50,40
+1249,5/19/2025,Wei Smith,72,Male,East,Running Shoes,Sports & Fitness,1,59.99,0,3.51,Credit Card,Returned,59.99,59.99
+1253,4/26/2025,Chen Johnson,30,Male,West,Yoga Mat,Sports & Fitness,1,22,0,8.06,Debit Card,Delivered,22,22
+1243,4/6/2025,Noah Davis,30,Male,South,Throw Pillow,"Home, Office & Lifestyle",2,14,0,4.5,Debit Card,Processing,28,28
+1001,2/27/2025,Linda Smith,74,Female,South,Throw Pillow,"Home, Office & Lifestyle",2,14,0,11.08,Credit Card,Shipped,28,28
+1101,5/4/2025,Chen Davis,74,Male,South,Water Bottle,Sports & Fitness,1,12.5,0.15,8.23,Credit Card,Delivered,12.5,10.625
+1313,5/5/2025,Aisha Taylor,53,Female,North,Wireless Mouse,Electronics,1,15.99,0.05,4.04,Credit Card,Delivered,15.99,15.1905
+1118,3/26/2025,Ahmed Ali,58,Male,South,Backpack,"Home, Office & Lifestyle",4,45,0.15,9.2,Paypal,Delivered,180,153
+1022,6/2/2025,Emma Clark,65,Female,North,Bluetooth Speaker,Electronics,2,34.5,0.1,9.09,Paypal,Delivered,69,62.1
+1228,1/1/2025,Aisha Farouk,65,Female,South,Coffee Mug,"Home, Office & Lifestyle",3,8.25,0.1,7.4,Credit Card,Processing,24.75,22.275
+1236,5/22/2025,Wei Brown,65,Male,North,Desk Lamp,"Home, Office & Lifestyle",1,18.75,0,5.92,Paypal,Processing,18.75,18.75
+1213,1/30/2025,Omar Wilson,45,Male,North,Bluetooth Speaker,Electronics,2,34.5,0,9.26,Debit Card,Shipped,69,69
+1180,2/25/2025,Maria Clark,45,Female,North,Coffee Mug,"Home, Office & Lifestyle",2,8.25,0.1,5.96,Paypal,Delivered,16.5,14.85
+1320,1/28/2025,Sara Yousuf,20,Female,North,Backpack,"Home, Office & Lifestyle",3,45,0.15,10.49,Paypal,Delivered,135,114.75
+1084,5/29/2025,Linda Garcia,41,Female,East,Desk Lamp,"Home, Office & Lifestyle",5,18.75,0,6.01,Paypal,Delivered,93.75,93.75
+1038,6/28/2025,Ahmed Farouk,21,Male,West,Running Shoes,Sports & Fitness,2,59.99,0.15,4.75,Credit Card,Delivered,119.98,101.983
+1006,3/4/2025,Ahmed Taylor,18,Male,South,USB Charger,Electronics,1,11.2,0.1,11.91,Credit Card,Delivered,11.2,10.08
+1203,4/8/2025,Emma Wang,21,Female,South,Backpack,"Home, Office & Lifestyle",1,45,0.15,5.78,Paypal,Delivered,45,38.25
+1295,5/1/2025,Fatima Yousuf,34,Female,South,Yoga Mat,Sports & Fitness,2,22,0,8.25,Debit Card,Processing,44,44
+1250,5/6/2025,Linda Rodriguez,34,Female,North,Backpack,"Home, Office & Lifestyle",2,45,0.05,4.29,Paypal,Processing,90,85.5
+1264,3/1/2025,Fatima Lee,18,Female,North,Wireless Mouse,Electronics,1,15.99,0,7.56,Paypal,Delivered,15.99,15.99
+1230,4/28/2025,David Garcia,45,Male,North,Wireless Mouse,Electronics,1,15.99,0.15,4.84,Credit Card,Returned,15.99,13.5915
+1157,5/29/2025,James Taylor,24,Male,North,Coffee Mug,"Home, Office & Lifestyle",2,8.25,0.15,8.46,Paypal,Processing,16.5,14.025
+1099,1/22/2025,Wei Lee,20,Male,North,Bluetooth Speaker,Electronics,1,34.5,0.2,9.78,Credit Card,Delivered,34.5,27.6
+1106,2/24/2025,Olivia Garcia,75,Female,South,Wireless Mouse,Electronics,2,15.99,0,4.52,Debit Card,Delivered,31.98,31.98
+1067,2/16/2025,Fatima Lee,18,Female,North,Backpack,"Home, Office & Lifestyle",5,45,0,7.68,Credit Card,Shipped,225,225
+1117,6/19/2025,Olivia Li,35,Female,South,Phone Case,Electronics,1,9.99,0.1,9.08,Debit Card,Delivered,9.99,8.991
+1219,2/12/2025,Fatima Lee,18,Female,West,USB Charger,Electronics,1,11.2,0.1,6.17,Debit Card,Delivered,11.2,10.08
+1037,3/2/2025,Fatima Khan,46,Female,South,Desk Lamp,"Home, Office & Lifestyle",3,18.75,0,5.19,Debit Card,Delivered,56.25,56.25
+1221,2/26/2025,Fatima Khan,46,Female,East,Notebook Set,"Home, Office & Lifestyle",1,6.5,0.2,8.07,Credit Card,Delivered,6.5,5.2
+1070,5/5/2025,Layla Li,63,Female,North,Desk Lamp,"Home, Office & Lifestyle",5,18.75,0.15,8.68,Credit Card,Returned,93.75,79.6875
+1033,5/28/2025,David Sharma,65,Male,South,Notebook Set,"Home, Office & Lifestyle",1,6.5,0.05,7.21,Debit Card,Delivered,6.5,6.175
+1198,1/26/2025,Wei Khan,33,Male,West,Backpack,"Home, Office & Lifestyle",3,45,0,6.4,Paypal,Cancelled,135,135
+1254,6/25/2025,Yusuf Johnson,34,Male,East,Bluetooth Speaker,Electronics,1,34.5,0.2,10.61,Paypal,Delivered,34.5,27.6
+1227,4/17/2025,Grace Li,50,Female,West,Notebook Set,"Home, Office & Lifestyle",2,6.5,0.15,10.25,Credit Card,Delivered,13,11.05
+1229,2/24/2025,Layla Clark,21,Female,West,Water Bottle,Sports & Fitness,4,12.5,0.2,5.91,Debit Card,Delivered,50,40
+1277,5/19/2025,Linda Khan,75,Female,West,USB Charger,Electronics,3,11.2,0.2,4.02,Paypal,Delivered,33.6,26.88
+1063,4/27/2025,Emma Ali,58,Female,North,Throw Pillow,"Home, Office & Lifestyle",2,14,0.15,10.2,Paypal,Returned,28,23.8
+1062,3/3/2025,Carlos Rodriguez,24,Male,South,Desk Lamp,"Home, Office & Lifestyle",1,18.75,0,3.52,Paypal,Delivered,18.75,18.75
+1271,1/9/2025,Chen Brown,34,Male,East,Yoga Mat,Sports & Fitness,5,22,0,11.59,Credit Card,Delivered,110,110
+1312,2/10/2025,Fatima Johnson,44,Female,North,Yoga Mat,Sports & Fitness,1,22,0.2,7.6,Credit Card,Returned,22,17.6
+1030,3/27/2025,Fatima Ahmed,35,Female,West,Running Shoes,Sports & Fitness,1,59.99,0,10.19,Paypal,Delivered,59.99,59.99
+1122,6/23/2025,Emma Ali,58,Female,North,Coffee Mug,"Home, Office & Lifestyle",2,8.25,0,5.9,Credit Card,Delivered,16.5,16.5
+1136,6/13/2025,Maria Hassan,38,Female,North,Notebook Set,"Home, Office & Lifestyle",4,6.5,0,6.95,Credit Card,Shipped,26,26
+1056,3/20/2025,Layla Wilson,63,Female,East,Phone Case,Electronics,5,9.99,0,5.14,Paypal,Delivered,49.95,49.95
+1305,5/21/2025,Linda Sharma,58,Female,East,Coffee Mug,"Home, Office & Lifestyle",4,8.25,0,5.25,Credit Card,Processing,33,33
+1093,3/6/2025,James Malik,64,Male,South,Yoga Mat,Sports & Fitness,1,22,0.1,3.72,Credit Card,Shipped,22,19.8
+1239,3/9/2025,Ahmed Smith,39,Male,South,Notebook Set,"Home, Office & Lifestyle",1,6.5,0,11.56,Credit Card,Returned,6.5,6.5
+1247,1/18/2025,Fatima Brown,62,Female,West,Backpack,"Home, Office & Lifestyle",1,45,0.05,6.14,Debit Card,Processing,45,42.75
+1270,4/18/2025,Linda Smith,74,Female,South,Wireless Mouse,Electronics,4,15.99,0.05,6.72,Credit Card,Delivered,63.96,60.762
+1167,4/27/2025,Chen Taylor,34,Male,South,Bluetooth Speaker,Electronics,3,34.5,0,11.06,Paypal,Delivered,103.5,103.5
+1090,6/26/2025,Grace Taylor,24,Female,East,Running Shoes,Sports & Fitness,2,59.99,0,11.58,Paypal,Delivered,119.98,119.98
+1107,4/12/2025,Layla Brown,73,Female,South,Backpack,"Home, Office & Lifestyle",3,45,0,7.41,Credit Card,Delivered,135,135
+1104,2/9/2025,Sara Wilson,66,Female,South,Notebook Set,"Home, Office & Lifestyle",1,6.5,0,4.19,Paypal,Delivered,6.5,6.5
+1138,1/20/2025,Omar Hassan,67,Male,North,Phone Case,Electronics,5,9.99,0.2,6.88,Paypal,Delivered,49.95,39.96
+1234,5/16/2025,Tom Li,59,Male,North,USB Charger,Electronics,1,11.2,0,4.89,Credit Card,Shipped,11.2,11.2
+1225,6/30/2025,Aisha Yousuf,37,Female,East,Desk Lamp,"Home, Office & Lifestyle",1,18.75,0,11.6,Debit Card,Shipped,18.75,18.75
+1041,5/14/2025,Omar Malik,60,Male,West,Water Bottle,Sports & Fitness,2,12.5,0.2,4.16,Paypal,Delivered,25,20
+1130,1/18/2025,Tom Hassan,56,Male,East,Desk Lamp,"Home, Office & Lifestyle",1,18.75,0,8.84,Paypal,Processing,18.75,18.75
+1018,3/13/2025,Layla Farouk,34,Female,West,Yoga Mat,Sports & Fitness,4,22,0,4.14,Paypal,Cancelled,88,88
+1134,5/8/2025,Tom Wilson,38,Male,East,Yoga Mat,Sports & Fitness,5,22,0.15,4.2,Paypal,Delivered,110,93.5
+1192,3/15/2025,James Davis,36,Male,North,Throw Pillow,"Home, Office & Lifestyle",2,14,0.1,9.23,Paypal,Cancelled,28,25.2
+1057,5/31/2025,Fatima Rodriguez,25,Female,North,Water Bottle,Sports & Fitness,5,12.5,0,4.35,Paypal,Delivered,62.5,62.5
+1135,1/21/2025,Fatima Yousuf,34,Female,East,Desk Lamp,"Home, Office & Lifestyle",3,18.75,0,8.62,Debit Card,Delivered,56.25,56.25
+1082,3/17/2025,Tom Wang,27,Male,North,Phone Case,Electronics,2,9.99,0.15,8.31,Credit Card,Delivered,19.98,16.983
+1019,4/15/2025,Layla Smith,46,Female,West,Bluetooth Speaker,Electronics,2,34.5,0,6.91,Credit Card,Delivered,69,69
+1252,3/22/2025,Wei Brown,65,Male,West,Desk Lamp,"Home, Office & Lifestyle",2,18.75,0.2,5.81,Debit Card,Delivered,37.5,30
+1315,6/14/2025,Tom Li,59,Male,South,Backpack,"Home, Office & Lifestyle",1,45,0,10.74,Paypal,Cancelled,45,45
+1126,6/30/2025,Sara Lee,44,Female,West,Throw Pillow,"Home, Office & Lifestyle",1,14,0.2,11.2,Credit Card,Shipped,14,11.2
+1078,2/12/2025,Ahmed Sharma,33,Male,South,Bluetooth Speaker,Electronics,1,34.5,0.05,3.89,Debit Card,Returned,34.5,32.775
+1316,2/27/2025,Emma Wilson,47,Female,North,Desk Lamp,"Home, Office & Lifestyle",1,18.75,0.1,5.5,Credit Card,Delivered,18.75,16.875
+1291,5/11/2025,Noah Taylor,58,Male,South,Running Shoes,Sports & Fitness,1,59.99,0,8.55,Debit Card,Shipped,59.99,59.99
+1220,4/9/2025,James Lee,66,Male,North,Yoga Mat,Sports & Fitness,2,22,0.2,6.98,Paypal,Shipped,44,35.2
+1153,3/15/2025,Chen Yousuf,28,Male,North,Water Bottle,Sports & Fitness,3,12.5,0.1,10,Credit Card,Delivered,37.5,33.75
+1262,2/26/2025,Emma Malik,42,Female,North,Backpack,"Home, Office & Lifestyle",1,45,0.2,10.63,Credit Card,Delivered,45,36
+1174,4/25/2025,Carlos Wang,73,Male,North,Coffee Mug,"Home, Office & Lifestyle",1,8.25,0.1,7.03,Credit Card,Delivered,8.25,7.425
+1276,3/9/2025,Tom Hassan,56,Male,West,Yoga Mat,Sports & Fitness,5,22,0,10.62,Credit Card,Delivered,110,110
+1040,4/24/2025,Noah Yousuf,62,Male,North,Notebook Set,"Home, Office & Lifestyle",3,6.5,0.2,11.21,Paypal,Delivered,19.5,15.6
+1120,6/8/2025,Noah Garcia,63,Male,South,USB Charger,Electronics,3,11.2,0.2,4.88,Paypal,Delivered,33.6,26.88
+1085,2/12/2025,Layla Hassan,64,Female,East,Backpack,"Home, Office & Lifestyle",2,45,0.2,6.01,Credit Card,Returned,90,72
+1002,2/20/2025,Carlos Brown,61,Male,South,Backpack,"Home, Office & Lifestyle",1,45,0.1,7.32,Paypal,Delivered,45,40.5
+1311,4/13/2025,Aisha Wilson,62,Female,West,Yoga Mat,Sports & Fitness,1,22,0.05,9.36,Debit Card,Cancelled,22,20.9
+1150,2/10/2025,Tom Taylor,67,Male,East,Running Shoes,Sports & Fitness,2,59.99,0.2,5.11,Paypal,Processing,119.98,95.984
+1042,4/9/2025,Layla Khan,35,Female,South,Yoga Mat,Sports & Fitness,1,22,0,4.05,Paypal,Processing,22,22
+1034,3/26/2025,Carlos Hassan,65,Male,North,Running Shoes,Sports & Fitness,1,59.99,0.15,4.56,Debit Card,Shipped,59.99,50.9915
+1290,6/5/2025,Fatima Taylor,28,Female,East,Wireless Mouse,Electronics,2,15.99,0,6.7,Debit Card,Delivered,31.98,31.98
+1143,3/23/2025,Priya Sharma,49,Female,South,Notebook Set,"Home, Office & Lifestyle",1,6.5,0,9.28,Credit Card,Delivered,6.5,6.5
+1072,5/22/2025,Priya Lee,45,Female,South,Coffee Mug,"Home, Office & Lifestyle",2,8.25,0.05,8.59,Credit Card,Delivered,16.5,15.675
+1110,6/15/2025,Noah Davis,30,Male,South,Water Bottle,Sports & Fitness,3,12.5,0,5.68,Paypal,Delivered,37.5,37.5
+1011,1/28/2025,James Malik,64,Male,South,Backpack,"Home, Office & Lifestyle",1,45,0.1,7.82,Debit Card,Cancelled,45,40.5
+1097,5/10/2025,Tom Taylor,67,Male,North,Backpack,"Home, Office & Lifestyle",2,45,0.05,9.47,Credit Card,Delivered,90,85.5
+1132,2/21/2025,Omar Garcia,28,Male,North,Desk Lamp,"Home, Office & Lifestyle",2,18.75,0,7.88,Debit Card,Returned,37.5,37.5
+1189,2/13/2025,David Malik,55,Male,South,Coffee Mug,"Home, Office & Lifestyle",5,8.25,0.05,9.62,Debit Card,Delivered,41.25,39.1875
+1045,6/1/2025,Omar Li,39,Male,North,Notebook Set,"Home, Office & Lifestyle",1,6.5,0.05,7.14,Credit Card,Delivered,6.5,6.175
+1048,3/7/2025,Linda Wang,29,Female,East,Water Bottle,Sports & Fitness,5,12.5,0.15,11.69,Paypal,Shipped,62.5,53.125
+1020,5/23/2025,Yusuf Farouk,71,Male,South,Desk Lamp,"Home, Office & Lifestyle",4,18.75,0.15,6.02,Credit Card,Delivered,75,63.75
+1175,1/1/2025,Sara Smith,35,Female,South,Running Shoes,Sports & Fitness,2,59.99,0.2,3.88,Paypal,Shipped,119.98,95.984
+1046,4/8/2025,David Rodriguez,53,Male,East,Coffee Mug,"Home, Office & Lifestyle",3,8.25,0,4.2,Credit Card,Delivered,24.75,24.75
+1115,3/5/2025,Ahmed Davis,29,Male,South,USB Charger,Electronics,1,11.2,0,7.95,Credit Card,Returned,11.2,11.2
+1076,6/17/2025,Omar Smith,19,Male,South,Throw Pillow,"Home, Office & Lifestyle",1,14,0.05,11.74,Credit Card,Delivered,14,13.3
+1050,5/25/2025,Linda Ali,74,Female,North,USB Charger,Electronics,1,11.2,0.2,9.12,Debit Card,Delivered,11.2,8.96
+1186,3/3/2025,Grace Brown,64,Female,North,Throw Pillow,"Home, Office & Lifestyle",2,14,0.05,6.74,Debit Card,Processing,28,26.6
+1309,4/29/2025,Yusuf Brown,43,Male,North,Coffee Mug,"Home, Office & Lifestyle",2,8.25,0,10.93,Credit Card,Cancelled,16.5,16.5
+1155,6/5/2025,Wei Wilson,23,Male,North,Coffee Mug,"Home, Office & Lifestyle",5,8.25,0,8.71,Paypal,Delivered,41.25,41.25
+1245,1/4/2025,Chen Johnson,30,Male,South,Water Bottle,Sports & Fitness,1,12.5,0,6.76,Credit Card,Delivered,12.5,12.5
+1140,2/14/2025,Carlos Johnson,70,Male,South,Yoga Mat,Sports & Fitness,1,22,0.05,10.39,Credit Card,Returned,22,20.9
+1299,2/23/2025,David Garcia,45,Male,South,Wireless Mouse,Electronics,5,15.99,0,7.66,Paypal,Processing,79.95,79.95
+1194,6/25/2025,Chen Brown,34,Male,North,Throw Pillow,"Home, Office & Lifestyle",1,14,0,6.72,Credit Card,Delivered,14,14
+1095,1/12/2025,Linda Farouk,51,Female,South,Backpack,"Home, Office & Lifestyle",2,45,0.1,8.97,Paypal,Delivered,90,81
+1240,6/13/2025,Priya Sharma,49,Female,North,Throw Pillow,"Home, Office & Lifestyle",4,14,0,5.86,Paypal,Shipped,56,56
+1182,3/30/2025,Fatima Sharma,72,Female,South,Backpack,"Home, Office & Lifestyle",5,45,0,6.21,Credit Card,Processing,225,225
+1292,3/12/2025,David Malik,55,Male,East,USB Charger,Electronics,3,11.2,0.2,7.9,Debit Card,Delivered,33.6,26.88
+1163,6/28/2025,Grace Rodriguez,24,Female,East,Water Bottle,Sports & Fitness,2,12.5,0.1,9.8,Paypal,Delivered,25,22.5
+1242,6/20/2025,Priya Johnson,40,Female,South,Coffee Mug,"Home, Office & Lifestyle",1,8.25,0,9.52,Paypal,Delivered,8.25,8.25
+1114,6/4/2025,Maria Farouk,48,Female,West,Notebook Set,"Home, Office & Lifestyle",2,6.5,0,4.03,Paypal,Delivered,13,13
+1200,1/19/2025,Ahmed Taylor,18,Male,North,Desk Lamp,"Home, Office & Lifestyle",2,18.75,0.15,9.55,Debit Card,Delivered,37.5,31.875
+1159,2/5/2025,Noah Taylor,58,Male,North,Coffee Mug,"Home, Office & Lifestyle",1,8.25,0.15,11.98,Paypal,Shipped,8.25,7.0125
+1052,6/1/2025,Layla Lee,50,Female,East,Coffee Mug,"Home, Office & Lifestyle",4,8.25,0.2,10.56,Debit Card,Cancelled,33,26.4
+1065,3/19/2025,Sara Farouk,65,Female,South,Bluetooth Speaker,Electronics,5,34.5,0.15,7.75,Credit Card,Returned,172.5,146.625
+1241,6/12/2025,Wei Yousuf,52,Male,South,Phone Case,Electronics,4,9.99,0.1,7.22,Credit Card,Delivered,39.96,35.964
+1004,5/22/2025,Omar Yousuf,69,Male,East,Bluetooth Speaker,Electronics,4,34.5,0,6.57,Paypal,Cancelled,138,138
+1014,3/21/2025,Priya Rodriguez,71,Female,West,Backpack,"Home, Office & Lifestyle",2,45,0.15,7.9,Debit Card,Delivered,90,76.5
+1142,5/22/2025,Grace Smith,59,Female,South,Phone Case,Electronics,3,9.99,0.05,4.06,Paypal,Cancelled,29.97,28.4715
+1081,4/19/2025,Ahmed Farouk,21,Male,South,Phone Case,Electronics,2,9.99,0.15,6.07,Debit Card,Delivered,19.98,16.983
+1317,6/17/2025,Grace Farouk,32,Female,North,Phone Case,Electronics,1,9.99,0.05,3.8,Credit Card,Delivered,9.99,9.4905
+1202,6/3/2025,James Khan,74,Male,East,Phone Case,Electronics,1,9.99,0.1,7.02,Credit Card,Delivered,9.99,8.991
+1238,3/23/2025,Olivia Khan,23,Female,South,Backpack,"Home, Office & Lifestyle",1,45,0,8.33,Credit Card,Cancelled,45,45
+1098,3/28/2025,Carlos Sharma,63,Male,West,Coffee Mug,"Home, Office & Lifestyle",2,8.25,0.05,4.31,Credit Card,Delivered,16.5,15.675
+1269,1/23/2025,Emma Hassan,58,Female,South,Phone Case,Electronics,1,9.99,0.15,5.75,Debit Card,Delivered,9.99,8.4915
+1171,1/31/2025,Sara Ahmed,20,Female,South,Running Shoes,Sports & Fitness,2,59.99,0.15,5.38,Debit Card,Delivered,119.98,101.983
+1178,4/8/2025,Sara Farouk,65,Female,South,USB Charger,Electronics,4,11.2,0.1,4.82,Paypal,Delivered,44.8,40.32
+1074,3/24/2025,Grace Hassan,53,Female,South,Phone Case,Electronics,4,9.99,0.05,5.49,Paypal,Shipped,39.96,37.962
+1179,2/22/2025,Maria Sharma,56,Female,North,Notebook Set,"Home, Office & Lifestyle",1,6.5,0,7.29,Credit Card,Shipped,6.5,6.5
+1205,3/27/2025,David Taylor,69,Male,West,Running Shoes,Sports & Fitness,3,59.99,0.05,6.23,Paypal,Delivered,179.97,170.9715
+1301,3/5/2025,Carlos Smith,40,Male,South,USB Charger,Electronics,1,11.2,0.15,4.37,Debit Card,Delivered,11.2,9.52
+1201,4/3/2025,Linda Khan,75,Female,East,Wireless Mouse,Electronics,2,15.99,0.05,5.09,Credit Card,Delivered,31.98,30.381
+1131,6/14/2025,Maria Hassan,38,Female,South,Backpack,"Home, Office & Lifestyle",3,45,0.2,7.57,Credit Card,Returned,135,108
+1061,3/18/2025,Emma Davis,50,Female,North,Running Shoes,Sports & Fitness,5,59.99,0.05,8.78,Credit Card,Delivered,299.95,284.9525
+1100,4/1/2025,Layla Yousuf,33,Female,South,Phone Case,Electronics,1,9.99,0.05,9.63,Credit Card,Cancelled,9.99,9.4905
+1244,4/27/2025,Noah Khan,69,Male,North,Desk Lamp,"Home, Office & Lifestyle",1,18.75,0.05,10.8,Debit Card,Delivered,18.75,17.8125
+1280,4/10/2025,Olivia Malik,25,Female,North,Phone Case,Electronics,1,9.99,0,10.78,Credit Card,Shipped,9.99,9.99
+1191,6/13/2025,Noah Farouk,36,Male,South,Phone Case,Electronics,1,9.99,0.1,9.1,Paypal,Returned,9.99,8.991
+1058,1/14/2025,James Yousuf,23,Male,North,Yoga Mat,Sports & Fitness,2,22,0,4.57,Debit Card,Shipped,44,44
+1318,6/21/2025,Olivia Ali,74,Female,West,Backpack,"Home, Office & Lifestyle",2,45,0.15,3.96,Debit Card,Delivered,90,76.5
+1144,1/15/2025,Chen Ahmed,60,Male,North,Yoga Mat,Sports & Fitness,4,22,0.1,4.9,Paypal,Delivered,88,79.2
+1190,6/21/2025,Maria Davis,69,Female,North,Wireless Mouse,Electronics,1,15.99,0.2,10.66,Credit Card,Delivered,15.99,12.792
+1173,5/21/2025,Noah Hassan,46,Male,North,Bluetooth Speaker,Electronics,1,34.5,0,4.77,Paypal,Shipped,34.5,34.5
+1223,6/17/2025,Layla Rodriguez,56,Female,South,Running Shoes,Sports & Fitness,1,59.99,0.15,3.77,Debit Card,Cancelled,59.99,50.9915
+1158,5/27/2025,Tom Li,59,Male,South,USB Charger,Electronics,2,11.2,0,7.25,Credit Card,Delivered,22.4,22.4
+1027,2/3/2025,Yusuf Garcia,37,Male,South,Wireless Mouse,Electronics,3,15.99,0.2,7.26,Debit Card,Delivered,47.97,38.376
+1116,6/11/2025,Tom Sharma,56,Male,South,Phone Case,Electronics,1,9.99,0.2,4.3,Debit Card,Delivered,9.99,7.992
+1209,1/10/2025,Tom Yousuf,48,Male,East,Backpack,"Home, Office & Lifestyle",4,45,0.1,11.27,Paypal,Shipped,180,162
+1283,3/2/2025,Tom Garcia,59,Male,North,Running Shoes,Sports & Fitness,3,59.99,0.15,11.12,Credit Card,Returned,179.97,152.9745
+1009,1/13/2025,Wei Davis,32,Male,North,Coffee Mug,"Home, Office & Lifestyle",1,8.25,0.2,10.23,Paypal,Shipped,8.25,6.6
+1139,1/31/2025,Fatima Lee,18,Female,East,Backpack,"Home, Office & Lifestyle",4,45,0.1,5.32,Debit Card,Processing,180,162
+1193,6/8/2025,Linda Davis,59,Female,North,Yoga Mat,Sports & Fitness,2,22,0,5.77,Debit Card,Cancelled,44,44
+1105,4/21/2025,Priya Malik,68,Female,North,Water Bottle,Sports & Fitness,1,12.5,0,8.54,Debit Card,Shipped,12.5,12.5
+1152,1/28/2025,Grace Ali,23,Female,West,Backpack,"Home, Office & Lifestyle",1,45,0.2,9.68,Paypal,Cancelled,45,36
+1032,1/30/2025,Aisha Davis,67,Female,East,Running Shoes,Sports & Fitness,3,59.99,0,11.86,Paypal,Shipped,179.97,179.97
+1267,5/31/2025,Layla Taylor,48,Female,South,Phone Case,Electronics,2,9.99,0.15,9.35,Credit Card,Delivered,19.98,16.983
+1129,5/15/2025,Fatima Khan,46,Female,North,Backpack,"Home, Office & Lifestyle",3,45,0,7.81,Paypal,Processing,135,135
+1275,4/12/2025,Sara Khan,69,Female,West,Coffee Mug,"Home, Office & Lifestyle",1,8.25,0,5.75,Credit Card,Cancelled,8.25,8.25
+1083,4/1/2025,Olivia Lee,75,Female,South,Desk Lamp,"Home, Office & Lifestyle",2,18.75,0.1,9.26,Paypal,Shipped,37.5,33.75
+1137,2/2/2025,James Li,23,Male,North,Notebook Set,"Home, Office & Lifestyle",5,6.5,0,6.61,Paypal,Processing,32.5,32.5
+1288,2/11/2025,Omar Ahmed,37,Male,East,Coffee Mug,"Home, Office & Lifestyle",3,8.25,0,6.79,Credit Card,Delivered,24.75,24.75
+1029,1/27/2025,Aisha Rodriguez,18,Female,East,USB Charger,Electronics,2,11.2,0.15,6.95,Paypal,Cancelled,22.4,19.04
+1028,5/22/2025,Wei Yousuf,52,Male,South,Wireless Mouse,Electronics,3,15.99,0.1,6.12,Credit Card,Delivered,47.97,43.173
+1075,1/10/2025,Tom Clark,52,Male,South,USB Charger,Electronics,1,11.2,0.05,6.32,Paypal,Returned,11.2,10.64
+1196,6/25/2025,Chen Lee,58,Male,East,Desk Lamp,"Home, Office & Lifestyle",1,18.75,0,3.78,Paypal,Shipped,18.75,18.75
+1013,1/18/2025,Ahmed Khan,21,Male,North,Throw Pillow,"Home, Office & Lifestyle",5,14,0.2,7.54,Paypal,Delivered,70,56
+1055,6/27/2025,James Khan,74,Male,South,Desk Lamp,"Home, Office & Lifestyle",2,18.75,0.05,6.64,Debit Card,Shipped,37.5,35.625
+1268,6/4/2025,Chen Clark,45,Male,East,Notebook Set,"Home, Office & Lifestyle",1,6.5,0,8.31,Paypal,Delivered,6.5,6.5
+1007,3/10/2025,Maria Brown,46,Female,North,Wireless Mouse,Electronics,3,15.99,0.05,8.32,Paypal,Returned,47.97,45.5715
+1217,4/28/2025,Tom Wang,27,Male,North,Bluetooth Speaker,Electronics,3,34.5,0,9.5,Paypal,Cancelled,103.5,103.5
+1147,6/10/2025,Chen Sharma,53,Male,North,Notebook Set,"Home, Office & Lifestyle",1,6.5,0.05,6.07,Debit Card,Shipped,6.5,6.175
+1274,4/20/2025,Grace Li,50,Female,North,Wireless Mouse,Electronics,3,15.99,0,8.81,Debit Card,Cancelled,47.97,47.97
+1214,4/20/2025,Fatima Yousuf,34,Female,West,Yoga Mat,Sports & Fitness,3,22,0.1,8.85,Paypal,Processing,66,59.4
+1246,4/17/2025,Layla Sharma,73,Female,South,Water Bottle,Sports & Fitness,3,12.5,0,4.16,Debit Card,Delivered,37.5,37.5
+1181,6/19/2025,Olivia Wilson,62,Female,North,Water Bottle,Sports & Fitness,2,12.5,0,5.84,Paypal,Delivered,25,25
+1060,5/25/2025,Chen Garcia,55,Male,East,Yoga Mat,Sports & Fitness,1,22,0.2,4.51,Credit Card,Returned,22,17.6
+1166,4/12/2025,Maria Ahmed,26,Female,West,Running Shoes,Sports & Fitness,1,59.99,0,11.68,Paypal,Returned,59.99,59.99
+1278,1/21/2025,Grace Wang,48,Female,West,Water Bottle,Sports & Fitness,5,12.5,0,11.15,Credit Card,Delivered,62.5,62.5
+1258,4/12/2025,Omar Garcia,28,Male,West,Yoga Mat,Sports & Fitness,4,22,0.2,7.13,Credit Card,Delivered,88,70.4
+1092,5/22/2025,David Brown,66,Male,South,Yoga Mat,Sports & Fitness,2,22,0,10.89,Paypal,Delivered,44,44
+1068,5/7/2025,Linda Ahmed,21,Female,East,Phone Case,Electronics,4,9.99,0.15,8.18,Credit Card,Cancelled,39.96,33.966
+1177,2/15/2025,Ahmed Yousuf,36,Male,North,Yoga Mat,Sports & Fitness,3,22,0,9.69,Credit Card,Delivered,66,66
+1149,5/24/2025,Aisha Clark,41,Female,North,Yoga Mat,Sports & Fitness,3,22,0.1,4.54,Debit Card,Delivered,66,59.4
+1108,1/6/2025,Tom Sharma,56,Male,East,Desk Lamp,"Home, Office & Lifestyle",1,18.75,0.05,8.75,Paypal,Cancelled,18.75,17.8125
+1103,2/6/2025,Fatima Li,21,Female,South,Notebook Set,"Home, Office & Lifestyle",4,6.5,0,8.01,Credit Card,Delivered,26,26
+1112,4/24/2025,David Li,58,Male,South,Coffee Mug,"Home, Office & Lifestyle",1,8.25,0.05,8.53,Debit Card,Processing,8.25,7.8375
+1319,4/26/2025,Olivia Taylor,45,Female,North,Coffee Mug,"Home, Office & Lifestyle",3,8.25,0.15,5.38,Credit Card,Processing,24.75,21.0375
+1161,6/30/2025,Sara Ali,75,Female,West,Throw Pillow,"Home, Office & Lifestyle",2,14,0.15,8.26,Debit Card,Delivered,28,23.8
+1281,4/17/2025,Olivia Wang,62,Female,South,Backpack,"Home, Office & Lifestyle",4,45,0,8.45,Paypal,Shipped,180,180
+1154,3/28/2025,Linda Li,40,Female,North,Bluetooth Speaker,Electronics,4,34.5,0,5.19,Debit Card,Processing,138,138
+1263,5/25/2025,Aisha Wang,54,Female,South,Wireless Mouse,Electronics,3,15.99,0.1,10.61,Paypal,Returned,47.97,43.173
+1212,3/21/2025,Ahmed Johnson,74,Male,East,Throw Pillow,"Home, Office & Lifestyle",1,14,0,7.93,Credit Card,Processing,14,14
+1071,1/30/2025,Layla Sharma,73,Female,West,Bluetooth Speaker,Electronics,2,34.5,0.2,4.81,Credit Card,Shipped,69,55.2
+1232,1/25/2025,Emma Sharma,67,Female,North,USB Charger,Electronics,1,11.2,0.15,4.63,Paypal,Delivered,11.2,9.52
+1151,5/10/2025,Sara Lee,44,Female,West,Wireless Mouse,Electronics,1,15.99,0.05,6.5,Paypal,Delivered,15.99,15.1905
+1176,2/16/2025,Ahmed Lee,27,Male,South,Wireless Mouse,Electronics,2,15.99,0.05,11.08,Credit Card,Delivered,31.98,30.381
+1204,3/5/2025,Sara Lee,44,Female,South,Bluetooth Speaker,Electronics,3,34.5,0,5.16,Credit Card,Shipped,103.5,103.5
+1141,2/10/2025,Ahmed Yousuf,36,Male,South,Backpack,"Home, Office & Lifestyle",2,45,0,7.82,Paypal,Processing,90,90
+1128,5/12/2025,Grace Taylor,24,Female,North,Backpack,"Home, Office & Lifestyle",1,45,0.15,5.98,Paypal,Processing,45,38.25
+1215,1/2/2025,Olivia Rodriguez,24,Female,South,Coffee Mug,"Home, Office & Lifestyle",4,8.25,0.05,9.89,Paypal,Delivered,33,31.35
+1197,3/18/2025,Chen Li,72,Male,South,Throw Pillow,"Home, Office & Lifestyle",4,14,0,10.59,Paypal,Delivered,56,56
+1165,3/15/2025,Priya Lee,45,Female,East,Coffee Mug,"Home, Office & Lifestyle",2,8.25,0.2,11.22,Debit Card,Shipped,16.5,13.2
+1308,5/27/2025,James Smith,73,Male,South,USB Charger,Electronics,1,11.2,0,4.27,Credit Card,Delivered,11.2,11.2
+1199,4/26/2025,David Smith,38,Male,West,USB Charger,Electronics,2,11.2,0.2,11.5,Paypal,Delivered,22.4,17.92
+1054,3/3/2025,Yusuf Yousuf,69,Female,South,Wireless Mouse,Electronics,2,15.99,0,9.94,Credit Card,Delivered,31.98,31.98
+1066,1/24/2025,Priya Wilson,60,Female,South,Notebook Set,"Home, Office & Lifestyle",2,6.5,0,3.68,Paypal,Shipped,13,13
+1089,6/21/2025,Layla Li,63,Female,South,Running Shoes,Sports & Fitness,5,59.99,0,9.81,Paypal,Delivered,299.95,299.95
+1297,2/19/2025,Chen Wang,27,Male,North,Notebook Set,"Home, Office & Lifestyle",1,6.5,0.05,6.74,Credit Card,Cancelled,6.5,6.175
+1091,2/18/2025,Layla Hassan,64,Female,North,Wireless Mouse,Electronics,4,15.99,0,5.3,Credit Card,Delivered,63.96,63.96
+1261,3/13/2025,James Wilson,75,Male,North,Notebook Set,"Home, Office & Lifestyle",2,6.5,0,10.02,Credit Card,Delivered,13,13
+1248,4/5/2025,Sara Wang,60,Female,North,Desk Lamp,"Home, Office & Lifestyle",2,18.75,0.05,10.1,Credit Card,Returned,37.5,35.625
+1300,1/2/2025,Priya Clark,36,Female,North,Running Shoes,Sports & Fitness,5,59.99,0.05,6.67,Paypal,Delivered,299.95,284.9525
+1222,1/30/2025,Grace Yousuf,65,Female,East,Backpack,"Home, Office & Lifestyle",1,45,0.1,6.62,Paypal,Cancelled,45,40.5
+1284,2/28/2025,Yusuf Lee,48,Male,South,Throw Pillow,"Home, Office & Lifestyle",1,14,0.2,7.27,Debit Card,Returned,14,11.2
+1025,5/22/2025,Sara Taylor,27,Female,East,USB Charger,Electronics,1,11.2,0.15,4.64,Credit Card,Returned,11.2,9.52
+1272,6/7/2025,Ahmed Yousuf,36,Male,West,Bluetooth Speaker,Electronics,3,34.5,0.1,9.06,Credit Card,Delivered,103.5,93.15
+1003,2/25/2025,Fatima Sharma,72,Female,East,Phone Case,Electronics,2,9.99,0,4.32,Credit Card,Delivered,19.98,19.98
+1256,1/16/2025,Omar Johnson,24,Male,South,Yoga Mat,Sports & Fitness,1,22,0,6.9,Paypal,Delivered,22,22
+1069,1/14/2025,Tom Davis,31,Male,South,Wireless Mouse,Electronics,5,15.99,0.05,9.93,Paypal,Delivered,79.95,75.9525
+1259,3/17/2025,Omar Li,39,Male,West,Wireless Mouse,Electronics,2,15.99,0.15,7.57,Credit Card,Cancelled,31.98,27.183
+1235,2/25/2025,Priya Taylor,43,Female,North,USB Charger,Electronics,5,11.2,0.2,4.55,Credit Card,Delivered,56,44.8
+1231,6/17/2025,Wei Ali,61,Male,East,Yoga Mat,Sports & Fitness,2,22,0,9.15,Debit Card,Delivered,44,44
+1064,2/8/2025,Priya Johnson,40,Female,East,Backpack,"Home, Office & Lifestyle",2,45,0.15,4.91,Paypal,Delivered,90,76.5
+1302,5/14/2025,Maria Ali,19,Female,North,Desk Lamp,"Home, Office & Lifestyle",5,18.75,0.15,11.05,Paypal,Delivered,93.75,79.6875
+1024,3/9/2025,Chen Johnson,30,Male,South,Bluetooth Speaker,Electronics,2,34.5,0.1,10.97,Debit Card,Cancelled,69,62.1
