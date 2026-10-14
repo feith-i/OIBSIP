@@ -81,7 +81,7 @@ Answer one practical question: **if you were launching a new Android app, what d
 
 ![Sentiment by category](images/review_sentiment_cat.png)
 
-![Free vs. Paid Apps](image/free_vs_paid.png)
+![Free vs. Paid Apps](images/free_vs_paid.png)
 
 ## How to Run
 
