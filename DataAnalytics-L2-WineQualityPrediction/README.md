@@ -60,10 +60,10 @@ UCI Wine Quality dataset — 1,599 samples, 11 physicochemical features, and a `
 - `winequality-red.csv` — UCI Wine Quality dataset (red wine), 1,599 samples, 11 physicochemical features plus `quality` score
 
 ## Images
-- `dist_physiochemical_features.png` — distribution plots for all 11 chemical features
-- `Random Forest_matrix.png` — confusion matrix for the Random Forest model
-- `SGD Classifier_matrix.png` — confusion matrix for the SGD Classifier model
-- `Support Vector Classifier_matrix.png` — confusion matrix for the Support Vector Classifier model
+![Physicochemical](dist_physiochemical_features.png) — distribution plots for all 11 chemical features
+![RF](Random_Forest_matrix.png) — confusion matrix for the Random Forest model
+![SGD](SGD_Classifier_matrix.png) — confusion matrix for the SGD Classifier model
+![SVC](Support_Vector_Classifier_matrix.png) — confusion matrix for the Support Vector Classifier model
 
 ## Files
 - `wine_quality_prediction.ipynb` — full notebook with EDA, modeling, evaluation, and conclusions
