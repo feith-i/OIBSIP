@@ -83,21 +83,9 @@ Answer one practical question: **if you were launching a new Android app, what d
 
 ![Free vs. Paid Apps](images/free_vs_paid.png)
 
-## How to Run
+## Demo Video 
 
-```bash
-# 1. Clone the repository
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
-
-# 2. Install dependencies
-pip install pandas numpy matplotlib seaborn plotly textblob jupyter
-
-# 3. Place the two CSV files in the project folder, then launch the notebook
-jupyter notebook "Google Play Store Analysis.ipynb"
-```
-
-Run all cells from top to bottom (cells depend on earlier ones).
+[Video Link](https://drive.google.com/file/d/19xbK161pRE_FAcmtXm3oxgLax0Ey6OmY/view?usp=drivesdk)
 
 ## Repository Structure
 
