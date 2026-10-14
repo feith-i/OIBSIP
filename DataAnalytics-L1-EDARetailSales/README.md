@@ -42,7 +42,7 @@ Python, pandas, matplotlib, seaborn, Jupyter Notebook
 
 
 ## Demo Video
-[Watch the walkthrough](PASTE-LINK-HERE)
+[Watch the walkthrough](https://drive.google.com/file/d/1pDZgsukSxXyUCKRDcCj35eczZx9XVVPC/view?usp=drivesdk)
 
 ## Files
 - `EDA_on_Retail_Sales_Data.ipynb`: full analysis
