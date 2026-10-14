@@ -50,13 +50,22 @@ The dataset is strongly imbalanced toward negative sentiment, which can inflate 
 This type of model could power an airline customer service triage system — automatically flagging negative tweets for urgent response, routing neutral inquiries to general support, and surfacing positive feedback for marketing or employee recognition.
 
 ## Charts
+
+
 ![Word Cloud](images/word_cloud.png)
+
+
 
 ![Naive Bayes Matrix](images/Naive_Bayes_matrix.png)
 
+
+
 ![Logistic Regression Matrix](images/Logistic_Regression_matrix.png)
 
+
+
 ![Sentiment Distribution](images/sentiment_distribution.png)
+
 
 ## 🎥 Demo Video
 [Link to walkthrough video](#)
