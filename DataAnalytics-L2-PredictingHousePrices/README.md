@@ -48,11 +48,11 @@ Features: `Id`, `Area`, `Bedrooms`, `Bathrooms`, `Floors`, `YearBuilt`, `Locatio
 |---|---|
 | 
 
-![Boxplot](boxplot_house_prices.png)
+![Boxplot](images/boxplot_house_prices.png)
 
  | 
 
-![Heatmap](heatmap_house_price_features.png)
+![Heatmap](images/heatmap_house_price_features.png)
 
  |
 
@@ -60,11 +60,11 @@ Features: `Id`, `Area`, `Bedrooms`, `Bathrooms`, `Floors`, `YearBuilt`, `Locatio
 |---|---|
 | 
 
-![Actual vs Predicted](actual_vs_predicted.png)
+![Actual vs Predicted](images/actual_vs_predicted.png)
 
  | 
 
-![Residual Plot](residual_plot.png)
+![Residual Plot](images/residual_plot.png)
 
  |
 
