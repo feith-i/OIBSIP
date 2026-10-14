@@ -74,14 +74,14 @@ Answer one practical question: **if you were launching a new Android app, what d
 
 ## Visuals
 
-![Size vs. Instals](images/app_size_vs_num_installs.png.png)
+![Size vs. Installs](images/app_size_vs_num_installs.png.png)
 
 
 ![Rating distribution](images/avg_rating_cat.png.png)
 
 ![Sentiment by category](images/review_sentiment_cat.png.png)
 
-![Free v. Paid Apps](image/free_vs_paid.png)
+![Free vs. Paid Apps](image/free_vs_paid.png)
 
 ## How to Run
 
@@ -105,7 +105,7 @@ Run all cells from top to bottom (cells depend on earlier ones).
 ├── Google Play Store Analysis.ipynb
 ├── googleplaystore.csv
 ├── googleplaystore_user_reviews.csv
-├── images/            # screenshots of key charts (optional)
+├── images/            # screenshots of key charts
 └── README.md
 ```
 
