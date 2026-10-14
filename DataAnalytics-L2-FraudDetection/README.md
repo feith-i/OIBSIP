@@ -60,16 +60,16 @@ Both models independently ranked the same handful of anonymized features (notabl
 ## Images
 
 **Transaction Hour Distribution — Fraud vs. Non-Fraud**
-![Transaction Hour Distribution](transaction_hour_dist.png)
+![Transaction Hour Distribution](images/transaction_hour_dist.png)
 
 **Random Forest — Top Feature Importances**
-![Random Forest Top Features](random_top_features.png)
+![Random Forest Top Features](images/random_top_features.png)
 
 **ROC Curve — Logistic Regression vs. Random Forest**
-![Logistic Regression vs Random Forest ROC Curve](logistic_vs_random.png)
+![Logistic Regression vs Random Forest ROC Curve](images/logistic_vs_random.png)
 
 **Logistic Regression — Top Coefficients**
-![Logistic Regression Top Coefficients](logistic_top_coeff.png)
+![Logistic Regression Top Coefficients](images/logistic_top_coeff.png)
 
 ## Files
 - `Fraud_Detention.ipynb` — full notebook with code, visualizations, and markdown discussion
