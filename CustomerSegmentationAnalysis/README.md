@@ -87,6 +87,8 @@ K-Means (`random_state=42`, `n_init=10`) was fitted on the scaled RFM data, and 
 | **New / Low-Engagement** | Onboarding and nurture campaigns: welcome series, product education, second-purchase discounts. As the largest segment, even a small lift in purchase frequency has the biggest total revenue impact. |
 | **At-Risk / Churned** | Win-back campaigns (reactivation offers, "we miss you" messaging) before these customers are lost for good. |
 
+## Walk Through Video 
+[Link here]
 
 ## How to Run
 
