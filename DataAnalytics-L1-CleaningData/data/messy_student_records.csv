@@ -1,0 +1,1556 @@
+Student_ID,Student_Name,Age,Gender,Department,Phone,Email,Enrollment_Date,GPA,Attendance_%,Tuition_Fees,Status
+STU-0481,  Grace Williams  ,34,Male,Economics,(080)32768466,grace.williams405@example.com,22/03/2025,2.41,64.7,824691.64,graduated
+STU-0002,Sarah James,32,FEMALE,Computer Science,(080)47518305,,2022-10-19,3.77,81.2,826197.64,Actve
+STU-0003,SARAH ADEBAYO,38,FEMALE,MASS COMM.,08092157763, sarah.adebayo208@example.com ,10-31-2023,3.18,89.8,919574.89,suspended
+STU-0004,   Chiamaka   Garba   ,30,MALE,business admin,,chiamaka.garba204@example.com,,3.3,86.3,787034.87,Active
+STU-0005,Chiamaka Adebayo,34,Femle,computer science,,chiamaka.adebayo574@example.com,17/08/2020,2.36,85.5,789833.7,ACTIVE
+STU-0006,David Okafor,45,male,Bio chemistry,08037646282,david.okafor11@example.com,03/02/2024,3.73,90.2,752199.89,Active
+STU-0007,Mary Adebayo,19,F,BUSINESS ADMIN,(080)83687058,,2021-03-22,3.32,72.7,940851.36,active
+STU-0008,Ibrahim Adeyemi,28,male,COMPUTER SCIENCE,080-80759444, ibrahim.adeyemi696@example.com ,2023-12-22,2.51,83.8,1077989.79,Suspended
+STU-0009, Ibrahim   Brown ,40,mle,  BIOCHEMISTRY  ,+234 8069086585,ibrahim.brown117@example.com,"Dec 07, 2020",2.96,83.2,968182.71,GRADUATED
+STU-0010,SAMUEL SMITH,43,M,business admin,+234 8025467546,samuel.smith864@example.com,"Mar 01, 2021",2.44,64.1,1130856.47,ACTIVE
+STU-0011,Amina Adeyemi,17,Female,MASS COMM.,080-81242115,amina.adeyemi205@example.com,19/04/2022,3.12,0.0,-1380559.22,active
+STU-0012,Amina Johnson,36,mle,computer science,080-54065714,amina.johnson842@example.com,14/04/2023,2.41,92.8,823371.51,Actve
+STU-0013, Mary   Bello ,41,MALE,ECONOMICS,(080)16453612,mary.bello721@example.com,"Aug 01, 2021",2.88,65.5,928972.23,Active
+STU-0014,Samuel Garba,39,Male,ECONOMICS,(080)39206711,samuel.garba309@example.com,2023-06-17,,91.7,850011.7,On Leave
+STU-0015,Fatima Bello,40,male,mass communication,234929889096,,2022-10-06,3.05,76.8,596423.28,on leave
+STU-0016, Daniel   Smith ,39,Female,ECONOMICS,+234 8092169095,daniel.smith682@example.com,,3.39,0.0,919900.77,GRADUATED
+STU-0017, Amina   Usman ,22,Female,BIOCHEMISTRY,+234 8063495624,AMINA.USMAN609@EXAMPLE.COM,12-31-2023,4.13,69.8,919377.8,graduated
+STU-0018,MICHAEL THOMAS,21,FEMALE,computer science,,MICHAEL.THOMAS634@EXAMPLE.COM,07/06/2023,3.43,69.8,667441.49,on leave
+STU-0281,David Usman,67,Femle,mass communication,,david.usman563@example.com,29/03/2021,,80.8,998667.29,active
+STU-0708,Sarah Okafor,45,FEMALE,ECONOMICS,080-80701105,sarah.okafor704@example.com,24/12/2020,9.0,64.3,1171168.73,Graduated
+STU-0021, Peter   Garba ,41,mle,ECONOMICS,234932895460,peter.garba401@example.com,2024-05-27,3.89,87.6,960082.96,suspended
+STU-0022,Daniel Smith,23,F,Economics,08051401920, daniel.smith732@example.com ,12-04-2025,3.06,64.3,787745.67,Active
+STU-0023,John Bello,33,femal,ECONOMICS,080-15997669,john.bello32@example.com,2023-06-29,3.65,,906188.03,ACTIVE
+STU-0024,Blessing Okafor,42,MALE,Mass Communication ,08084616556,blessing.okafor790@example.com,"Feb 23, 2025",2.63,77.6,851812.14,Suspended
+STU-0025,John Adebayo,41,Female,COMPUTER SCIENCE,(080)87537493,john.adebayo840@example,24/09/2024,1.97,73.4,612275.76,Active
+STU-0026,Samuel Brown,31,femal,computer science,08023869053,samuel.brown379@example.com,2022-07-12,3.63,91.5,851625.05,Graduated
+STU-0027,Fatima Johnson,25,female,Mass Communication ,080-74727609,fatima.johnson839@example.com,03/12/2021,2.95,90.2,1115586.41,Active
+STU-0028,Emeka Obi,31,Male,BUSINESS ADMIN,,emeka.obi425@example.com,03/07/2020,2.35,72.4,889821.15,graduated
+STU-0029,Sarah Johnson,19,Female,Business Admin,+234 8054095681,sarah.johnson284@example.com,,2.52,90.1,876783.16,GRADUATED
+STU-0030,Ibrahim Brown,24,F,economics,234964869000,ibrahim.brown740@example,12-14-2024,3.0,57.5,854039.69,ACTIVE
+STU-0031,Blessing Adeyemi,32,female,economics,08026453584,blessing.adeyemi694@example.com,11-15-2023,2.86,75.3,832461.43,on leave
+STU-0032,Samuel Bello,24,FEMALE,business admin,, samuel.bello36@example.com ,22/11/2025,2.5,78.8,1107745.45,graduated
+STU-0033,John Ibrahim,33,F,COMPUTER SCIENCE,(080)43681478,john.ibrahim206@example.com,12/02/2023,2.53,89.0,1278424.54,graduated
+STU-0034,Emeka Garba,36,female,BUSINESS ADMIN,080-90553637,EMEKA.GARBA401@EXAMPLE.COM,08/04/2024,,81.7,861527.98,suspended
+STU-0035,EMEKA ADEBAYO,30,Male,ECONOMICS,08067953838,emeka.adebayo380@example,05-29-2021,2.99,78.6,1159770.9,GRADUATED
+STU-0036,Esther Okafor,39,female,Mass Communication,080-30772032,esther.okafor821@example.com,2024-06-25,2.88,75.1,771325.07,Active
+STU-0037,esther eze,22,female,Economics,234827466147,esther.eze155@example.com,2022-05-26,,71.1,625511.93,Actve
+STU-0038,Michael Obi,41,male,Economics,080-30702463,michael.obi624@example.com,09-11-2024,3.01,79.2,1426361.72,ACTIVE
+STU-0039,Blessing Usman,27,femal,Economics,08075723819,blessing.usman15@example.com,"Jun 16, 2024",2.98,100.2,1053796.84,Graduated
+STU-0040,daniel ibrahim,12,femal,ECONOMICS,+234 8023628796,daniel.ibrahim529@example.com,2020-10-30,2.82,65.7,902116.89,active
+STU-0041,IBRAHIM BROWN,31,Femle,Mass Communication ,08099221186,ibrahim.brown157@example.com,"Feb 08, 2021",3.43,92.3,720739.57,Active
+STU-0042, Emeka   Bello ,27,FEMALE,MASS COMM.,080-65576233,emeka.bello782@example.com,24/02/2024,3.07,84.4,924409.12,suspended
+STU-0043,Mary Smith,38,FEMALE,mass communication,+234 8054706771,mary.smith335@example.com,03-15-2025,3.25,87.4,1247590.95,Actve
+STU-0044,Blessing Brown,25,Female,MASS COMM.,,blessing.brown766@example.com,28/10/2025,3.06,103.1,894970.53,On Leave
+STU-0045,Mary Obi,30,female,Biochemistry,+234 8031922721,mary.obi113@example.com,"Jun 30, 2020",2.33,83.4,890232.94,Graduated
+STU-0046,  Samuel Musa  ,30,MALE,Computer Science,(080)32769801,samuel.musa740@example.com,2020-02-13,2.99,89.3,863221.38,on leave
+STU-0047,chiamaka eze,45,FEMALE,Computer Science,+234 8018813750, chiamaka.eze314@example.com ,23/02/2025,3.04,72.7,661757.19,Graduated
+STU-0048, Sarah   Bello ,37,F,BUSINESS ADMIN,(080)91265474,sarah.bello760@example.com,2020-09-15,2.81,75.8,1140989.12,on leave
+STU-0049,Chiamaka Johnson,34,male,mass communication,(080)30009974,chiamaka.johnson650@example.com,13/08/2020,2.82,75.8,1029603.02,ACTIVE
+STU-0050,Amina Usman,18,F,Bio chemistry,08024098013,,11/01/2023,2.3,68.4,1324626.21,Graduated
+STU-0051,null,44,male,economics,(080)43745469,,"Jun 07, 2024",,,1144858.35,graduated
+STU-0052,Sarah Smith,31,mle,Biochemistry,080-77773092,sarah.smith740@example.com,"Jun 14, 2021",2.37,0.0,822170.58,Active
+STU-0053,Grace Johnson,25,Female,Business Admin,080-92638553,grace.johnson519@example.com,,3.0,78.9,864929.69,Active
+STU-0054,DANIEL MUSA,19,M,economics,234978788048,daniel.musa95@example.com,2022-08-19,2.32,61.3,646255.05,Active
+STU-0055,Esther Musa,32,Female,Mass Communication ,08057312380,ESTHER.MUSA205@EXAMPLE.COM,12-03-2023,2.82,71.5,1060478.79,GRADUATED
+STU-0056,Amina Adebayo,36,MALE,Business Admin,080-68900975,amina.adebayo515@example.com,2025-05-15,2.4,57.5,-790085.31,Actve
+STU-0057, Samuel   Bello ,41,FEMALE,Economics,(080)88815436,samuel.bello696@example.com,12-25-2020,3.5,87.6,796590.23,ACTIVE
+STU-0058,Amina Ibrahim,32,M,BIOCHEMISTRY,234848022687,amina.ibrahim581@example.com,2024-12-09,3.23,,904613.28,graduated
+STU-0059,Sarah Usman,23,MALE,economics,08057316639,sarah.usman345@example.com,,2.63,67.0,-1352621.11,Suspended
+STU-0060,Chiamaka Bello,43,femal,ComputerScience,080-99104154,null,"Aug 06, 2021",1.22,68.0,943406.61,active
+STU-0061,michael ibrahim,37,F,computer science,234850156836,michael.ibrahim511@example.com,01/01/2021,2.83,60.9,865201.65,GRADUATED
+STU-0062,Chiamaka Adeyemi,44,Female,business admin,08017182767,CHIAMAKA.ADEYEMI539@EXAMPLE.COM,2022-11-14,3.7,115.9,1109726.08,on leave
+STU-0063,Grace Obi,36,M,COMPUTER SCIENCE,080-39733443,grace.obi985@example.com,2021-01-14,,68.1,720687.97,suspended
+STU-0064,Peter Adebayo,43,female,Economics,234905438755,PETER.ADEBAYO960@EXAMPLE.COM,"May 25, 2022",2.38,130.0,1034753.2,Active
+STU-0065,Samuel Ibrahim,40,female,Bio chemistry,,samuel.ibrahim80@example,12-31-2025,2.14,61.0,998656.21,On Leave
+STU-0066,Grace Smith,21,female,BUSINESS ADMIN,(080)68522430,grace.smith393@example.com,"Jan 05, 2022",3.79,75.8,759961.03,suspended
+STU-0067,fatima garba,37,femal,BUSINESS ADMIN,+234 8044017153,fatima.garba924@example.com,09/03/2020,3.38,91.5,765643.61,GRADUATED
+STU-0068,Peter Musa,23,Femle,computer science,08042752461,peter.musa111@example.com,,2.53,79.2,1201867.37,ACTIVE
+STU-0069,Emeka Garba,19,MALE,BIOCHEMISTRY,+234 8049716320,emeka.garba805@example.com,"Sep 04, 2024",2.28,72.8,732642.84,suspended
+STU-0070,Samuel Williams,23,Male,Biochemistry,234834291267,SAMUEL.WILLIAMS435@EXAMPLE.COM,06-06-2021,2.85,98.1,1254960.93,Actve
+STU-0071,Emeka Thomas,37,mle,Business Administration,+234 8087144983,emeka.thomas132@example.com,01-18-2021,3.92,66.4,992156.02,GRADUATED
+STU-0072,Emeka Musa,40,F,business admin,+234 8066529615,emeka.musa542@example.com,"Sep 13, 2021",3.15,100.2,1219913.23,Graduated
+STU-0073,John Garba,40,FEMALE,economics,080-32305454,john.garba830@example.com,03-27-2020,2.97,75.4,709417.71,On Leave
+STU-0074,john obi,31,F,business admin,080-73790816,john.obi176@example.com,11-12-2020,,,745112.04,active
+STU-0075,Fatima Thomas,37,MALE,COMPUTER SCIENCE,08014636774,,01-16-2025,2.88,74.3,926555.3,Graduated
+STU-0076,Emeka Usman,43,femal,Mass Communication ,(080)93495863,emeka.usman117@example.com,2022-09-22,2.58,78.3,849449.19,active
+STU-0712,Chiamaka Thomas,38,MALE,business admin,,chiamaka.thomas570@example.com,10-27-2020,3.67,89.3,858446.72,active
+STU-0078,Blessing Usman,33,mle,Biochemistry,,blessing.usman528@example.com,2025-07-24,2.82,84.1,1072007.49,Graduated
+STU-0079,Samuel Smith,29,femal,economics,080-36715804,samuel.smith865@example.com,05-27-2024,2.74,81.5,785734.17,Active
+STU-0080,Peter Bello,23,male,economics,(080)91229832,peter.bello964@example.com,,2.77,111.5,863069.89,active
+STU-0081,SARAH OKAFOR,28,femal,business admin,,sarah.okafor279@example.com,,2.07,70.2,1131140.7,graduated
+STU-0082,John Ibrahim,43,MALE,Business Administration,+234 8026882194,,12-18-2024,4.24,0.0,1046397.27,Active
+STU-0083,Sarah Garba,24,Female,ECONOMICS,+234 8044108635,sarah.garba316@example.com,11-02-2021,2.53,101.6,809142.07,Suspended
+STU-0901, John   Smith ,17,female,mass communication,+234 8022208020,john.smith229@example.com,07-01-2022,2.54,79.5,918738.06,suspended
+STU-0085,Michael Usman,29,Femle,BUSINESS ADMIN,080-57775448,michael.usman698@example.com,01-12-2023,3.39,84.4,678784.94,ACTIVE
+STU-0086,None,38,female,Bio chemistry,080-54241729, chiamaka.garba379@example.com ,05-19-2020,2.99,96.4,752673.93,On Leave
+STU-0087,Emeka Eze,18,male,MASS COMM.,(080)84652543,emeka.eze869@example.com,2024-09-22,1.99,90.8,1054690.35,GRADUATED
+STU-0088,Esther Bello,19,femal,Computer Science,,esther.bello435@example.com,2025-10-15,2.15,72.5,969636.61,graduated
+STU-0089,JOHN SMITH,35,male,mass communication,080-11802076,john.smith434@example.com,2020-08-30,1.96,72.9,,Graduated
+STU-0090, Fatima   Ibrahim ,44,FEMALE,Biochemistry,234831612634,fatima.ibrahim796@example.com,"Jan 20, 2022",3.82,90.9,766670.29,Graduated
+STU-0091,Ibrahim Williams,33,Female,  ComputerScience  ,(080)66975565,ibrahim.williams646@example.com,2022-04-24,3.55,-10.0,846932.15,ACTIVE
+STU-0092, Ibrahim   Brown ,33,female,Computer Science,08022156291,,"Apr 28, 2022",2.84,86.2,1106677.23,active
+STU-0093,Esther Thomas,42,MALE,business admin,08012875910,esther.thomas727@example.com,2021-01-21,,97.2,1231383.91,suspended
+STU-0094,FATIMA OKAFOR,33,FEMALE,ComputerScience,(080)82493804,fatima.okafor556@example.com,null,3.77,64.8,,GRADUATED
+STU-0095,Mary Obi,33,Female,BIOCHEMISTRY,080-42668951,mary.obi993@example.com,05/04/2021,,91.7,799619.58,On Leave
+STU-0096,peter garba,34,Female,BUSINESS ADMIN,+234 8050702357,peter.garba676@example.com,09-11-2024,2.75,82.6,913092.28,suspended
+STU-0097, Ibrahim   Bello ,36,female,ComputerScience,234931245257,ibrahim.bello708@example.com,2020-11-12,3.42,88.1,876353.26,suspended
+STU-0098,DAVID GARBA,36,Femle,Economics,+234 8016977834,david.garba587@example.com,16/07/2025,2.83,80.6,768316.95,Graduated
+STU-0099,emeka musa,21,mle,computer science,,emeka.musa330@example.com,07-09-2023,2.5,93.6,617806.76,On Leave
+STU-0100,Fatima Garba,35,FEMALE,BIOCHEMISTRY,080-77697744,fatima.garba267@example.com,2021-08-14,2.52,84.7,1030061.9,graduated
+STU-0101,John Adebayo,44,female,BIOCHEMISTRY,08091022278, john.adebayo767@example.com ,06/06/2025,3.2,96.2,1252998.46,on leave
+STU-0102,Fatima Eze,22,femal,Mass Communication ,08032602220,fatima.eze584@example.com,2020-08-27,3.44,90.0,890514.65,graduated
+STU-0103, Mary   Garba ,39,Femle,ComputerScience,(080)72082618,N/A,2021-04-09,2.5,79.2,614435.87,  Active  
+STU-0104,david obi,24,femal,Mass Communication ,+234 8040591070,david.obi880@example.com,2020-11-15,2.19,77.6,798394.61,Actve
+STU-0105,Daniel Thomas,23,female,Computer Science,08029127580,DANIEL.THOMAS378@EXAMPLE.COM,08-16-2021,2.64,88.5,987867.87,On Leave
+STU-0106, Blessing   Okafor ,31,Female,MASS COMM.,234891371069,blessing.okafor794@example.com,08/01/2022,3.31,54.4,963422.9,On Leave
+STU-0107,Chiamaka Ibrahim,35,Male,Mass Communication,(080)46099838,chiamaka.ibrahim425@example.com,"Aug 18, 2025",4.42,48.8,1446930.42,Graduated
+STU-0108,   Sarah   Johnson   ,32,Female,  Mass Communication  ,+234 8047583673,sarah.johnson854@example.com,2020-06-15,3.29,72.2,844747.65,graduated
+STU-0109,Sarah Adeyemi,31,M,BUSINESS ADMIN,080-79683595,sarah.adeyemi175@example.com,02-06-2022,3.7,77.1,998407.77,Active
+STU-0110,Ibrahim Adeyemi,36,M,MASS COMM.,080-75061433,ibrahim.adeyemi685@example,2022-11-19,3.51,59.5,1363899.7,  ACTIVE  
+STU-0111,Mary Adebayo,27,mle,computer science,080-56791716,mary.adebayo403@example.com,2022-10-06,4.07,92.3,not available,Suspended
+STU-0112,david brown,22,Male,Computer Science,08066125490,david.brown225@example.com,04/02/2021,2.67,98.1,816591.83,active
+STU-0113,Michael Obi,32,femal,ComputerScience,+234 8079922569,MICHAEL.OBI390@EXAMPLE.COM,"Mar 16, 2024",2.59,101.7,928892.07,ACTIVE
+STU-0114, Peter   Musa ,23,MALE,COMPUTER SCIENCE,080-89580965,peter.musa705@example.com,2021-07-25,2.36,130.0,1479658.78,Graduated
+STU-0115,John Adebayo,31,F,BIOCHEMISTRY,08077205775,john.adebayo753@example.com,2022-06-03,3.42,79.6,763162.36,Graduated
+STU-0116,Michael Smith,36,MALE,MASS COMM.,08012170992,,2020-01-26,2.92,80.4,911781.43,Actve
+STU-0117,Chiamaka Bello,36,Male,NA,,chiamaka.bello603@example.com,2025-11-11,3.02,78.8,898826.9,Active
+STU-0118,David Smith,21,femal,Bio chemistry,,david.smith943@example.com,03/11/2024,,80.2,686502.73,suspended
+STU-0119,Daniel Adeyemi,27,F,ECONOMICS,080-84927168,,20/05/2021,2.68,70.2,865070.63,Suspended
+STU-0120,Ibrahim Garba,34,M,business admin,08011459395, ibrahim.garba751@example.com ,06/03/2024,2.4,74.3,846384.31,Suspended
+STU-0121,Grace Eze,22,Female,ComputerScience,+234 8092242424,grace.eze381@example.com,30/06/2020,2.8,99.4,689877.13,Suspended
+STU-0122,Daniel Smith,28,female,Biochemistry,, daniel.smith980@example.com ,10-04-2021,3.21,83.7,1015200.18,GRADUATED
+STU-0123,Esther Smith,35,femal,Business Administration,(080)25155121,esther.smith795@example.com,2022-11-10,2.37,88.6,873008.88,GRADUATED
+STU-0124,Emeka Adeyemi,39,male,MASS COMM.,08035377519,emeka.adeyemi40@example.com,2020-06-16,3.1,89.6,973922.45,Active
+STU-0125,mary ibrahim,20,Male,Business Admin,(080)27058093,mary.ibrahim746@example.com,07-27-2022,2.98,79.7,638622.08,graduated
+STU-0126,Sarah Williams,31,male,business admin,(080)31850016,sarah.williams425@example.com,21/01/2022,3.66,62.9,625207.92,ACTIVE
+STU-0127,Ibrahim Johnson,21,Male,Computer Science,+234 8097359436,ibrahim.johnson360@example.com,10-31-2021,3.39,89.2,1280949.26,on leave
+STU-0128, Blessing   Bello ,44,female,ComputerScience,+234 8037772163,blessing.bello810@example.com,25/06/2022,3.42,89.1,818282.2,Suspended
+STU-0129,Michael Bello,30,FEMALE,Bio chemistry,234964074465,michael.bello973@example.com,24/04/2021,3.13,94.8,,On Leave
+STU-0130, Amina   Musa ,42,Femle,ComputerScience,080-33884067,amina.musa722@example,30/11/2023,2.97,74.8,1382564.55,suspended
+STU-0131, Grace   James ,43,FEMALE,Mass Communication ,,grace.james150@example.com,"Jun 20, 2021",,83.5,905329.75,Active
+STU-0132,Peter Bello,37,FEMALE,BIOCHEMISTRY,,peter.bello100@example,2022-08-10,unknown,94.8,680224.63,Active
+STU-0133, David   Williams ,17,F,economics,(080)60335361, david.williams52@example.com ,"Jul 05, 2023",-1.0,83.3,621132.41,GRADUATED
+STU-0134,Emeka Ibrahim,41,femal,Business Admin,(080)32754172,emeka.ibrahim596@example,2024-01-11,3.44,88.1,1139596.16,active
+STU-0135,David Adebayo,42,M,Mass Communication,(080)20704667,david.adebayo602@example.com,2022-11-08,2.24,97.2,786116.68,Graduated
+STU-0136,samuel usman,27,Male,business admin,,samuel.usman513@example.com,2022-09-18,2.65,76.0,-703235.11,active
+STU-0137,Esther Adeyemi,45,FEMALE,BUSINESS ADMIN,080-17381808,esther.adeyemi45@example.com,02/01/2025,,78.7,1062177.51,ACTIVE
+STU-0138,  Blessing Okafor  ,40,F,economics,(080)99087082,blessing.okafor843@example.com,2021-12-11,5.5,95.5,1033817.92,graduated
+STU-0139,Chiamaka Williams,19,Female,Economics,,chiamaka.williams771@example.com,10-28-2022,3.18,88.4,1394042.76,GRADUATED
+STU-0140,Fatima Smith,20,M,ComputerScience,080-79415311,fatima.smith972@example.com,03-13-2024,2.22,91.7,1082485.89,graduated
+STU-0141, Fatima   Ibrahim ,44,MALE,Biochemistry,234981122947,fatima.ibrahim704@example.com,09-05-2021,,130.0,847848.47,on leave
+STU-0142,Amina Musa,29,mle,MASS COMM.,(080)15453273,amina.musa931@example.com,2022-11-10,3.96,76.1,1415561.46,ACTIVE
+STU-0143,Esther Obi,41,male,Mass Communication ,234971465221,esther.obi625@example.com,"Apr 22, 2024",,93.7,1430905.43,Actve
+STU-0144,Esther James,40,FEMALE,economics,234872512203,esther.james43@example.com,07-21-2020,3.93,107.5,661495.16,Suspended
+STU-0145,Grace Musa,43,M,Computer Science,,grace.musa529@example.com,2021-08-04,3.12,101.3,957185.29,suspended
+STU-0146,Mary Obi,15,Female,ECONOMICS,(080)14490973,mary.obi492@example.com,,?,98.6,1094706.17,Actve
+STU-0147,Amina Johnson,18,MALE,ECONOMICS,(080)87707943,amina.johnson547@example.com,08-27-2021,2.86,89.0,855199.26,Suspended
+STU-0148,grace brown,31,Male,Business Administration,(080)51753461,grace.brown462@example.com,12-13-2022,3.5,93.2,719900.23,Active
+STU-0149,Michael Adeyemi,37,female,computer science,08084028000,michael.adeyemi689@example.com,2020-09-11,3.27,,634577.45,on leave
+STU-0150,blessing smith,24,Female,ComputerScience,080-22812719,blessing.smith406@example.com,2022-06-20,4.8,83.7,1022241.27,Suspended
+STU-0151,Esther Eze,28,mle,MASS COMM.,(080)91108791,esther.eze36@example.com,"Jan 29, 2025",2.9,80.8,938453.45,  suspended  
+STU-0152,John Smith,43,mle,Business Admin,,john.smith103@example.com,2021-12-27,3.17,68.7,618109.41,Graduated
+STU-0153,Mary Obi,21,Female,Bio chemistry,(080)26927565,MARY.OBI86@EXAMPLE.COM,15/07/2024,3.73,88.4,1118112.07,Suspended
+STU-0154,Grace Brown,21,female,ComputerScience,234917297301, grace.brown66@example.com ,"Aug 17, 2021",3.4,88.1,982235.57,graduated
+STU-0155,Chiamaka Williams,19,MALE,Biochemistry,+234 8079597658,chiamaka.williams900@example.com,"Sep 18, 2021",3.45,81.8,-931866.21,On Leave
+STU-0156,Ibrahim Adeyemi,36,femal,Computer Science,234966070228,ibrahim.adeyemi435@example.com,2025-06-09,2.5,77.9,1446072.47,on leave
+STU-0157,Grace Bello,31,Femle,ComputerScience,, grace.bello559@example.com ,2025-12-27,3.06,85.0,1099123.8,ACTIVE
+STU-0158,Emeka James,25,Female,Economics,(080)59738195,,,2.55,73.9,917408.9,Suspended
+STU-0159,  peter ibrahim  ,37,Male,Mass Communication ,+234 8053173576,peter.ibrahim352@example.com,"Nov 27, 2021",2.25,94.4,1061497.84,suspended
+STU-0160, Esther   Okafor ,37,Femle,Mass Communication ,(080)13224600,esther.okafor280@example.com,"Aug 16, 2021",2.81,86.1,900368.09,GRADUATED
+STU-0161, Blessing   James ,45,Femle,Business Administration,234847391284,blessing.james480@example.com,,2.88,78.8,816381.51,Active
+STU-0162,Michael Garba,29,FEMALE,Computer Science,+234 8080736178,michael.garba92@example.com,12-11-2023,4.05,74.6,604128.11,active
+STU-0163,Blessing Usman,32,Female,Biochemistry,,BLESSING.USMAN205@EXAMPLE.COM,20/02/2024,2.15,85.1,1105314.11,Suspended
+STU-0164,Sarah Obi,32,FEMALE,Computer Science,(080)91936592,sarah.obi24@example.com,2021-06-15,4.06,101.5,857219.54,On Leave
+STU-0165,BLESSING BELLO,29,Femle,BUSINESS ADMIN,+234 8022991199,blessing.bello57@example.com,2020-09-09,3.19,105.9,1083432.78,on leave
+STU-0166,Emeka Adeyemi,36,F,mass communication,08092540481,emeka.adeyemi345@example.com,"Jan 25, 2022",3.73,78.7,1104947.8,GRADUATED
+STU-0167,Michael Brown,30,Femle,BIOCHEMISTRY,+234 8014999772,michael.brown246@example.com,30/10/2020,2.45,82.7,637252.75,Graduated
+STU-0168, Sarah   Williams ,45,Female,mass communication,(080)70944128,,2023-07-29,2.78,71.2,730577.34,active
+STU-0169,Blessing Adebayo,19,Male,Mass Communication ,234899502085,blessing.adebayo647@example.com,13/04/2022,3.18,98.7,601879.41,ACTIVE
+STU-0170,Samuel Ibrahim,40,Male,Mass Communication ,08025535188,samuel.ibrahim857@example.com,17/10/2023,1.74,82.2,897388.38,suspended
+STU-0171,Esther Garba,41,mle,COMPUTER SCIENCE,08041363063,esther.garba57@example.com,05-10-2022,2.89,77.2,-1056267.69,GRADUATED
+STU-0172,Fatima Ibrahim,29,FEMALE,Bio chemistry,08047807987,fatima.ibrahim574@example.com,01/05/2025,2.43,106.8,794050.91,on leave
+STU-0173, Emeka   Williams ,45,Male,BIOCHEMISTRY,+234 8080062298,emeka.williams949@example.com,"Jun 28, 2021",2.42,68.6,873565.91,On Leave
+STU-0174, John   Obi ,29,mle,Business Admin,080-97800148,john.obi428@example.com,02-08-2022,2.72,94.2,949812.95,ACTIVE
+STU-0175,JOHN JAMES,23,femal,ECONOMICS,,JOHN.JAMES75@EXAMPLE.COM,04-11-2023,3.44,94.6,,active
+STU-0176, Ibrahim   Williams ,32,F,BUSINESS ADMIN,,IBRAHIM.WILLIAMS881@EXAMPLE.COM,2025-04-01,3.19,,1286274.01,GRADUATED
+STU-0025, Chiamaka   Williams ,29,Male,MASS COMM.,,chiamaka.williams363@example.com,03-24-2024,3.1,102.0,783220.49,Suspended
+STU-0178,michael adebayo,45,F,MASS COMM.,+234 8016346480,michael.adebayo583@example.com,"Jul 03, 2020",2.55,70.5,964785.8,Graduated
+STU-0465,Fatima Eze,33,M,Business Admin,+234 8026287603,fatima.eze749@example.com,19/07/2021,3.43,72.2,789792.62,Suspended
+STU-0180,Peter Bello,43,female,Biochemistry,080-67617646,peter.bello991@example.com,2023-10-07,2.91,86.0,683971.8,ACTIVE
+STU-0181,Esther Garba,15,MALE,COMPUTER SCIENCE,08068200663,esther.garba984@example.com,,2.95,51.9,985595.56,Active
+STU-0182,Fatima Ibrahim,33,M,Mass Communication,08052806860,fatima.ibrahim31@example.com,2022-12-28,3.3,94.4,975166.31,active
+STU-0183,Chiamaka Williams,43,MALE,Economics,080-71881982,chiamaka.williams951@example.com,2024-01-25,3.54,78.9,1351476.84,Active
+STU-0184,Esther Musa,20,FEMALE,MASS COMM.,234820282707,esther.musa628@example.com,"Apr 21, 2020",1.77,73.4,1082905.69,on leave
+STU-0185, Mary   Obi ,42,male,Economics,08093200549,mary.obi214@example.com,2020-12-04,3.48,105.0,851259.94,On Leave
+STU-0186, Emeka   Musa ,21,male,Computer Science,(080)91799268,EMEKA.MUSA553@EXAMPLE.COM,06/12/2021,,96.4,,ACTIVE
+STU-0187,CHIAMAKA GARBA,31,F,  Biochemistry  ,08078468423,chiamaka.garba886@example.com,2020-01-17,2.95,89.3,1029438.46,On Leave
+STU-0188,Esther Williams,44,female,COMPUTER SCIENCE,,esther.williams909@example.com,2025-11-26,2.43,90.3,1469605.82,Active
+STU-0189,Samuel Usman,28,MALE,BIOCHEMISTRY,,samuel.usman331@example.com,08-24-2024,2.9,80.7,1131281.66,graduated
+STU-0190,Ibrahim Smith,39,Male,BIOCHEMISTRY,,ibrahim.smith886@example.com,"Dec 17, 2024",3.11,93.1,847428.6,GRADUATED
+STU-0191,Peter Johnson,23,mle,ECONOMICS,+234 8050237118,peter.johnson612@example.com,2021-09-18,3.65,105.0,1224014.13,active
+STU-0192,Amina Garba,44,male,Mass Communication ,(080)60055246,amina.garba154@example.com,2022-12-04,2.92,93.8,727789.53,  Actve  
+STU-0193,Michael Adeyemi,40,Femle,MASS COMM.,,MICHAEL.ADEYEMI992@EXAMPLE.COM,09-20-2021,3.97,79.5,988595.39,GRADUATED
+STU-0194,David Okafor,40,male,ComputerScience,,david.okafor615@example.com,2024-09-01,3.72,72.3,-975458.58,On Leave
+STU-0195,Daniel Adeyemi,37,FEMALE,mass communication,234899552508, daniel.adeyemi325@example.com ,02/07/2023,2.09,111.1,592504.06,Suspended
+STU-0196,Fatima Thomas,25,mle,BIOCHEMISTRY,08020797931,fatima.thomas559@example.com,"Jul 29, 2021",3.01,101.2,805709.57,On Leave
+STU-0197,GRACE BROWN,39,Femle,Business Admin,(080)13715900, grace.brown172@example.com ,2025-07-29,3.63,94.4,711888.94,suspended
+STU-0198,Blessing Bello,33,male,Biochemistry,, blessing.bello860@example.com ,22/02/2020,2.71,85.3,897203.03,On Leave
+STU-0199,Daniel Garba,17,mle,Economics,08042983553,daniel.garba236@example.com,01-20-2025,2.7,84.0,1045083.63,on leave
+STU-0200,Samuel Johnson,20,M,Mass Communication ,(080)69040418,SAMUEL.JOHNSON91@EXAMPLE.COM,"Mar 15, 2021",3.43,not available,,graduated
+STU-0201,grace adebayo,31,female,BUSINESS ADMIN,,grace.adebayo280@example.com,2025-11-20,3.46,84.9,875894.69,Actve
+STU-0202, Emeka   Smith ,19,M,ECONOMICS,080-41421302,emeka.smith528@example.com,2024-01-06,2.84,82.8,644352.06,Active
+STU-0203,esther okafor,22,FEMALE,Mass Communication,234951700108,ESTHER.OKAFOR777@EXAMPLE.COM,"Jan 12, 2024",3.57,,,GRADUATED
+STU-0204,Esther Musa,25,female,Business Administration,(080)43409649,esther.musa751@example.com,2020-01-22,3.63,80.2,?,GRADUATED
+STU-0205, Esther   Usman ,29,Male,BIOCHEMISTRY,+234 8094837418,ESTHER.USMAN904@EXAMPLE.COM,02/06/2025,0.0,-10.0,1446071.79,on leave
+STU-0206,Esther Musa,67,Femle,BIOCHEMISTRY,(080)15964821,,11/09/2020,2.75,66.7,653676.75,active
+STU-0207,SAMUEL OBI,33,mle,BIOCHEMISTRY,234837748039,samuel.obi448@example.com,06-27-2021,3.17,80.6,895686.94,Active
+STU-0208,Ibrahim Johnson,40,MALE,Mass Communication,234872133148,ibrahim.johnson317@example.com,"Oct 27, 2021",3.06,88.0,832612.2,graduated
+STU-0209,Fatima Usman,18,FEMALE,Economics,234926842522,fatima.usman348@example.com,2023-08-22,2.74,98.0,1291486.29,Active
+STU-0210,John Usman,38,MALE,mass communication,080-33169563,john.usman582@example.com,,2.19,82.2,663027.22,Graduated
+STU-0211,John Eze,35,male,ECONOMICS,08086107028,john.eze841@example.com,2021-07-22,2.65,70.1,971832.03,GRADUATED
+STU-0376,John Okafor,38,MALE,BUSINESS ADMIN,(080)40716834,john.okafor730@example.com,"Aug 12, 2024",3.74,90.6,886350.18,graduated
+STU-0213,Mary Johnson,40,Male,Mass Communication ,234823138353,mary.johnson245@example,"Oct 23, 2020",2.71,83.6,954289.7,active
+STU-0214, Fatima   Garba ,44,femal,Economics,+234 8030552401,fatima.garba111@example.com,2021-08-16,,68.4,778612.64,Graduated
+STU-0215,Ibrahim Bello,34,female,COMPUTER SCIENCE,(080)69373880, ibrahim.bello650@example.com ,"Jun 19, 2025",,98.1,595316.77,GRADUATED
+STU-0216,Michael Obi,21,MALE,BIOCHEMISTRY,080-19276822,michael.obi467@example.com,2020-02-25,3.01,71.8,692246.94,graduated
+STU-0217,David Garba,41,female,Business Administration,+234 8054601547,DAVID.GARBA892@EXAMPLE.COM,01/08/2023,3.55,76.2,882247.4,Active
+STU-0218,  MICHAEL IBRAHIM  ,18,male,Business Admin,(080)57796922,michael.ibrahim725@example.com,11/07/2025,2.53,83.4,-700644.38,  On Leave  
+STU-0219, Esther   Garba ,42,male,Computer Science,,esther.garba245@example.com,None,2.02,,681556.05,On Leave
+STU-0220,Daniel Johnson,33,male,ComputerScience,(080)94713274,daniel.johnson207@example,12-18-2023,3.16,104.8,961804.18,On Leave
+STU-0221,Fatima Usman,44,Femle,mass communication,,fatima.usman644@example.com,03/04/2025,2.87,69.6,855218.53,suspended
+STU-0222,Esther Ibrahim,24,F,economics,08044268860,esther.ibrahim765@example.com,2020-02-16,3.75,N/A,922000.86,GRADUATED
+STU-0223,Sarah Smith,26,femal,Business Admin,+234 8039904693,sarah.smith116@example.com,01/03/2022,5.5,75.3,1449357.17,Active
+STU-0224,Fatima Garba,18,mle,COMPUTER SCIENCE,+234 8073677153,fatima.garba558@example,10-17-2024,3.12,89.6,874530.96,Active
+STU-0225,Blessing Adebayo,29,F,business admin,08063132250,blessing.adebayo770@example.com,09-05-2023,2.86,91.8,955135.11,On Leave
+STU-0226,David Adeyemi,25,mle,MASS COMM.,(080)32986333,david.adeyemi800@example.com,"Aug 15, 2021",2.02,91.2,1037050.31,On Leave
+STU-0227,David Smith,23,F,MASS COMM.,+234 8038249025,david.smith280@example.com,08/01/2025,5.5,84.3,1222763.0,graduated
+STU-0228,Esther Adeyemi,45,Male,Computer Science,,ESTHER.ADEYEMI87@EXAMPLE.COM,2023-03-05,3.06,98.4,1103117.71,Suspended
+STU-0229,Blessing Usman,37,F,ECONOMICS,234884621426,blessing.usman283@example.com,,2.44,83.8,606900.9,Actve
+STU-0230,Daniel Smith,28,mle,BIOCHEMISTRY,,daniel.smith266@example.com,2021-04-11,,112.7,938420.17,Active
+STU-0231,ibrahim adeyemi,40,femal,COMPUTER SCIENCE,234933524556,ibrahim.adeyemi398@example.com,"Dec 19, 2023",2.95,78.7,616640.48,GRADUATED
+STU-0232,David Eze,37,Femle,Mass Communication ,+234 8058892826,david.eze191@example,22/05/2022,2.83,74.8,748594.19,graduated
+STU-0233,DAVID MUSA,19,FEMALE,Economics,234990394501,david.musa119@example.com,11-24-2022,3.36,78.5,673826.04,Active
+STU-0234,Amina Musa,35,Femle,BUSINESS ADMIN,08064794129,amina.musa734@example.com,01/08/2024,2.54,78.2,680153.42,Actve
+STU-0235,Blessing Johnson,27,femal,ComputerScience,080-22129186,blessing.johnson736@example.com,2025-08-05,3.6,88.4,1303172.38,GRADUATED
+STU-0236,John James,30,M,COMPUTER SCIENCE,(080)18974185, john.james468@example.com ,"Oct 01, 2022",,74.6,889403.49,GRADUATED
+STU-0237,sarah adeyemi,41,mle,Biochemistry,,sarah.adeyemi647@example.com,2023-01-19,3.28,73.9,,Graduated
+STU-0238,Chiamaka Usman,36,M,Business Admin,(080)13492447, chiamaka.usman620@example.com ,03-02-2020,1.93,66.1,704472.23,On Leave
+STU-0239,Grace Brown,31,male,Business Administration,(080)35625366,GRACE.BROWN296@EXAMPLE.COM,2025-01-15,2.78,89.6,585581.51,active
+STU-0240,Emeka Williams,32,M,ComputerScience,(080)59199494,emeka.williams339@example.com,08/02/2025,3.84,94.1,1216292.43,Suspended
+STU-0241,David Thomas,45,female,economics,234866948902, david.thomas652@example.com ,12/08/2023,2.91,84.5,921570.89,on leave
+STU-0242,emeka obi,41,Female,Business Administration,08030911367,emeka.obi399@example.com,11-23-2020,2.96,91.3,776806.86,on leave
+STU-0243,Ibrahim Smith,44,mle,Bio chemistry,080-72916607,ibrahim.smith886@example.com,19/06/2025,2.1,84.2,1200147.42,On Leave
+STU-0244,Mary Williams,25,femal,Mass Communication,,mary.williams513@example.com,2020-07-29,3.19,83.2,631013.17,GRADUATED
+STU-0245,Mary Obi,25,MALE,MASS COMM.,234915050053,mary.obi330@example.com,2023-03-14,2.13,63.3,791380.85,GRADUATED
+STU-0246,Blessing Adeyemi,38,F,,,blessing.adeyemi342@example,2023-04-16,2.85,67.2,1243656.63,on leave
+STU-0247,Samuel James,31,MALE,Bio chemistry,080-77470563,,"Jul 12, 2025",3.91,101.5,978864.7,Active
+STU-0248,Michael Smith,27,FEMALE,COMPUTER SCIENCE,080-38991428,michael.smith973@example.com,12-15-2021,2.22,83.1,723102.45,Suspended
+STU-0249,ibrahim usman,33,Male,Economics,,IBRAHIM.USMAN106@EXAMPLE.COM,13/07/2021,3.56,75.1,796788.92,on leave
+STU-0250,Blessing Usman,45,MALE,Mass Communication ,+234 8094321981,BLESSING.USMAN579@EXAMPLE.COM,"Oct 28, 2022",3.48,95.6,889230.99,Suspended
+STU-0251,Michael Adeyemi,18,MALE,MASS COMM.,+234 8015298044,michael.adeyemi894@example.com,13/08/2023,3.28,63.0,966510.4,on leave
+STU-0252, David   Musa ,45,F,BUSINESS ADMIN,080-76234644,david.musa108@example.com,2024-11-05,2.34,80.5,739027.64,graduated
+STU-0253,Michael Eze,35,FEMALE,Business Admin,08013761682,MICHAEL.EZE852@EXAMPLE.COM,02/12/2023,3.41,75.6,1056926.95,suspended
+STU-0254, Ibrahim   Adeyemi ,23,Male,  Mass Communication   ,234981427594,ibrahim.adeyemi876@example.com,09-01-2022,2.76,-10.0,1029305.79,active
+STU-0255,Michael Bello,37,F,Mass Communication ,(080)12212131,michael.bello389@example.com,03-11-2024,2.59,61.9,745947.75,ACTIVE
+STU-0256, Peter   Ibrahim ,21,M,Economics,,peter.ibrahim996@example.com,"Feb 01, 2024",3.17,82.6,606929.14,on leave
+STU-0257,michael williams,31,femal,COMPUTER SCIENCE,, michael.williams611@example.com ,,-1.0,85.7,1456720.13,Actve
+STU-0258,Michael Adeyemi,26,femal,MASS COMM.,080-27193997,michael.adeyemi784@example.com,07-12-2022,3.08,86.9,633739.96,Active
+STU-0259,  Samuel Bello  ,30,Male,Computer Science,080-72845112,samuel.bello387@example.com,"Jul 14, 2023",2.59,78.3,835746.96,Suspended
+STU-0260, Sarah   James ,45,Female,Business Administration,234800668135,SARAH.JAMES993@EXAMPLE.COM,2023-06-27,3.42,77.2,896239.16,Graduated
+STU-0261,CHIAMAKA GARBA,22,male,BUSINESS ADMIN,080-25627811,chiamaka.garba222@example.com,29/05/2023,2.11,65.5,605678.15,suspended
+STU-0262,Emeka Williams,18,Male,ECONOMICS,08030319783,EMEKA.WILLIAMS467@EXAMPLE.COM,"Jun 25, 2024",4.78,91.0,734722.15,Graduated
+STU-0263,Samuel Adebayo,19,F,Economics,,SAMUEL.ADEBAYO694@EXAMPLE.COM,"Mar 10, 2021",2.46,74.1,614438.71,Graduated
+STU-0264,MICHAEL MUSA,32,Female,COMPUTER SCIENCE,08063549018,michael.musa661@example.com,31/12/2024,3.37,69.2,923509.22,Graduated
+STU-0265,Emeka Williams,41,Femle,Business Administration,NA,emeka.williams896@example.com,08-24-2022,2.63,79.9,814931.79,  graduated  
+STU-0266,Amina Smith,30,F,computer science,+234 8080593352,amina.smith333@example,2020-09-20,3.71,80.1,893963.77,On Leave
+STU-0267,John Williams,43,F,BIOCHEMISTRY,+234 8082141233,john.williams194@example.com,09-11-2024,3.16,69.1,577519.32,Actve
+STU-0268,John Ibrahim,35,Male,mass communication,08027989689,john.ibrahim553@example.com,24/05/2020,3.28,81.8,834278.53,graduated
+STU-0269,Blessing Garba,38,Female,Computer Science,+234 8064887782,BLESSING.GARBA659@EXAMPLE.COM,"Apr 06, 2020",3.92,78.1,740073.24,active
+STU-0270,Grace Garba,28,female,BUSINESS ADMIN,080-24091681, grace.garba291@example.com ,04/04/2022,,88.2,894855.69,Graduated
+STU-0271,David Johnson,45,Female,Business Admin,(080)33854492,david.johnson245@example.com,"Feb 22, 2021",2.87,81.0,568103.14,On Leave
+STU-0272,chiamaka eze,25,Male,BUSINESS ADMIN,08066908768,chiamaka.eze563@example.com,2023-10-08,3.37,91.3,1195267.47,suspended
+STU-0273,Michael Musa,24,M,business admin,+234 8078905606,michael.musa12@example.com,2020-08-25,3.38,81.4,1112159.9,ACTIVE
+STU-0274,Chiamaka Bello,41,MALE,Business Admin,(080)21159218,chiamaka.bello560@example.com,2021-08-02,2.72,98.8,1251508.53,suspended
+STU-0275,  Peter Ibrahim  ,19,Female,Computer Science,(080)77539001,peter.ibrahim805@example.com,2021-04-16,2.95,55.4,847661.9,active
+STU-0276,Grace Smith,28,female,Business Administration,(080)67183263,GRACE.SMITH546@EXAMPLE.COM,28/07/2020,3.09,103.9,,Active
+STU-0277,Grace Adebayo,35,MALE,BUSINESS ADMIN,,grace.adebayo933@example.com,2023-09-25,2.61,68.1,,Actve
+STU-0278,Grace Bello,45,FEMALE,ComputerScience,234842655844,grace.bello863@example,2020-10-26,2.73,85.8,900972.58,graduated
+STU-0279, Chiamaka   Eze ,37,FEMALE,ComputerScience,(080)86785069,chiamaka.eze600@example.com,2025-01-29,2.77,98.0,1178017.89,GRADUATED
+STU-0280,Samuel Bello,35,Male,Economics,08017589571,,,2.37,102.5,869046.82,Graduated
+STU-0690,Chiamaka Eze,23,mle,Mass Communication ,08015592216,,2020-12-22,3.27,74.6,682716.48,active
+STU-0282,Ibrahim Bello,24,Female,Business Admin,234861364594,ibrahim.bello142@example.com,2022-06-21,2.43,86.2,698199.66,On Leave
+STU-0283,Ibrahim Williams,30,M,BUSINESS ADMIN,,ibrahim.williams33@example.com,10-08-2025,2.64,90.0,771707.74,  suspended  
+STU-0284,Blessing Brown,17,male,Economics,+234 8084229578,blessing.brown639@example.com,2022-05-24,2.95,78.6,992013.85,Graduated
+STU-0285,daniel johnson,27,female,-,080-49435191,daniel.johnson905@example.com,30/11/2021,2.96,111.1,1078630.26,Actve
+STU-0286,Esther Ibrahim,26,Femle,Computer Science,234929997202,esther.ibrahim333@example.com,27/12/2021,2.48,71.1,812347.72,Actve
+STU-0287, Chiamaka   Garba ,32,mle,ECONOMICS,080-80537200,,,3.53,0.0,783523.23,Active
+STU-0288,Daniel Bello,25,Male,Bio chemistry,,DANIEL.BELLO378@EXAMPLE.COM,2023-12-04,2.9,81.8,863403.34,Actve
+STU-0289,Emeka Brown,20,MALE,mass communication,08045246744,emeka.brown449@example.com,,3.58,69.8,874776.04,GRADUATED
+STU-0290,David Thomas,41,Female,computer science,080-32864507,david.thomas295@example.com,28/01/2020,3.13,73.6,1038696.03,on leave
+STU-0291, Amina   Thomas ,35,Female,MASS COMM.,080-72549868,amina.thomas841@example.com,2025-01-04,3.4,91.5,994174.67,Suspended
+STU-0292,Blessing Bello,45,MALE,mass communication,(080)82896645,blessing.bello80@example.com,2024-04-26,2.46,90.3,788677.55,On Leave
+STU-0293,Emeka Ibrahim,36,F,Business Admin,080-91694253,emeka.ibrahim850@example.com,"Dec 26, 2023",3.72,74.7,772186.23,On Leave
+STU-0294,Peter Usman,41,MALE,business admin,,peter.usman119@example.com,"Jul 14, 2021",2.36,0.0,1387048.94,Graduated
+STU-0295,John Williams,45,Femle,  computer science  ,234977965535,john.williams925@example.com,06-20-2025,3.78,89.2,947129.28,Active
+STU-0296,Fatima Musa,45,femal,Computer Science,08030021724,fatima.musa225@example.com,07-17-2022,3.6,101.6,646189.17,On Leave
+STU-0297,John Eze,43,female,ECONOMICS,080-26290315,john.eze157@example.com,30/03/2023,3.59,90.7,928860.54,ACTIVE
+STU-0298,Esther Usman,43,Female,economics,08040675700, esther.usman475@example.com ,2020-08-24,2.82,81.5,1033760.24,suspended
+STU-0299,John Bello,42,Female,BIOCHEMISTRY,080-67446348,JOHN.BELLO533@EXAMPLE.COM,08-28-2021,1.62,70.4,-1408815.95,GRADUATED
+STU-0300,John Garba,30,Femle,Computer Science,234838524663,john.garba779@example.com,,2.71,54.6,1279510.02,active
+STU-0301,David Brown,32,femal,Business Administration,08033468894,,2023-04-10,3.02,,858198.97,On Leave
+STU-0302,Daniel Musa,38,M,business admin,NA,NA,31/12/2024,,71.6,943493.45,Suspended
+STU-0303,Sarah Thomas,36,MALE,COMPUTER SCIENCE,+234 8085992158,sarah.thomas85@example.com,01-05-2025,2.59,102.4,861120.11,ACTIVE
+STU-0304, David   Ibrahim ,28,Femle,mass communication,234880254988,david.ibrahim240@example.com,21/05/2023,3.37,86.7,-1173695.73,active
+STU-0305,emeka adebayo,19,Female,computer science,(080)17478038,emeka.adebayo157@example.com,2023-04-03,3.1,92.3,698018.62,Suspended
+STU-0306,PETER MUSA,45,FEMALE,economics,234841771270, peter.musa268@example.com ,01-18-2023,,80.8,956513.2,on leave
+STU-0307, Daniel   Obi ,72,Femle,economics,234912966781,daniel.obi309@example.com,2022-03-30,2.93,73.6,873514.44,graduated
+STU-0308,DANIEL MUSA,34,Femle,Mass Communication,08060963994,daniel.musa950@example.com,2024-11-20,2.3,91.9,965621.28,active
+STU-0309,,39,Femle,Business Admin,,CHIAMAKA.THOMAS631@EXAMPLE.COM,01-16-2023,2.9,82.7,808763.22,Active
+STU-0310, Sarah   Ibrahim ,24,Male,ComputerScience,+234 8055324221,sarah.ibrahim882@example,06-13-2025,2.46,,568083.51,  Actve  
+STU-0311,Chiamaka Garba,38,Female,BIOCHEMISTRY,(080)54154594,CHIAMAKA.GARBA368@EXAMPLE.COM,"Jul 25, 2023",3.18,75.4,1006812.25,GRADUATED
+STU-0312,Peter Obi,36,F,  Business Administration  ,08059748970,peter.obi305@example.com,05/02/2022,3.12,112.8,1050841.61,Active
+STU-0313,Amina Eze,18,femal,Mass Communication,08033800663,amina.eze251@example.com,2025-08-16,,91.8,785412.34,Graduated
+STU-0314,grace johnson,24,M,ComputerScience,+234 8036193703,grace.johnson158@example.com,09-18-2021,3.05,65.5,877519.79,ACTIVE
+STU-0315,David Thomas,27,F,Business Administration,,david.thomas99@example.com,2022-11-21,3.58,90.6,716092.15,suspended
+STU-0316,esther thomas,20,Femle,ComputerScience,234867190744, esther.thomas957@example.com ,17/04/2024,2.53,89.5,1053793.78,Suspended
+STU-0317,John James,unknown,Male,Bio chemistry,234942803030,john.james235@example.com,08-21-2022,3.57,65.5,979009.25,graduated
+STU-0318,AMINA JOHNSON,30,female,Biochemistry,+234 8069415524,amina.johnson85@example,10-24-2025,2.66,93.9,834740.64,Actve
+STU-0319,John Eze,19,MALE,Economics,,john.eze379@example.com,21/12/2024,3.24,91.6,955351.79,active
+STU-0320,Emeka Okafor,36,Female,Business Administration,234805787384,emeka.okafor947@example.com,01-19-2023,2.58,62.5,1001719.8,graduated
+STU-0321,Peter Musa,42,Male,Biochemistry,,peter.musa75@example.com,17/03/2025,?,76.6,602672.67,on leave
+STU-0322,Blessing Musa,45,femal,Bio chemistry,+234 8086755604,,11-19-2024,3.69,92.4,,graduated
+STU-0323,BLESSING SMITH,28,female,Economics,(080)47294424,blessing.smith705@example.com,2021-05-01,4.8,96.4,777891.76,graduated
+STU-0324,Peter Williams,24,male,Mass Communication ,234983538398,peter.williams160@example,10-06-2025,2.77,92.5,1231140.39,graduated
+STU-0325,Grace James,41,mle,Mass Communication ,234899586980,grace.james237@example.com,"Nov 17, 2023",2.83,84.5,unknown,graduated
+STU-0326,Blessing Okafor,35,female,Mass Communication ,(080)49656213,blessing.okafor706@example.com,2020-01-20,2.48,99.0,,Active
+STU-0327,Daniel Adebayo,41,F,ComputerScience,+234 8024321767,daniel.adebayo813@example.com,16/09/2025,2.98,74.5,898704.75,Suspended
+STU-0328,Esther Obi,28,male,Mass Communication,234995995655,esther.obi140@example.com,"Dec 18, 2020",3.94,72.4,1447182.41,Suspended
+STU-0329, Esther   Okafor ,37,Female,business admin,(080)47264681,esther.okafor206@example.com,28/07/2021,3.29,74.5,999953.88,active
+STU-0330,John James,26,Femle,BUSINESS ADMIN,+234 8027216849,john.james852@example.com,10-27-2025,,96.0,812108.98,On Leave
+STU-0331,John Adebayo,23,male,economics,,john.adebayo52@example.com,"Dec 20, 2025",1.95,74.3,810816.33,Active
+STU-0332,Samuel Thomas,29,Male,economics,08043205245,samuel.thomas447@example.com,2023-01-10,2.45,75.3,1285828.12,active
+STU-0333,Mary James,44,femal,ECONOMICS,,mary.james706@example.com,2020-11-27,2.12,96.4,825651.97,graduated
+STU-0334, Amina   Adebayo ,19,F,business admin,(080)45284301,amina.adebayo687@example.com,01-25-2025,3.14,68.5,1043559.35,Active
+STU-0335,John Garba,17,FEMALE,BIOCHEMISTRY,(080)30867009,john.garba120@example.com,2024-07-17,2.61,66.2,1106510.97,suspended
+STU-0336,Samuel Williams,44,MALE,Bio chemistry,234857759856,samuel.williams887@example.com,02-25-2021,,91.7,915543.06,active
+STU-0337,Michael Adeyemi,22,F,economics,234966826820, michael.adeyemi290@example.com ,06-22-2022,0.0,96.0,929834.38,suspended
+STU-0338,Daniel Ibrahim,35,M,business admin,080-62029608,daniel.ibrahim752@example.com,2025-08-12,2.1,76.6,1045584.26,Actve
+STU-0339,Sarah Okafor,19,MALE,  Computer Science  ,,,07/12/2025,1.45,73.5,685341.2,ACTIVE
+STU-0340,John Garba,44,male,MASS COMM.,(080)35108383, john.garba547@example.com ,2025-11-17,3.29,78.6,1031223.32,Graduated
+STU-0341,Esther Smith,40,femal,Bio chemistry,08020253712,esther.smith414@example.com,19/08/2022,2.29,85.6,1130940.56,on leave
+STU-0342,None,34,female,mass communication,080-17392814,mary.smith926@example.com,23/03/2025,2.25,98.7,862581.82,GRADUATED
+STU-0343,Michael Okafor,not available,male,mass communication,,,,3.23,93.4,,active
+STU-0344,Michael Johnson,21,M,Biochemistry,08061370254,michael.johnson418@example.com,"Nov 27, 2024",3.07,90.0,890907.31,Active
+STU-0345,Michael Obi,25,F,  Economics  ,,michael.obi640@example.com,"May 14, 2025",2.87,97.9,1084720.35,Actve
+STU-0346,Blessing Brown,41,mle,economics,(080)64083523,blessing.brown27@example,2023-09-10,4.02,,940901.32,ACTIVE
+STU-0347,emeka garba,26,Femle,economics,234919990126,,null,,69.3,726382.25,ACTIVE
+STU-0348,PETER IBRAHIM,19,Femle,Mass Communication,+234 8053811493, peter.ibrahim569@example.com ,12/04/2022,3.94,89.7,1202972.9,GRADUATED
+STU-0349,Amina Johnson,20,female,BUSINESS ADMIN,080-96093686,amina.johnson533@example.com,08/10/2023,3.03,85.9,927846.97,  On Leave  
+STU-0350,emeka musa,32,M,mass communication,(080)96588190,emeka.musa255@example.com,"Dec 21, 2023",3.54,99.4,1083653.67,Graduated
+STU-0351,Ibrahim Williams,21,F,COMPUTER SCIENCE,,ibrahim.williams470@example.com,,3.69,72.5,1233897.95,active
+STU-0250,  Michael Thomas  ,20,Male,Biochemistry,,michael.thomas898@example.com,2025-01-07,2.48,89.7,851704.71,On Leave
+STU-0353,Michael Okafor,36,Female,MASS COMM.,,michael.okafor867@example.com,2025-03-28,2.82,83.5,993030.57,On Leave
+STU-0354, Ibrahim   Eze ,25,Femle,Computer Science,234909913492,IBRAHIM.EZE739@EXAMPLE.COM,2020-06-26,4.08,83.9,1152105.18,graduated
+STU-0355,Emeka Usman,41,MALE,economics,08013353943,emeka.usman805@example.com,10/10/2020,2.6,,804771.44,Active
+STU-0356, Peter   Adeyemi ,28,M,Economics,234822610543,peter.adeyemi584@example.com,"Mar 28, 2023",2.99,90.4,878552.21,on leave
+STU-0357,Emeka Musa,38,Male,Mass Communication ,+234 8034697580,emeka.musa632@example.com,2024-12-16,2.66,95.9,1462589.18,Active
+STU-0358,Mary James,32,F,Mass Communication ,080-18653467,mary.james211@example.com,2020-03-12,3.27,100.9,712207.07,Suspended
+STU-0359,AMINA JOHNSON,25,MALE,mass communication,+234 8099804693,amina.johnson94@example.com,"Sep 25, 2025",2.74,78.1,1305470.69,On Leave
+STU-0360,amina brown,19,female,MASS COMM.,,amina.brown634@example.com,N/A,3.32,85.8,720780.36,Suspended
+STU-0361,Daniel Adeyemi,43,MALE,Business Admin,234806980432,daniel.adeyemi406@example,2022-05-01,2.38,79.8,634361.73,Suspended
+STU-0362,Grace Johnson,15,femal,Biochemistry,+234 8037657950,grace.johnson631@example.com,2021-09-13,3.09,74.8,964676.79,on leave
+STU-0363,Samuel Obi,35,femal,Business Admin,08039765392, samuel.obi312@example.com ,2022-04-21,2.27,93.8,692626.68,Actve
+STU-0364,Sarah Obi,35,Male,economics,080-52715514,SARAH.OBI191@EXAMPLE.COM,20/07/2020,3.68,78.4,888562.15,Graduated
+STU-0365, Mary   Garba ,37,male,Business Admin,,mary.garba872@example.com,11/01/2025,,59.0,757024.45,On Leave
+STU-0366,Chiamaka Brown,32,FEMALE,Economics,,chiamaka.brown480@example.com,03-24-2025,,75.3,750092.05,ACTIVE
+STU-0367, Esther   Eze ,39,FEMALE,Business Admin,(080)78604168,esther.eze290@example.com,2020-05-06,3.05,90.1,,GRADUATED
+STU-0368,Sarah Smith,27,FEMALE,Biochemistry,,sarah.smith493@example,2024-01-05,2.82,69.6,878809.23,graduated
+STU-0369,blessing adebayo,28,Femle,COMPUTER SCIENCE,(080)95616774,blessing.adebayo338@example.com,2020-11-27,N/A,76.9,755213.75,Actve
+STU-0370,David Adeyemi,39,femal,Bio chemistry,080-44525811,david.adeyemi840@example.com,06-13-2020,3.38,89.9,992180.29,On Leave
+STU-0371,Grace Eze,22,Female,ComputerScience,080-99078260,grace.eze338@example.com,2023-01-20,2.94,75.5,,Active
+STU-0372,Michael Brown,32,FEMALE,business admin,234947569407,,2025-09-11,3.88,,750344.64,Suspended
+STU-0373,Fatima Thomas,19,FEMALE,Mass Communication,,fatima.thomas628@example.com,2025-06-29,3.88,94.1,811725.03,suspended
+STU-0374,Blessing Obi,31,FEMALE,MASS COMM.,+234 8025190914,blessing.obi690@example.com,08-20-2023,2.75,100.8,1128795.04,Graduated
+STU-0375,Chiamaka Ibrahim,19,Female,COMPUTER SCIENCE,080-70840003,chiamaka.ibrahim42@example.com,02-09-2025,3.8,66.3,786850.95,Actve
+STU-0376,samuel williams,39,female,Biochemistry,-,samuel.williams413@example.com,10-09-2025,3.35,89.5,1120201.71,Graduated
+STU-0377,  PETER JOHNSON  ,24,Female,mass communication,08082865355,,13/02/2023,2.59,77.2,828697.19,ACTIVE
+STU-0378,Samuel Johnson,12,FEMALE,ComputerScience,080-13588792, samuel.johnson18@example.com ,2021-12-02,9.0,65.8,743729.44,on leave
+STU-0379,John Eze,33,F,Business Administration,,john.eze868@example.com,2023-05-10,3.37,103.2,,ACTIVE
+STU-0380, John   Adebayo ,24,MALE,ComputerScience,,john.adebayo509@example.com,"Aug 08, 2021",3.6,93.4,1116710.98,graduated
+STU-0381,Emeka Adeyemi,12,female,mass communication,08088249071,emeka.adeyemi401@example.com,2021-10-18,2.64,84.5,971711.34,graduated
+STU-0382,Emeka Thomas,42,female,Business Administration,080-78400838,emeka.thomas22@example.com,"Nov 15, 2020",2.97,96.9,1117102.96,suspended
+STU-0383,Fatima Johnson,22,Femle,  Economics  ,234957385396, fatima.johnson707@example.com ,13/03/2021,2.44,112.4,684064.05,Active
+STU-0384,  Esther Usman  ,33,FEMALE,Mass Communication ,+234 8033499687,esther.usman615@example.com,03-02-2025,,92.8,817270.91,Actve
+STU-0385,John Okafor,22,mle,COMPUTER SCIENCE,+234 8053895989,john.okafor469@example.com,2021-08-31,3.12,,858204.62,GRADUATED
+STU-0386, Blessing   Thomas ,23,MALE,Biochemistry,N/A,,"Nov 20, 2025",2.96,,-863130.13,ACTIVE
+STU-0387,Ibrahim Musa,40,FEMALE,Business Admin,080-50856399,ibrahim.musa72@example,2024-09-11,3.35,71.6,1085417.98,on leave
+STU-0388,Blessing Adebayo,23,Female,mass communication,234912583154,blessing.adebayo29@example.com,2020-08-13,1.51,95.0,824597.91,Graduated
+STU-0389, Amina   Bello ,18,Femle,Business Admin,+234 8056921633,amina.bello748@example.com,2023-10-02,2.72,92.6,829156.19,on leave
+STU-0390,Chiamaka Smith,19,FEMALE,Mass Communication,(080)87563827, chiamaka.smith726@example.com ,2021-12-29,2.8,86.6,-804329.21,Actve
+STU-0391,Mary Garba,44,MALE,economics,+234 8076500498,null,02/11/2021,2.46,73.3,671328.83,suspended
+STU-0392,Esther Johnson,27,FEMALE,Bio chemistry,+234 8097731360,esther.johnson512@example.com,14/10/2023,3.29,91.7,938431.85,On Leave
+STU-0393,Michael Smith,26,mle,economics,+234 8073187443,michael.smith193@example.com,2024-12-27,3.59,77.4,705867.63,ACTIVE
+STU-0394,Mary Musa,22,MALE,MASS COMM.,080-93987266,mary.musa232@example.com,2021-07-30,1.97,82.1,627816.12,GRADUATED
+STU-0395,peter adebayo,21,femal,  Mass Communication   ,234920944823,peter.adebayo463@example.com,2024-06-06,3.92,63.0,1194866.1,  ACTIVE  
+STU-0396,Chiamaka Johnson,19,Female,Biochemistry,234821209318,chiamaka.johnson736@example.com,20/01/2025,3.11,92.4,947494.65,on leave
+STU-0397, Chiamaka   Williams ,26,F,Economics,08031541345,chiamaka.williams67@example.com,2021-12-23,2.72,76.7,717141.34,suspended
+STU-0398,Mary Williams,23,M,MASS COMM.,+234 8084152950,mary.williams354@example.com,2025-04-16,3.03,54.3,,Active
+STU-1408,MICHAEL THOMAS,39,female,ComputerScience,(080)95667447,MICHAEL.THOMAS299@EXAMPLE.COM,"Jul 19, 2024",3.33,80.6,-1209563.42,GRADUATED
+STU-0400,David Eze,21,female,COMPUTER SCIENCE,+234 8042577475, david.eze614@example.com ,2020-01-26,3.06,87.9,,On Leave
+STU-0401,david obi,38,MALE,ComputerScience,080-36984257,,08-01-2025,2.97,91.2,773054.52,ACTIVE
+STU-0402,John Usman,35,femal,Mass Communication ,234899303914, john.usman45@example.com ,06-30-2021,2.6,82.2,862580.41,active
+STU-0403,Blessing Adebayo,33,Male,Business Administration,080-38954744,blessing.adebayo708@example.com,08/12/2022,2.2,72.9,908418.23,GRADUATED
+STU-0404, John   Garba ,40,FEMALE,Mass Communication,,,17/03/2023,3.24,85.1,1084366.85,suspended
+STU-0405,Blessing James,30,femal,Economics,,blessing.james798@example.com,2020-08-17,2.44,64.9,1138818.15,On Leave
+STU-0406,Chiamaka Thomas,37,Female,computer science,08051425854,chiamaka.thomas761@example.com,19/04/2024,2.33,88.2,1475398.28,Suspended
+STU-0407, Amina   Johnson ,40,M,Mass Communication,,amina.johnson202@example.com,09/11/2025,3.85,73.9,784750.43,suspended
+STU-0408,John Garba,39,Male,Bio chemistry,08087913978,,28/02/2024,2.88,104.4,,Graduated
+STU-0409,Samuel Williams,27,femal,Mass Communication,,,2020-04-07,4.28,76.3,807279.14,on leave
+STU-1211,IBRAHIM IBRAHIM,34,female,Business Admin,(080)63678447,ibrahim.ibrahim760@example.com,03-06-2022,2.59,90.7,1271547.75,GRADUATED
+STU-0411, John   Thomas ,34,male,ECONOMICS,(080)71836772,john.thomas263@example.com,2020-10-14,2.97,75.3,739571.87,Graduated
+STU-0412,Emeka Garba,30,Male,  Business Admin  ,08081031735,emeka.garba529@example.com,2025-11-16,2.56,88.8,1052280.91,On Leave
+STU-0413,John Okafor,17,Male,mass communication,08048705501,john.okafor134@example.com,"Apr 07, 2021",2.96,81.8,807232.2,ACTIVE
+STU-0414,  Mary Okafor  ,41,female,MASS COMM.,(080)61063920,mary.okafor962@example.com,"Apr 12, 2020",2.62,92.7,796554.9,Active
+STU-0415,emeka thomas,17,mle,Economics,(080)46649300,emeka.thomas93@example.com,2020-11-22,3.37,77.4,849907.23,graduated
+STU-0416, Mary   Obi ,35,M,Biochemistry,, mary.obi712@example.com ,31/10/2021,3.38,75.0,1115296.06,Suspended
+STU-0417,David Garba,41,FEMALE,Economics,, david.garba865@example.com ,2021-10-20,2.72,80.3,1498693.04,active
+STU-0310, Daniel   Obi ,28,femal,Business Admin,, daniel.obi508@example.com ,2023-02-27,2.38,,,Suspended
+STU-0419,Esther Adeyemi,24,mle,Business Administration,,esther.adeyemi871@example.com,16/06/2023,2.43,86.4,759200.75,Active
+STU-0420,Daniel Eze,31,femal,Computer Science,234843237468,daniel.eze688@example.com,"Jan 17, 2023",3.25,75.9,823221.78,active
+STU-0421,Sarah Smith,41,Femle,business admin,234948201732,,2024-01-22,,77.9,701893.29,On Leave
+STU-0422,Amina Eze,35,Female,Computer Science,, amina.eze26@example.com ,2025-01-23,3.36,82.5,1186568.93,Active
+STU-0423,Grace Ibrahim,25,Female,economics,+234 8068730127,GRACE.IBRAHIM319@EXAMPLE.COM,04-29-2022,1.61,76.9,942787.28,active
+STU-0424,  Samuel Okafor  ,33,femal,business admin,080-24589424,samuel.okafor478@example.com,"Aug 12, 2020",2.78,81.7,1000956.45,Active
+STU-0425, Blessing   Obi ,41,Male,BIOCHEMISTRY,,blessing.obi475@example.com,2022-11-18,,84.2,921322.19,GRADUATED
+STU-0426,Sarah Bello,24,mle,Biochemistry,08076451123,sarah.bello112@example.com,12-21-2021,2.48,80.7,667432.86,Suspended
+STU-0427,Grace Eze,42,mle,ComputerScience,234848694052, grace.eze255@example.com ,27/04/2022,3.1,86.2,954445.64,  suspended  
+STU-0428, Michael   Johnson ,23,Male,Business Administration,+234 8016635799,michael.johnson911@example.com,"Sep 20, 2022",2.85,79.7,1042350.98,active
+STU-0429,DANIEL OBI,43,FEMALE,COMPUTER SCIENCE,+234 8024072106,,,3.65,0.0,,suspended
+STU-0430,Peter Williams,45,female,Biochemistry,234800453997,peter.williams482@example.com,2021-11-01,2.9,73.8,1304048.75,graduated
+STU-0431,Peter Smith,41,Male,Business Administration,08053811873,peter.smith381@example.com,"Feb 13, 2021",2.31,89.8,962325.0,on leave
+STU-0432,Daniel Okafor,24,Female,BUSINESS ADMIN,+234 8035799095,daniel.okafor80@example.com,11-01-2021,2.43,76.3,883395.29,GRADUATED
+STU-0433,Mary Obi,42,male,Mass Communication ,080-58949158,mary.obi640@example.com,2020-12-01,,69.1,586261.33,graduated
+STU-0434,Peter Obi,39,F,Economics,(080)21821465,peter.obi706@example.com,2020-02-23,3.25,100.6,1089605.18,Suspended
+STU-0435, Amina   Musa ,35,Femle,BIOCHEMISTRY,(080)38411580,,"Mar 17, 2021",2.93,75.8,809516.46,On Leave
+STU-0436,Amina Musa,41,Femle,mass communication,+234 8096857798,amina.musa295@example.com,,2.73,94.5,845117.36,on leave
+STU-0437,Peter Thomas,28,femal,Computer Science,+234 8098828241,peter.thomas344@example.com,28/09/2024,2.92,81.8,966752.31,active
+STU-0438,Ibrahim Johnson,39,Femle,BIOCHEMISTRY,(080)58264572,ibrahim.johnson855@example.com,27/11/2025,2.17,130.0,889779.41,active
+STU-0439,Grace Usman,30,Femle,Business Administration,+234 8074054931,grace.usman488@example.com,14/02/2021,3.27,81.3,628466.28,on leave
+STU-0440,Grace Usman,18,Femle,ECONOMICS,234905614879,grace.usman343@example.com,2021-05-31,-1.0,96.5,950108.36,suspended
+STU-0441,John Adebayo,20,male,Bio chemistry,(080)79515749,john.adebayo304@example.com,12-27-2022,3.39,76.5,650066.9,graduated
+STU-0442,Emeka Ibrahim,41,female,Mass Communication ,(080)13742113,,2025-03-01,3.1,86.0,1228147.07,On Leave
+STU-0443,Grace Garba,39,male,Biochemistry,080-49004014, grace.garba544@example.com ,01-03-2023,2.26,69.4,714393.7,On Leave
+STU-0444,Amina Eze,44,mle,Computer Science,080-61790973,amina.eze187@example.com,2024-05-16,3.18,79.8,1050102.07,suspended
+STU-0445,Ibrahim Obi,41,mle,Economics,+234 8051137305,ibrahim.obi65@example.com,,2.53,86.6,746529.79,ACTIVE
+STU-0446,Esther Smith,45,female,Mass Communication,(080)24099595,ESTHER.SMITH101@EXAMPLE.COM,01-13-2023,3.45,62.6,703749.6,active
+STU-0447,Grace Okafor,38,FEMALE,Bio chemistry,,grace.okafor814@example,"Dec 19, 2023",3.38,93.6,679121.16,Graduated
+STU-0448,michael okafor,25,female,BUSINESS ADMIN,(080)81974509,michael.okafor207@example.com,2024-02-04,2.73,64.3,851939.68,  suspended  
+STU-0449,Fatima James,17,M,Mass Communication ,08020683589,fatima.james358@example.com,07-01-2025,5.5,93.7,1207462.35,graduated
+STU-0450,Michael Garba,30,femal,Business Admin,(080)76540509,michael.garba846@example.com,06/09/2022,2.98,90.6,693387.22,suspended
+STU-0451,Samuel Musa,18,female,Mass Communication,+234 8086705285,samuel.musa580@example.com,"Dec 22, 2024",2.77,95.2,1020601.43,Suspended
+STU-0452,Daniel Adebayo,39,FEMALE,MASS COMM.,234819614558,daniel.adebayo897@example.com,2020-05-24,3.01,-10.0,818698.29,graduated
+STU-0453,Samuel Musa,20,female,ECONOMICS,080-14408667,samuel.musa852@example.com,14/07/2023,3.51,93.0,964884.11,suspended
+STU-0454,Samuel Musa,25,male,Bio chemistry,+234 8019661101,samuel.musa819@example,2025-01-15,3.59,109.3,1335562.91,Suspended
+STU-0455,Fatima Brown,29,male,ECONOMICS,234830602040,fatima.brown235@example.com,2021-04-23,3.94,76.5,800236.49,Actve
+STU-0456, Daniel   Adebayo ,31,Female,Economics,08052967547,daniel.adebayo985@example.com,2025-11-23,2.88,83.6,893767.29,on leave
+STU-0457,David Smith,42,FEMALE,MASS COMM.,080-17883976,david.smith489@example.com,"Feb 23, 2022",2.22,102.9,956936.98,On Leave
+STU-0458,Mary Adeyemi,21,mle,COMPUTER SCIENCE,08064391361,MARY.ADEYEMI811@EXAMPLE.COM,2023-11-10,2.69,77.3,680761.34,active
+STU-0459,Sarah Ibrahim,29,male,economics,080-31985664,sarah.ibrahim688@example.com,"Aug 26, 2021",2.79,104.3,712187.43,graduated
+STU-0460,Mary Thomas,33,MALE,Computer Science,,mary.thomas766@example.com,2024-03-15,3.34,98.3,,active
+STU-0461,BLESSING SMITH,28,mle,Computer Science,234823826091,blessing.smith393@example.com,04-22-2021,,81.1,1083389.42,suspended
+STU-0462,Fatima James,?,MALE,Economics,+234 8073894945,fatima.james965@example.com,2023-02-13,2.72,91.3,922050.36,active
+STU-0463,Daniel Eze,40,Male,ComputerScience,08053554966, daniel.eze748@example.com ,2023-09-20,4.0,-10.0,1443571.16,On Leave
+STU-0464,David Smith,34,female,ECONOMICS,080-48379196,david.smith119@example.com,2022-06-03,2.61,85.0,990095.09,active
+STU-0465,  Sarah Bello  ,34,Female,Biochemistry,234942123223,sarah.bello746@example.com,10-22-2024,2.04,80.9,1365468.53,on leave
+STU-0466,Blessing Williams,36,M,mass communication,08032813447,blessing.williams89@example.com,17/10/2021,3.22,78.8,1314358.02,suspended
+STU-0467, Daniel   Usman ,19,femal,BUSINESS ADMIN,(080)34078441,daniel.usman559@example.com,2025-04-23,3.22,69.2,649954.18,active
+STU-0468,Grace Musa,18,Femle,Business Admin,(080)24944318,grace.musa309@example.com,"Nov 20, 2021",2.94,73.9,1284936.36,Graduated
+STU-0469,Mary Bello,20,MALE,BIOCHEMISTRY,,mary.bello837@example.com,2024-07-15,2.58,85.7,1091358.65,ACTIVE
+STU-0470,Samuel Smith,30,Male,Computer Science,,samuel.smith663@example.com,2022-03-14,2.74,95.9,1073941.6,Actve
+STU-0471,Samuel James,25,FEMALE,Computer Science,080-28373362, samuel.james257@example.com ,"Apr 21, 2025",3.45,92.5,878527.51,active
+STU-0472,Ibrahim Bello,45,femal,Economics,,ibrahim.bello233@example.com,19/07/2022,3.32,92.0,914653.7,On Leave
+STU-0473,FATIMA SMITH,39,mle,Economics,08061377743,fatima.smith718@example.com,23/12/2022,3.07,103.0,872715.29,Active
+STU-0474,DANIEL MUSA,39,FEMALE,ECONOMICS,(080)57030616,daniel.musa799@example.com,2022-05-24,2.99,85.7,1003536.27,Graduated
+STU-0475,Grace James,32,FEMALE,  Mass Communication  ,(080)57730294,grace.james632@example.com,24/08/2020,3.27,82.3,989591.79,ACTIVE
+STU-0476,Chiamaka Ibrahim,38,female,mass communication,(080)94279055, chiamaka.ibrahim930@example.com ,2024-04-17,3.32,95.7,1034212.27,Active
+STU-0477,Daniel Musa,23,F,Bio chemistry,080-80081274,daniel.musa835@example.com,21/09/2025,2.75,94.3,858064.58,Graduated
+STU-0478,grace okafor,36,mle,Computer Science,(080)11693032,grace.okafor982@example.com,06/03/2022,3.46,102.0,775472.01,active
+STU-0479,Esther Garba,72,femal,Bio chemistry,,esther.garba480@example.com,2024-05-14,1.82,85.8,597861.94,active
+STU-0480,John Smith,20,female,Biochemistry,,john.smith777@example.com,2023-02-23,3.4,101.6,1010073.53,On Leave
+STU-0481,Emeka Brown,41,F,Business Administration,+234 8095997273, emeka.brown467@example.com ,07/03/2022,,69.8,640123.8,on leave
+STU-0482,Peter Adeyemi,34,mle,computer science,080-97833815,peter.adeyemi195@example.com,17/01/2021,2.5,102.7,709383.12,  Suspended  
+STU-0483,Mary Usman,44,Femle,COMPUTER SCIENCE,, mary.usman197@example.com ,17/11/2021,4.16,81.7,1040967.87,  Graduated  
+STU-0484,John Usman,18,MALE,Business Admin,(080)21161407,john.usman879@example.com,2023-10-04,,89.9,878510.45,On Leave
+STU-0485,Grace Ibrahim,31,mle,COMPUTER SCIENCE,+234 8035936125,,22/08/2021,2.65,74.6,978121.76,Suspended
+STU-0486,Fatima Smith,45,mle,Mass Communication ,,None,12-24-2025,3.54,82.3,839033.68,On Leave
+STU-0487,Blessing Obi,21,mle,  Biochemistry  ,080-76850916,blessing.obi150@example.com,01-15-2021,3.31,,1156071.55,GRADUATED
+STU-0488,Michael Bello,29,femal,COMPUTER SCIENCE,,MICHAEL.BELLO847@EXAMPLE.COM,05-28-2021,2.39,90.2,922273.76,On Leave
+STU-0489,DANIEL BROWN,29,F,BIOCHEMISTRY,(080)73247662,,2024-04-12,2.53,92.8,599933.0,Actve
+STU-0490,John Garba,38,female,computer science,080-21335562,,04/10/2022,5.5,93.0,619351.07,Active
+STU-0491,Esther Eze,19,FEMALE,ECONOMICS,080-53869960,esther.eze688@example.com,"Jan 22, 2024",,,602120.49,ACTIVE
+STU-0492,Samuel Obi,44,F,computer science,(080)93206701,samuel.obi332@example.com,"Jun 01, 2025",3.38,82.0,782012.05,ACTIVE
+STU-0493, Daniel   Brown ,44,Femle,  BIOCHEMISTRY  ,08072901913,daniel.brown615@example.com,22/10/2020,2.79,78.0,941693.69,active
+STU-0494,John Smith,18,F,Biochemistry,080-19335265,john.smith369@example,2020-05-19,,88.6,1051256.69,suspended
+STU-0495,Blessing Usman,26,female,Business Administration,080-66741789,blessing.usman887@example.com,03/10/2022,3.71,67.0,816985.52,ACTIVE
+STU-0496, Peter   Thomas ,27,FEMALE,mass communication,(080)95272916,PETER.THOMAS635@EXAMPLE.COM,17/08/2020,3.26,79.3,943864.09,Suspended
+STU-0497,  Mary Williams  ,40,MALE,Business Admin,,,"Mar 03, 2021",3.06,67.9,1135664.89,ACTIVE
+STU-0498,Blessing Adebayo,34,mle,Business Administration,null, blessing.adebayo651@example.com ,2021-11-21,2.15,84.6,1296820.96,On Leave
+STU-0499,Fatima Okafor,31,Female,computer science,08067609965,,07/07/2023,3.42,97.3,836748.43,Actve
+STU-0500,Esther Okafor,30,F,Business Admin,,esther.okafor287@example.com,2021-01-28,3.6,71.6,658261.4,graduated
+STU-0501,null,29,M,Business Admin,080-40357856,john.thomas985@example.com,01-16-2025,2.78,90.4,668145.2,active
+STU-0502,Ibrahim Smith,22,FEMALE,Biochemistry,(080)73112060,ibrahim.smith544@example.com,17/07/2023,2.13,62.6,874291.6,GRADUATED
+STU-0503,DANIEL WILLIAMS,35,F,Biochemistry,08064892534, daniel.williams562@example.com ,01-10-2023,2.91,99.8,1221680.21,Actve
+STU-0504,Chiamaka Thomas,40,femal,Business Admin,,,07-22-2022,1.28,-10.0,844962.23,ACTIVE
+STU-0505,Mary Adeyemi,41,mle,Biochemistry,234975112356, mary.adeyemi812@example.com ,2025-09-04,2.95,79.5,701419.37,GRADUATED
+STU-0506,Mary Garba,43,Female,Computer Science,234986502097,mary.garba242@example.com,2024-11-07,4.42,78.3,1406448.68,ACTIVE
+STU-0507,Michael Williams,20,femal,mass communication,080-76168150, michael.williams60@example.com ,"Dec 07, 2025",3.57,80.9,995890.43,Active
+STU-0508,Esther Musa,27,Femle,Computer Science,080-65133422, esther.musa67@example.com ,01-25-2020,2.67,82.4,,graduated
+STU-0509,Sarah Musa,42,M,Mass Communication,,sarah.musa519@example.com,07/12/2025,3.2,60.0,1220274.09,GRADUATED
+STU-0073,EMEKA ADEBAYO,18,FEMALE,BUSINESS ADMIN,(080)83541097,,"Jun 06, 2023",3.66,82.6,848195.07,GRADUATED
+STU-0511,Daniel Garba,18,male,ECONOMICS,(080)31036615,daniel.garba806@example.com,NA,2.95,130.0,1146768.54,GRADUATED
+STU-0512, Sarah   Usman ,44,mle,business admin,+234 8034423369,,10-30-2021,2.64,112.1,679194.64,active
+STU-0513,Amina Johnson,36,Femle,Economics,234863199132,amina.johnson367@example.com,2022-02-11,3.35,63.7,1152563.33,Actve
+STU-0514,FATIMA GARBA,20,Femle,Mass Communication ,08082101751,fatima.garba682@example.com,"Jan 27, 2021",2.87,82.6,933595.27,suspended
+STU-0515,amina johnson,36,Male,Bio chemistry,08046333211,amina.johnson75@example.com,2024-10-09,2.1,67.4,-1028495.91,Actve
+STU-0516,Chiamaka Johnson,43,F,MASS COMM.,+234 8031324936,chiamaka.johnson382@example.com,07-23-2025,2.97,90.3,1195237.85,graduated
+STU-0517, John   Adebayo ,44,male,Computer Science,08012869345,john.adebayo311@example.com,2020-02-11,2.97,93.0,731706.55,suspended
+STU-0518, Mary   Johnson ,18,Female,Computer Science,(080)47223496,mary.johnson861@example.com,11/06/2024,3.01,79.4,759432.81,suspended
+STU-0519,Grace Johnson,42,F,business admin,+234 8038978055,grace.johnson74@example,2024-10-25,3.17,88.9,1035530.93,on leave
+STU-0520, Chiamaka   Obi ,43,mle,Business Administration,+234 8098029535, chiamaka.obi935@example.com ,18/07/2020,3.56,105.1,1043469.32,suspended
+STU-0521, Daniel   Johnson ,30,Femle,economics,080-65162440,daniel.johnson35@example.com,03/10/2021,3.45,78.5,737375.3,graduated
+STU-0522, Amina   Ibrahim ,31,MALE,COMPUTER SCIENCE,, amina.ibrahim61@example.com ,2023-02-18,3.77,,1028126.23,suspended
+STU-0523, David   Smith ,38,F,business admin,234919311600,david.smith320@example.com,2023-10-25,3.14,73.7,1026570.84,Graduated
+STU-0524, Ibrahim   Usman ,20,Femle,Biochemistry,080-10833220,ibrahim.usman733@example.com,08/07/2024,3.34,80.3,1364769.13,Graduated
+STU-0525,GRACE BELLO,41,FEMALE,computer science,080-66513799,grace.bello546@example.com,23/11/2022,2.43,89.5,885588.59,graduated
+STU-0526,Peter Usman,39,MALE,Business Admin,234884647886,peter.usman97@example.com,"Aug 11, 2025",3.49,89.7,922077.06,GRADUATED
+STU-0527,David Johnson,23,F,Mass Communication,,david.johnson47@example.com,03-26-2024,2.39,65.7,628907.37,graduated
+STU-0528,Michael Usman,28,Male,Business Administration,,michael.usman818@example.com,2023-10-07,2.73,85.9,678563.34,GRADUATED
+STU-0529, Michael   Usman ,42,M,ComputerScience,(080)86052103, michael.usman318@example.com ,18/03/2022,2.39,71.3,938931.99,suspended
+STU-0530,N/A,38,mle,economics,08071276342,fatima.smith386@example.com,2025-09-09,3.22,63.0,667831.83,On Leave
+STU-0531,JOHN WILLIAMS,31,Female,COMPUTER SCIENCE,080-18908057,john.williams471@example.com,"Apr 25, 2025",3.22,102.9,846916.95,GRADUATED
+STU-0532,Michael Johnson,43,female,Biochemistry,,michael.johnson455@example.com,,2.52,0.0,867968.05,Active
+STU-0533,Fatima Bello,N/A,FEMALE,economics,08053402078,fatima.bello499@example.com,2020-02-11,2.3,78.1,1003727.59,Graduated
+STU-0534,Samuel Ibrahim,38,F,business admin,(080)33378622,samuel.ibrahim591@example.com,2022-07-22,3.31,85.2,995802.8,active
+STU-0535,JOHN MUSA,30,Female,BUSINESS ADMIN,+234 8042103450,john.musa601@example,2020-12-17,3.19,79.8,707485.09,ACTIVE
+STU-0536,Michael Williams,27,male,ECONOMICS,(080)54785672,michael.williams344@example,07/05/2021,2.1,90.3,578115.6,  active  
+STU-0537,Samuel Garba,37,Female,Economics,,samuel.garba790@example.com,29/04/2023,0.0,87.6,1112288.93,Actve
+STU-0538, Samuel   Williams ,41,Male,Mass Communication,080-85479591,samuel.williams311@example.com,2023-01-02,3.18,102.9,1349731.0,Suspended
+STU-0539,BLESSING USMAN,18,mle,economics,080-85203797,blessing.usman921@example.com,19/06/2022,3.6,77.3,1045470.34,active
+STU-0540,Michael Bello,38,male,ECONOMICS,,michael.bello674@example.com,"Oct 10, 2022",4.28,95.2,1415278.61,  active  
+STU-0541,Daniel Bello,41,Femle,Economics,(080)33912603,DANIEL.BELLO291@EXAMPLE.COM,13/08/2023,1.82,65.7,694207.52,Suspended
+STU-0542,Mary Eze,18,mle,Economics,08051983760,mary.eze410@example.com,2020-08-21,2.85,105.0,1368886.98,graduated
+STU-0543,peter brown,45,F,,234928010373, peter.brown347@example.com ,2020-04-13,3.87,88.9,1254337.97,On Leave
+STU-0544,Amina Smith,29,Femle,Bio chemistry,+234 8069534767,AMINA.SMITH494@EXAMPLE.COM,02/03/2025,2.77,78.7,1436163.65,ACTIVE
+STU-0545,Peter Johnson,35,female,COMPUTER SCIENCE,,peter.johnson460@example.com,07-21-2025,3.06,90.9,962397.74,On Leave
+STU-0546,Ibrahim Smith,30,Female,Economics,,ibrahim.smith933@example.com,2023-01-07,2.88,96.2,741759.49,Graduated
+STU-0547, Ibrahim   Thomas ,19,M,business admin,080-29456653,ibrahim.thomas81@example.com,12-23-2022,3.55,87.8,719477.55,suspended
+STU-0548,Esther Garba,33,female,COMPUTER SCIENCE,08032410104,esther.garba411@example.com,2021-05-27,3.48,79.9,794775.66,on leave
+STU-0549,Sarah Adeyemi,40,MALE,Economics,(080)87640403,sarah.adeyemi874@example.com,2022-04-17,3.28,85.3,,graduated
+STU-0550,Ibrahim Okafor,19,mle,Mass Communication ,08014671025,ibrahim.okafor964@example.com,16/04/2025,2.45,110.0,,GRADUATED
+STU-0551,grace obi,44,FEMALE,economics,(080)97132212,GRACE.OBI483@EXAMPLE.COM,18/03/2020,2.67,63.0,638034.93,Suspended
+STU-0552,MARY BROWN,37,Femle,Bio chemistry,080-44531863, mary.brown658@example.com ,14/05/2021,2.45,74.8,,On Leave
+STU-0553,Esther Johnson,41,Female,computer science,080-65305839,esther.johnson10@example.com,2021-09-24,2.88,82.8,-643616.48,Graduated
+STU-0554, Mary   Brown ,72,mle,ECONOMICS,080-85579949,,10-03-2021,2.15,80.6,-584115.18,Active
+STU-0555,Daniel Williams,42,F,business admin,(080)61941558,daniel.williams472@example.com,2023-03-25,,56.2,1131913.94,  on leave  
+STU-0556,Esther James,28,Femle,Bio chemistry,(080)56980308,esther.james159@example.com,2024-11-28,2.73,102.9,590052.65,On Leave
+STU-0557,Amina Thomas,41,F,Biochemistry,(080)77213734,AMINA.THOMAS489@EXAMPLE.COM,01-19-2024,5.5,103.8,-1424741.12,active
+STU-0558,daniel james,43,female,MASS COMM.,+234 8039196541,daniel.james601@example.com,2020-10-03,2.68,70.1,733184.29,ACTIVE
+STU-0559,Samuel Bello,37,M,BIOCHEMISTRY,080-32116646,samuel.bello938@example.com,01-03-2023,2.99,81.1,621760.41,  Graduated  
+STU-0560,Fatima Williams,22,M,ComputerScience,08015585153,fatima.williams379@example.com,10-06-2021,3.11,95.3,1095272.29,ACTIVE
+STU-0561,Peter Adebayo,22,mle,Computer Science,,peter.adebayo626@example.com,11/02/2022,2.18,,665784.05,On Leave
+STU-0562,ibrahim williams,43,FEMALE,ComputerScience,08027604070,,2022-02-27,3.04,76.0,684556.79,Active
+STU-0563, Chiamaka   Smith ,32,Male,computer science,08031487239,chiamaka.smith996@example.com,2025-09-13,3.03,71.5,736173.57,suspended
+STU-0564,Grace Johnson,38,F,Computer Science,08087482555,,2025-11-14,3.16,89.2,1096412.05,graduated
+STU-0565,Daniel Ibrahim,27,femal,Business Administration,,daniel.ibrahim336@example.com,"Jul 10, 2020",3.76,88.7,-1187848.93,on leave
+STU-0566,DAVID WILLIAMS,21,female,Computer Science,+234 8077411622, david.williams696@example.com ,2020-06-19,3.89,69.1,701529.36,active
+STU-0567,Chiamaka Johnson,44,M,  BIOCHEMISTRY  ,,,2023-09-08,2.41,79.2,951097.48,On Leave
+STU-0568,Amina Williams,41,Female,computer science,,amina.williams706@example.com,2020-03-16,2.83,73.2,763873.64,ACTIVE
+STU-0569,Ibrahim Ibrahim,39,mle,economics,08034680349,ibrahim.ibrahim15@example.com,"Jan 03, 2021",2.38,92.0,1003168.01,active
+STU-0570,Samuel Usman,35,male,Biochemistry,080-24854770, samuel.usman398@example.com ,06-17-2023,2.2,100.6,724600.68,suspended
+STU-0571,Grace Smith,42,male,computer science,080-49906708,grace.smith490@example.com,11-23-2025,4.2,103.7,926933.8,GRADUATED
+STU-0572,esther musa,42,mle,business admin,+234 8026282524,esther.musa932@example.com,2020-07-11,2.95,88.5,1051844.01,suspended
+STU-0573,Fatima Thomas,20,MALE,ComputerScience,+234 8086505174,fatima.thomas36@example.com,2021-09-28,2.63,94.3,1017932.56,Actve
+STU-0574,David James,37,F,Business Administration,08088994317,,2021-02-21,-1.0,88.9,867613.73,Actve
+STU-0575,John Usman,36,female,Biochemistry,234946206622,john.usman588@example.com,2025-04-04,2.87,72.8,918038.19,Active
+STU-0576,Daniel Obi,31,femal,COMPUTER SCIENCE,,daniel.obi865@example.com,2025-03-08,3.66,106.9,862603.39,ACTIVE
+STU-0577,Daniel Musa,31,Female,Biochemistry,,daniel.musa729@example.com,02-18-2025,3.15,95.3,1333831.36,Active
+STU-0578, Michael   Adeyemi ,20,female,Biochemistry,,michael.adeyemi642@example.com,2021-05-11,3.91,74.7,779303.33,suspended
+STU-0579, Amina   Ibrahim ,45,male,COMPUTER SCIENCE,234984725293,amina.ibrahim363@example.com,10-30-2022,0.0,0.0,873948.7,On Leave
+STU-0580,Grace Thomas,15,femal,MASS COMM.,080-81488730,,25/08/2022,,130.0,1182098.22,On Leave
+STU-0581,Amina Brown,22,FEMALE,Business Administration,080-75923038,amina.brown820@example.com,17/10/2022,3.08,89.9,-850859.71,active
+STU-0582,Amina Smith,22,M,BUSINESS ADMIN,080-40775086,AMINA.SMITH770@EXAMPLE.COM,01-10-2023,2.74,105.3,928928.51,GRADUATED
+STU-0583,Samuel Thomas,19,femal,COMPUTER SCIENCE,234994873787,samuel.thomas188@example.com,2023-02-22,1.9,94.7,839151.78,suspended
+STU-0584,Peter Bello,38,Femle,business admin,08070856850,,2022-09-04,2.2,72.1,1183793.57,Actve
+STU-0585,Amina Musa,21,Femle,Economics,(080)25249344,amina.musa99@example.com,"Apr 06, 2021",3.49,68.0,811774.35,Suspended
+STU-0586,Amina Brown,37,male,Business Administration,234806006076,amina.brown983@example.com,2025-07-25,2.9,N/A,1439324.91,Graduated
+STU-0587,Mary Ibrahim,45,Femle,ComputerScience,,MARY.IBRAHIM404@EXAMPLE.COM,2021-10-14,3.65,,1294001.21,Graduated
+STU-0588,SARAH IBRAHIM,34,M,economics,08074132352,sarah.ibrahim113@example.com,20/12/2023,2.99,70.7,733765.85,graduated
+STU-0589,Peter Thomas,40,Male,NA,(080)87460489,peter.thomas396@example.com,2025-08-22,3.35,83.1,1106940.71,ACTIVE
+STU-0590,Amina Johnson,43,F,Economics,08011330585,amina.johnson301@example.com,"Oct 07, 2023",2.38,88.2,658456.44,ACTIVE
+STU-0591,Blessing Usman,25,Male,Business Administration,080-32395129,,2020-08-07,3.03,64.8,569484.14,ACTIVE
+STU-0592,Grace Obi,27,F,MASS COMM.,234827644119,grace.obi87@example.com,21/09/2021,2.17,75.5,983483.16,ACTIVE
+STU-0593,Emeka Okafor,37,M,BIOCHEMISTRY,08012933254,emeka.okafor583@example.com,2024-05-07,3.25,85.6,785798.94,graduated
+STU-0594,Samuel Usman,42,Male,economics,,samuel.usman485@example.com,07/06/2024,3.33,81.4,812759.34,Graduated
+STU-0595,Chiamaka James,38,MALE,Biochemistry,(080)49646934,chiamaka.james337@example.com,06/06/2020,,58.6,661787.57,Active
+STU-0596, Mary   Brown ,35,mle,ComputerScience,,mary.brown835@example.com,04-01-2020,4.0,81.9,823639.84,Actve
+STU-0597,Fatima Bello,18,MALE,Business Admin,,fatima.bello814@example,08/02/2023,2.68,88.7,842794.58,graduated
+STU-0598,mary thomas,43,Femle,  computer science  ,+234 8026087333,mary.thomas439@example.com,02/12/2024,3.04,84.1,1120250.89,Suspended
+STU-0599,Esther Obi,21,female,Business Administration,080-92155898,ESTHER.OBI143@EXAMPLE.COM,23/04/2020,1.99,130.0,929262.22,ACTIVE
+STU-0600,blessing okafor,36,MALE,BIOCHEMISTRY,+234 8020226332,blessing.okafor980@example.com,2025-05-10,3.7,68.0,774957.07,suspended
+STU-0601,David Obi,34,Femle,ECONOMICS,234802940970,DAVID.OBI86@EXAMPLE.COM,"Apr 13, 2023",2.55,,602282.44,ACTIVE
+STU-0602,Michael Musa,27,Female,Mass Communication,(080)32587517,michael.musa466@example.com,,3.01,78.8,671278.12,GRADUATED
+STU-0603,Sarah Bello,24,Male,Economics,08095106402,sarah.bello732@example.com,2022-04-15,3.02,,822645.71,On Leave
+STU-0604,Amina Obi,32,femal,ECONOMICS,234862486083,,05-29-2021,2.22,,975944.38,On Leave
+STU-0605,samuel smith,32,F,ComputerScience,(080)21033833,samuel.smith607@example.com,2024-12-13,3.24,65.3,1061064.36,ACTIVE
+STU-0606,Daniel Adebayo,20,Female,economics,080-74384053, daniel.adebayo491@example.com ,2023-03-03,,71.7,833175.92,GRADUATED
+STU-0607,Grace Johnson,42,Male,COMPUTER SCIENCE,234835849301,grace.johnson789@example.com,2024-07-03,2.91,62.6,-756409.23,graduated
+STU-0608,david ibrahim,33,Femle,Business Administration,08039312675,david.ibrahim964@example.com,09-25-2021,3.88,0.0,824932.4,on leave
+STU-0609,Ibrahim Bello,27,M,economics,,,03/08/2022,2.58,74.0,1013839.01,On Leave
+STU-0610, Blessing   Usman ,29,mle,Mass Communication ,080-20070268,blessing.usman349@example.com,2020-08-14,2.2,78.9,803938.32,Actve
+STU-0611,Ibrahim Williams,21,FEMALE,None,,,09/10/2021,2.99,69.2,914122.46,on leave
+STU-0612,Mary Obi,17,male,BUSINESS ADMIN,N/A,mary.obi908@example.com,08/09/2023,2.77,96.1,1086235.84,graduated
+STU-0613,Peter Thomas,30,female,COMPUTER SCIENCE,+234 8039452196,,2024-11-06,2.71,73.5,907876.55,active
+STU-0614,Sarah James,21,FEMALE,Mass Communication,080-16424656,sarah.james342@example.com,2022-04-26,2.93,63.6,1233089.01,On Leave
+STU-0615,Michael Garba,29,femal,Mass Communication,234842151429,michael.garba678@example,,5.5,90.2,761551.91,graduated
+STU-0616,Esther Obi,19,M,COMPUTER SCIENCE,234803297800,esther.obi653@example.com,2024-12-12,2.65,95.5,743052.35,suspended
+STU-0617,Samuel Usman,41,FEMALE,Biochemistry,,samuel.usman504@example.com,06-07-2023,1.73,80.4,1129673.17,suspended
+STU-0618,David Okafor,29,FEMALE,economics,08084745779,david.okafor655@example.com,17/10/2020,2.21,69.4,1042827.67,Suspended
+STU-0619,MICHAEL USMAN,17,Femle,mass communication,, michael.usman963@example.com ,04-01-2020,2.47,76.5,876759.37,GRADUATED
+STU-0620, Emeka   Johnson ,32,Femle,Computer Science,234846256302, emeka.johnson258@example.com ,02-24-2020,1.96,107.4,649328.74,GRADUATED
+STU-0621,John Adeyemi,20,Female,Mass Communication ,+234 8052950493,john.adeyemi81@example.com,09-12-2022,2.97,,1316614.81,Actve
+STU-0622,Blessing Johnson,38,FEMALE,BIOCHEMISTRY,, blessing.johnson952@example.com ,06/11/2020,3.35,98.4,1027083.72,Active
+STU-0623,Ibrahim Usman,19,Female,COMPUTER SCIENCE,+234 8057829551,ibrahim.usman86@example.com,2025-09-23,3.64,74.2,934074.28,On Leave
+STU-0624,Peter Musa,31,MALE,MASS COMM.,080-96482641,peter.musa456@example.com,03-17-2021,2.59,84.3,728459.89,On Leave
+STU-0625,Chiamaka Bello,32,femal,computer science,(080)79029550,chiamaka.bello237@example.com,2023-04-23,3.35,83.6,789898.54,active
+STU-0626,Amina Williams,29,Female,business admin,+234 8083726270,amina.williams971@example.com,15/04/2021,2.43,84.8,1016641.23,GRADUATED
+STU-0627,Ibrahim Eze,17,Female,mass communication,(080)35413340,ibrahim.eze506@example.com,2021-03-21,3.64,80.7,1389704.85,On Leave
+STU-0628,Emeka Okafor,25,M,Mass Communication ,(080)74892938, emeka.okafor73@example.com ,,3.86,98.8,1226363.64,On Leave
+STU-0629,JOHN GARBA,24,Male,Mass Communication,080-88418524,john.garba13@example,"Jul 25, 2022",2.73,68.6,742187.24,graduated
+STU-0630,DANIEL WILLIAMS,27,male,Bio chemistry,08010945588,,"Nov 17, 2021",5.5,82.3,891196.4,  ACTIVE  
+STU-0631,Samuel Williams,30,mle,Business Admin,,samuel.williams306@example.com,29/03/2023,2.26,95.2,791470.51,Active
+STU-0632,Emeka Musa,35,MALE,COMPUTER SCIENCE,+234 8028517268,emeka.musa664@example.com,2024-01-08,2.81,71.1,1263768.41,active
+STU-0633,Daniel Bello,28,F,Computer Science,(080)23806218,daniel.bello504@example.com,2020-03-04,9.0,97.6,1151330.17,GRADUATED
+STU-0634,Grace James,21,femal,Business Admin,(080)80014430,grace.james742@example.com,01/09/2020,3.81,78.8,724275.77,On Leave
+STU-0635,Esther Adeyemi,28,FEMALE,Computer Science,(080)75150964,esther.adeyemi986@example.com,01-09-2025,2.88,79.8,711979.57,Graduated
+STU-0636,Blessing Garba,32,FEMALE,Mass Communication ,(080)70190563,blessing.garba270@example.com,"May 31, 2021",2.77,68.9,980120.66,GRADUATED
+STU-0637,Peter Okafor,67,MALE,Bio chemistry,+234 8045401038,peter.okafor280@example.com,"Apr 30, 2020",9.0,87.8,1007928.39,Suspended
+STU-0638,Amina Johnson,28,male,Mass Communication,234934997881,amina.johnson74@example.com,2025-08-11,3.48,81.5,1499348.17,ACTIVE
+STU-0639,  Blessing Adeyemi  ,22,F,ComputerScience,,blessing.adeyemi933@example.com,05/03/2023,3.7,70.0,925850.01,graduated
+STU-0640,Ibrahim Eze,17,FEMALE,Biochemistry,,ibrahim.eze753@example.com,22/02/2021,2.61,91.1,745466.04,ACTIVE
+STU-0641,JOHN GARBA,27,mle,Biochemistry,234890282262,john.garba576@example.com,06/06/2021,3.89,80.0,1474206.01,Suspended
+STU-0642,Chiamaka Garba,30,F,Economics,(080)14560333,chiamaka.garba593@example.com,25/10/2022,N/A,67.1,1408518.41,ACTIVE
+STU-0643,PETER JAMES,28,female,Economics,08021790655,peter.james844@example.com,2023-08-10,2.89,81.3,923751.59,Active
+STU-0644,Fatima Thomas,35,male,ComputerScience,234900118265,fatima.thomas250@example.com,08-02-2024,2.84,130.0,569935.98,active
+STU-0645,Esther Musa,41,FEMALE,ComputerScience,08028318304, esther.musa130@example.com ,"Apr 27, 2023",2.28,74.3,825559.79,GRADUATED
+STU-0646,Michael Obi,23,male,Biochemistry,, michael.obi324@example.com ,21/10/2025,3.64,75.1,1188336.87,suspended
+STU-0647,Grace Johnson,27,F,Business Admin,+234 8038517860,GRACE.JOHNSON607@EXAMPLE.COM,14/07/2025,3.77,81.6,678502.66,active
+STU-0648,Sarah Brown,40,femal,Economics,,sarah.brown842@example.com,29/07/2020,3.22,71.2,953556.2,GRADUATED
+STU-0649,Sarah Usman,18,FEMALE,mass communication,08048575539,sarah.usman286@example.com,2023-05-18,3.44,not available,773470.42,ACTIVE
+STU-0650,Emeka Obi,26,MALE,economics,08014852617,emeka.obi440@example.com,2024-03-31,2.96,79.6,945038.8,Graduated
+STU-0651,Samuel Adebayo,31,M,BIOCHEMISTRY,(080)24757568,samuel.adebayo420@example.com,07-07-2025,2.43,73.5,901199.97,on leave
+STU-0652,Grace Johnson,20,M,ECONOMICS,(080)47326438,grace.johnson254@example.com,"Jan 23, 2021",3.51,89.6,652502.57,Graduated
+STU-0653,Fatima Garba,44,female,Computer Science,08022779667,fatima.garba503@example.com,"Sep 06, 2021",2.57,74.1,828257.82,Suspended
+STU-0654,Esther Musa,45,Female,Bio chemistry,080-28850380,esther.musa111@example.com,2023-11-11,2.68,57.9,1008753.06,On Leave
+STU-0655,Emeka Williams,30,mle,BIOCHEMISTRY,(080)21371178,emeka.williams488@example.com,15/01/2020,3.91,68.0,890520.3,Graduated
+STU-0656,Mary Smith,32,male,mass communication,234955689071,mary.smith680@example.com,03/03/2022,2.26,80.3,901956.24,GRADUATED
+STU-0657,Mary Okafor,22,female,BIOCHEMISTRY,08097191786,mary.okafor493@example.com,2021-09-02,3.32,102.7,656594.26,suspended
+STU-0658,Daniel Musa,27,Female,Mass Communication ,080-59921054,,"Jan 24, 2023",3.35,49.5,711279.61,Suspended
+STU-0659,Michael Thomas,44,F,Mass Communication,(080)35472232,michael.thomas528@example.com,2021-10-03,,,977490.46,On Leave
+STU-0660,Samuel Smith,19,MALE,Biochemistry,08058086800,samuel.smith718@example.com,"Dec 25, 2025",,98.8,805376.76,Actve
+STU-0908,David James,29,female,computer science,(080)76047374, david.james240@example.com ,,2.5,103.9,871477.47,ACTIVE
+STU-0662,Daniel Adeyemi,45,femal,ComputerScience,080-93013630,daniel.adeyemi209@example.com,06-08-2025,3.24,76.5,942619.8,Active
+STU-0663,David Johnson,41,M,business admin,08081995938,david.johnson602@example.com,2021-01-03,3.74,78.2,1041846.17,Graduated
+STU-0664,Fatima Usman,19,Female,BIOCHEMISTRY,,fatima.usman312@example.com,03/03/2021,9.0,90.4,1076209.88,GRADUATED
+STU-0665,David Eze,19,female,Computer Science,080-68654548, david.eze991@example.com ,2021-04-15,-1.0,78.3,-1083694.14,Suspended
+STU-0666,Esther Thomas,38,male,computer science,08031348529,esther.thomas381@example.com,2020-07-11,3.35,105.0,1041824.9,Graduated
+STU-0667,Samuel Musa,18,MALE,Biochemistry,080-39418355,samuel.musa306@example.com,"Sep 03, 2022",3.66,97.6,1113440.28,suspended
+STU-0668,sarah adebayo,27,F,ComputerScience,080-74748114,sarah.adebayo427@example.com,20/05/2025,3.35,103.5,1029835.79,active
+STU-0669,Amina Brown,32,female,Mass Communication ,08020588970,amina.brown421@example.com,21/06/2022,3.58,107.0,1160734.38,graduated
+STU-0670, Chiamaka   Obi ,26,Female,ComputerScience,080-31930035,chiamaka.obi772@example.com,"Apr 03, 2021",3.45,,816718.02,Graduated
+STU-0671,Michael Adeyemi,20,Female,ComputerScience,+234 8042325073,MICHAEL.ADEYEMI138@EXAMPLE.COM,27/06/2022,,92.7,810132.48,graduated
+STU-0672,Fatima Okafor,35,Femle,business admin,,fatima.okafor183@example.com,03-12-2022,3.99,68.0,1150812.71,on leave
+STU-0673,john smith,24,mle,Biochemistry,08080242706,john.smith420@example.com,2020-05-19,3.07,91.4,,On Leave
+STU-0674,Fatima Bello,33,femal,MASS COMM.,(080)53163172, fatima.bello612@example.com ,07-03-2022,2.17,74.8,952187.69,GRADUATED
+STU-0675,Peter Musa,42,femal,COMPUTER SCIENCE,08031656583,peter.musa313@example.com,,2.63,,1340147.71,ACTIVE
+STU-0676,chiamaka obi,27,female,Economics,,chiamaka.obi471@example.com,2020-12-19,2.65,,991046.36,graduated
+STU-0677,John Garba,32,M,ECONOMICS,,john.garba348@example,03-04-2020,2.33,94.3,1167446.16,On Leave
+STU-0678,Amina Obi,37,Female,MASS COMM.,08092843769,AMINA.OBI90@EXAMPLE.COM,16/04/2021,3.45,74.4,926733.17,graduated
+STU-0679,Esther Smith,38,M,Bio chemistry,+234 8053339083,,2021-10-09,3.66,114.7,771863.67,Suspended
+STU-0680,John Williams,38,F,Computer Science,(080)83230782,NA,"Oct 05, 2025",2.52,75.0,675313.42,on leave
+STU-0681,Samuel Thomas,23,MALE,mass communication,08072643336,,2022-04-25,2.4,80.1,666192.93,graduated
+STU-0682,John Okafor,29,F,Business Admin,08097606753,john.okafor30@example.com,2025-05-17,1.78,95.1,817192.26,GRADUATED
+STU-0683,Emeka Brown,25,femal,Mass Communication ,(080)53296780,emeka.brown203@example.com,2020-10-27,3.18,,1297227.13,graduated
+STU-0684,Peter Adebayo,27,FEMALE,  Computer Science  ,08012331293,peter.adebayo106@example.com,2025-01-16,,,827371.94,Suspended
+STU-0685,Emeka Eze,44,F,  Business Admin  ,+234 8079117488,emeka.eze623@example.com,2021-09-10,2.93,76.5,909143.79,Active
+STU-0686,amina smith,39,MALE,ComputerScience,234925591971, amina.smith937@example.com ,"Mar 31, 2021",2.36,81.0,796776.21,Active
+STU-0687,John Garba,22,Femle,MASS COMM.,234983527368,john.garba804@example.com,"Sep 13, 2023",2.37,79.3,843098.89,  suspended  
+STU-0688, Esther   Eze ,24,Male,ECONOMICS,08046464646,esther.eze362@example.com,"Apr 23, 2025",,87.1,997010.69,graduated
+STU-0689,Amina Adeyemi,18,Femle,Computer Science,(080)42253705,amina.adeyemi538@example.com,04/08/2023,,71.6,838523.12,graduated
+STU-0690,John Thomas,42,M,Biochemistry,,john.thomas943@example.com,10/03/2025,3.36,87.0,,On Leave
+STU-0691,CHIAMAKA GARBA,31,M,Biochemistry,+234 8085260978,chiamaka.garba497@example.com,30/08/2022,2.95,73.6,639530.28,On Leave
+STU-0692,Blessing Musa,38,Male,mass communication,(080)57654523,blessing.musa379@example.com,03-18-2023,3.05,76.9,856094.63,Actve
+STU-0693,EMEKA JOHNSON,45,F,Mass Communication ,,N/A,21/01/2022,2.36,93.7,760682.36,Graduated
+STU-0694,EMEKA USMAN,not available,Female,  computer science  ,08093172405,,2023-04-14,2.92,103.5,838879.19,graduated
+STU-0695, Mary   James ,42,F,Business Admin,(080)50003191,mary.james803@example.com,"Sep 30, 2025",1.91,90.5,986037.45,Active
+STU-0696,Sarah Usman,33,femal,BUSINESS ADMIN,+234 8015162898,SARAH.USMAN793@EXAMPLE.COM,2023-06-03,3.51,71.6,1096532.72,Suspended
+STU-1471, Mary   Obi ,38,Femle,Economics,+234 8058009301,mary.obi176@example.com,,2.84,72.9,594535.22,Suspended
+STU-0698,fatima eze,18,mle,Economics,,FATIMA.EZE193@EXAMPLE.COM,03-14-2024,3.63,77.0,,suspended
+STU-0699,mary thomas,18,MALE,mass communication,080-52201328, mary.thomas947@example.com ,"Apr 28, 2020",3.45,73.2,989599.87,suspended
+STU-0700,Fatima Obi,35,MALE,ComputerScience,08074420982,fatima.obi595@example.com,19/12/2024,3.2,94.0,1250197.84,active
+STU-0701,David Thomas,37,femal,economics,(080)15115940, david.thomas285@example.com ,07-27-2020,3.35,91.4,1197589.31,suspended
+STU-0702,Esther Okafor,28,FEMALE,Mass Communication,(080)93818271,esther.okafor315@example.com,08-15-2024,2.91,83.6,1037774.8,suspended
+STU-0703,Sarah Ibrahim,39,female,Business Admin,+234 8063121271,sarah.ibrahim774@example.com,08/09/2022,3.15,74.5,1008986.47,Active
+STU-0704,EMEKA EZE,27,FEMALE,Business Admin,+234 8078512445,emeka.eze101@example.com,2020-10-03,2.53,93.2,977568.15,on leave
+STU-0705,SAMUEL THOMAS,26,MALE,Mass Communication ,,samuel.thomas597@example.com,2025-01-26,0.0,?,581106.05,graduated
+STU-0706,Emeka Ibrahim,43,femal,Business Admin,,emeka.ibrahim652@example.com,2023-11-22,2.83,88.6,1035194.63,suspended
+STU-0707,John Usman,22,Femle,Business Administration,+234 8016171921,john.usman169@example,2023-08-14,5.5,79.1,797639.69,active
+STU-0708,Esther Smith,35,mle,Mass Communication,08042562218,esther.smith308@example.com,null,2.83,74.8,995457.92,Active
+STU-0709,John Bello,23,Male,BIOCHEMISTRY,234806571684,john.bello918@example.com,"Jul 07, 2023",3.8,88.8,640358.59,graduated
+STU-0710,Fatima Johnson,35,M,ECONOMICS,,fatima.johnson969@example.com,2021-03-14,2.98,83.8,1002095.38,On Leave
+STU-0711,Esther Musa,36,F,Biochemistry,+234 8049608031,ESTHER.MUSA100@EXAMPLE.COM,2020-04-29,2.16,93.7,810715.82,Active
+STU-0712,Ibrahim Obi,99,male,BIOCHEMISTRY,(080)51859980,ibrahim.obi747@example.com,2022-05-28,2.21,66.6,698242.87,Active
+STU-0713,David Obi,67,female,ECONOMICS,,david.obi68@example.com,"Aug 26, 2025",3.15,90.5,997686.74,Graduated
+STU-0714,Emeka Brown,33,M,Computer Science,+234 8018767671,emeka.brown944@example.com,2021-01-31,2.58,81.4,,  GRADUATED  
+STU-0715,Chiamaka Thomas,17,MALE,ECONOMICS,,chiamaka.thomas36@example.com,"Aug 08, 2020",,83.9,1096567.63,Suspended
+STU-0716,Blessing Bello,37,Female,economics,08044817259,blessing.bello957@example.com,2020-12-01,2.99,86.0,1087812.0,Actve
+STU-0717,Fatima Thomas,21,Female,Biochemistry,08050490594, fatima.thomas186@example.com ,"Dec 18, 2022",2.42,78.1,877191.82,GRADUATED
+STU-0718,Blessing Ibrahim,42,female,Business Admin,,blessing.ibrahim760@example.com,2023-09-10,2.04,71.9,893044.6,on leave
+STU-0719,John Adeyemi,23,Male,Business Administration,08061316831,,05-12-2022,2.58,73.3,902195.81,GRADUATED
+STU-0720,emeka usman,45,Femle,BIOCHEMISTRY,(080)62958140,EMEKA.USMAN402@EXAMPLE.COM,04-25-2025,2.69,85.9,756908.08,On Leave
+STU-0721,FATIMA GARBA,35,FEMALE,Biochemistry,,,10-07-2023,2.52,,862204.67,suspended
+STU-0722,DAVID JAMES,32,Female,computer science,,david.james833@example.com,08/09/2025,3.65,105.0,1410054.47,active
+STU-0723,Mary Obi,32,female,mass communication,,mary.obi909@example.com,2025-09-25,2.76,81.1,1087176.25,  ACTIVE  
+STU-0724,peter smith,40,mle,Business Admin,(080)31724506,peter.smith202@example.com,01-16-2022,,87.9,824242.32,GRADUATED
+STU-0725,Esther Adebayo,17,Female,Business Admin,234920681938,esther.adebayo264@example.com,2025-01-02,2.7,93.5,689912.05,Actve
+STU-0726,John Bello,41,F,Computer Science,,john.bello952@example.com,21/10/2024,2.71,,743161.43,Actve
+STU-0727,David Musa,19,femal,economics,,,2025-05-13,3.06,66.7,-928254.0,suspended
+STU-0728,GRACE BROWN,36,female,ECONOMICS,+234 8016643929,grace.brown488@example.com,2025-01-21,3.17,,875356.49,On Leave
+STU-0729,Emeka Adeyemi,21,F,mass communication,,emeka.adeyemi787@example.com,2022-02-22,3.17,83.7,895289.69,Active
+STU-0730,Esther Smith,22,F,MASS COMM.,(080)44710064, esther.smith616@example.com ,03-01-2022,2.64,90.7,1357251.02,On Leave
+STU-0731,Esther Johnson,44,FEMALE,computer science,(080)42138153,esther.johnson433@example.com,"Jun 03, 2023",,75.4,1335326.96,Active
+STU-0732,Samuel Thomas,41,M,COMPUTER SCIENCE,080-89623284,samuel.thomas393@example.com,30/03/2025,9.0,97.6,942706.81,Active
+STU-0733,Grace Okafor,28,Female,Business Administration,234810714226,,12-11-2022,3.11,89.4,1072396.89,Active
+STU-0734,michael ibrahim,29,mle,Business Administration,080-52471671,michael.ibrahim126@example.com,2025-07-06,3.11,84.3,800543.24,on leave
+STU-0735,  Chiamaka Musa  ,18,male,MASS COMM.,,chiamaka.musa784@example.com,"Feb 25, 2022",2.38,71.4,865085.46,Actve
+STU-0736,  Blessing Smith  ,38,femal,Mass Communication ,234807904335,blessing.smith226@example.com,null,2.79,79.2,702938.54,Actve
+STU-0737, Grace   Garba ,12,mle,Bio chemistry,08036331701,grace.garba783@example.com,30/05/2022,1.43,74.8,1473085.73,on leave
+STU-0738,Daniel James,17,Femle,BUSINESS ADMIN,080-55987991, daniel.james834@example.com ,20/09/2024,not available,97.5,944580.23,graduated
+STU-0739,John Obi,17,male,Bio chemistry,,john.obi193@example.com,18/09/2020,2.44,93.1,732554.5,Suspended
+STU-0740,Samuel Eze,25,femal,Business Administration,080-77678285,samuel.eze104@example.com,2025-09-29,,63.3,999423.91,ACTIVE
+STU-0741,Grace Smith,37,mle,business admin,08066330899,,04-28-2022,1.93,77.5,1311116.49,on leave
+STU-0742,Emeka James,?,female,BUSINESS ADMIN,,emeka.james993@example.com,"Sep 22, 2022",3.68,86.1,859722.22,Active
+STU-0743,Emeka Brown,19,F,Computer Science,+234 8049712962,EMEKA.BROWN120@EXAMPLE.COM,"Feb 13, 2020",2.88,78.0,634262.24,GRADUATED
+STU-0744,Chiamaka Ibrahim,21,male,COMPUTER SCIENCE,+234 8067435854,CHIAMAKA.IBRAHIM178@EXAMPLE.COM,01-21-2023,3.46,85.0,1147663.71,on leave
+STU-0745,  PETER MUSA  ,38,F,Biochemistry,(080)86735957,,2024-06-01,2.56,88.8,671767.06,Actve
+STU-0746,CHIAMAKA OKAFOR,31,mle,ComputerScience,080-74891857,chiamaka.okafor846@example,08-10-2022,3.25,92.8,1007197.46,Suspended
+STU-0747, John   James ,19,M,business admin,234915376414,john.james794@example.com,,2.38,76.6,867504.22,GRADUATED
+STU-0748,David Obi,31,Female,ComputerScience,08024343861,david.obi431@example.com,09/09/2022,2.34,130.0,868179.85,suspended
+STU-0749,Samuel Thomas,41,female,MASS COMM.,080-47596789,,15/10/2020,3.05,69.8,606215.78,GRADUATED
+STU-0750,Michael Adeyemi,40,F,ECONOMICS,08081659872, michael.adeyemi728@example.com ,,2.2,80.8,982128.36,active
+STU-0751,Emeka James,25,FEMALE,computer science,,emeka.james33@example.com,27/07/2024,2.8,73.5,768996.77,Graduated
+STU-0752,Amina James,39,mle,BUSINESS ADMIN,234949669521,amina.james210@example.com,01-29-2020,4.15,105.0,1224910.65,suspended
+STU-0753,John Garba,35,F,economics,,JOHN.GARBA557@EXAMPLE.COM,03-10-2023,2.89,95.9,609265.54,graduated
+STU-0754,John Usman,39,F,Business Admin,+234 8023762972,john.usman220@example.com,2023-08-28,3.7,80.9,765518.95,Actve
+STU-0755,Grace Bello,34,mle,ECONOMICS,,grace.bello473@example.com,2023-03-22,1.96,80.9,688790.44,ACTIVE
+STU-0756,Mary Thomas,36,Femle,COMPUTER SCIENCE,(080)93369509,mary.thomas445@example.com,04/12/2025,2.92,54.1,922071.63,on leave
+STU-0757,Esther Williams,44,F,Computer Science,234814257794,esther.williams170@example.com,2021-08-05,3.42,81.6,936365.87,Active
+STU-0758,Sarah James,38,female,null,(080)86759394,sarah.james308@example.com,06-05-2022,3.14,90.6,934730.39,Active
+STU-0759,amina garba,21,Femle,BIOCHEMISTRY,08085662825,amina.garba977@example.com,12-21-2021,2.89,49.1,-927934.88,active
+STU-0760,Fatima Williams,45,M,mass communication,(080)10174786,fatima.williams625@example.com,01-18-2021,3.31,91.1,776543.56,Actve
+STU-0761,Fatima James,34,femal,mass communication,234967046432,fatima.james33@example.com,11/11/2024,3.73,70.2,806893.9,Suspended
+STU-0762,Esther Adeyemi,36,Femle,mass communication,,esther.adeyemi889@example.com,2025-08-10,3.65,70.6,1132087.11,On Leave
+STU-0763,Grace Adeyemi,28,Male,Mass Communication ,080-40998263,grace.adeyemi928@example.com,23/04/2021,2.84,62.9,930854.86,Graduated
+STU-0764,Mary Usman,19,Female,Biochemistry,234922804478,mary.usman16@example.com,2025-01-15,4.25,83.7,1088970.13,GRADUATED
+STU-0765, Michael   Adeyemi ,20,Male,Bio chemistry,,michael.adeyemi625@example.com,05-24-2022,2.96,98.7,885382.28,ACTIVE
+STU-0766,mary james,33,female,Business Admin,08082277452,mary.james115@example.com,04-10-2024,1.81,95.0,918844.0,suspended
+STU-0767,David Thomas,20,MALE,ECONOMICS,08053757490,,2021-01-13,3.25,78.7,929796.79,GRADUATED
+STU-0768,Blessing Eze,40,MALE,ComputerScience,+234 8023857464,blessing.eze337@example.com,17/03/2020,3.06,76.0,836125.69,GRADUATED
+STU-0769,John Musa,45,MALE,Bio chemistry,234906391035,john.musa59@example.com,05/06/2020,2.75,,1254674.02,GRADUATED
+STU-0770,Daniel Musa,20,MALE,ECONOMICS,08047167560,daniel.musa65@example.com,,2.59,76.6,606932.84,on leave
+STU-0771,fatima james,41,female,ComputerScience,234994871898,FATIMA.JAMES705@EXAMPLE.COM,10/12/2024,2.87,,1051006.13,active
+STU-0772,FATIMA OKAFOR,29,Male,COMPUTER SCIENCE,080-42388555,,2020-08-25,2.92,,624271.17,ACTIVE
+STU-0773, Michael   Okafor ,40,male,COMPUTER SCIENCE,(080)11258947,,2025-07-20,2.92,-10.0,777831.05,suspended
+STU-0774,Blessing Obi,31,male,N/A,234965683837,blessing.obi105@example.com,29/05/2022,2.4,71.9,863428.21,Suspended
+STU-0775,Peter Bello,23,Femle,Mass Communication,(080)64811703,PETER.BELLO852@EXAMPLE.COM,,2.66,81.9,615526.32,graduated
+STU-0776,Ibrahim Johnson,32,male,ComputerScience,080-24720999, ibrahim.johnson709@example.com ,2023-12-08,3.11,72.0,726139.99,graduated
+STU-0777,Fatima Musa,36,Female,MASS COMM.,+234 8064760359,fatima.musa425@example.com,2024-09-29,3.13,81.3,783932.18,Active
+STU-0778,GRACE ADEYEMI,22,F,Mass Communication,080-90653930,grace.adeyemi110@example.com,"Jan 05, 2020",3.32,92.3,816455.42,ACTIVE
+STU-0779,David Brown,26,female,Computer Science,08095525915,david.brown390@example.com,09-12-2025,3.25,89.1,1196098.28,Active
+STU-0780,N/A,24,Femle,computer science,080-14990094,PETER.ADEYEMI455@EXAMPLE.COM,"Jul 02, 2021",2.85,79.2,1074411.62,GRADUATED
+STU-0781,Ibrahim Brown,21,M,COMPUTER SCIENCE,+234 8055694695,IBRAHIM.BROWN153@EXAMPLE.COM,11/11/2025,2.47,,1126222.76,graduated
+STU-0782,Daniel Adebayo,26,FEMALE,Business Administration,080-45600952,daniel.adebayo546@example.com,07-03-2025,2.66,86.7,858788.91,Graduated
+STU-0783,Peter James,N/A,Male,Computer Science,08055398454,peter.james339@example.com,28/07/2021,1.71,76.6,644981.35,ACTIVE
+STU-0784, Sarah   Adebayo ,38,Femle,BIOCHEMISTRY,+234 8080895958,,2025-04-27,3.53,73.6,703927.51,ACTIVE
+STU-0785,Peter Adeyemi,26,male,BUSINESS ADMIN,234956863787,peter.adeyemi421@example.com,2020-04-20,-1.0,76.4,639567.49,graduated
+STU-0786,N/A,21,F,Economics,08099736513,daniel.thomas714@example,"Jun 14, 2021",2.99,80.3,655408.29,graduated
+STU-0787,Mary Johnson,23,female,computer science,(080)17602388, mary.johnson294@example.com ,2021-04-08,3.07,68.2,869324.65,Actve
+STU-0788,Peter Adeyemi,35,male,BUSINESS ADMIN,080-73917481,PETER.ADEYEMI973@EXAMPLE.COM,2025-03-15,2.83,86.8,1107538.39,Actve
+STU-0789,Mary Okafor,40,M,Mass Communication ,(080)60446399,MARY.OKAFOR225@EXAMPLE.COM,08/08/2024,3.73,88.5,767297.32,on leave
+STU-0790,Blessing Williams,41,mle,Mass Communication ,(080)58315349,,31/05/2021,2.36,65.0,1339404.14,Actve
+STU-0791,Mary Usman,18,Male,  Mass Communication  ,,MARY.USMAN439@EXAMPLE.COM,03/06/2024,2.9,89.7,974596.44,graduated
+STU-0058,Amina Williams,44,F,Business Admin,+234 8077045224,amina.williams192@example.com,24/06/2022,3.56,67.2,983064.41,GRADUATED
+STU-0793,Fatima Adeyemi,31,Male,ECONOMICS,080-34718910, fatima.adeyemi97@example.com ,2023-12-26,3.0,71.9,1263435.19,Graduated
+STU-0794,Samuel Thomas,36,male,mass communication,080-18344673,samuel.thomas363@example,2025-08-12,3.02,93.0,948316.89,Graduated
+STU-0795,Sarah Williams,21,Female,Bio chemistry,+234 8095958889,sarah.williams254@example.com,05/04/2023,2.78,95.9,842764.41,Active
+STU-0796,Sarah James,40,Femle,computer science,(080)79713846,,29/05/2024,3.08,98.2,1196773.33,Actve
+STU-0797,Michael Brown,28,Male,COMPUTER SCIENCE,234847159364, michael.brown695@example.com ,2023-05-30,2.88,83.4,762713.78,Suspended
+STU-0798,Blessing James,24,male,Mass Communication,080-11992259,blessing.james171@example.com,03/09/2020,3.04,87.6,1240816.24,ACTIVE
+STU-0799,Emeka Bello,36,mle,BUSINESS ADMIN,+234 8088110716,emeka.bello48@example.com,"Oct 20, 2020",3.96,57.3,1223859.97,graduated
+STU-0800,Chiamaka James,37,femal,business admin,08097639386,chiamaka.james240@example.com,26/12/2024,2.23,63.1,700247.52,Graduated
+STU-0801,Ibrahim Smith,27,Femle,Mass Communication,+234 8054913716,ibrahim.smith857@example.com,10-19-2025,3.84,78.4,783070.06,ACTIVE
+STU-0802, Grace   Johnson ,24,M,BUSINESS ADMIN,, grace.johnson530@example.com ,2020-10-12,,106.3,613561.92,Suspended
+STU-0803,Ibrahim Williams,32,FEMALE,ComputerScience,080-42863672, ibrahim.williams368@example.com ,"Jan 08, 2024",3.18,88.9,787441.47,On Leave
+STU-0804,John Adebayo,33,F,mass communication,(080)19624180,john.adebayo330@example.com,11/12/2025,4.36,80.5,,suspended
+STU-0805,Daniel Adebayo,33,Male,business admin,080-16633469,daniel.adebayo70@example.com,,3.38,81.4,835689.43,active
+STU-0806,Amina Usman,26,Female,ComputerScience,,amina.usman761@example.com,08-19-2025,3.57,86.6,623390.49,on leave
+STU-0807,Esther Musa,42,mle,mass communication,08080900057,ESTHER.MUSA684@EXAMPLE.COM,2025-06-19,2.75,83.7,721975.0,graduated
+STU-0808,Ibrahim Ibrahim,28,male,business admin,(080)94777360,ibrahim.ibrahim283@example.com,,3.43,79.5,1082189.17,Suspended
+STU-0809,ESTHER EZE,23,male,Biochemistry,(080)29230859,esther.eze548@example,12/07/2021,3.86,108.1,833604.63,Suspended
+STU-0810,Blessing Usman,33,Femle,Computer Science,08027033740,blessing.usman102@example.com,"Feb 25, 2022",2.49,79.6,1209640.34,Graduated
+STU-0811,Daniel Obi,42,Male,Economics,234814746426,daniel.obi633@example.com,17/04/2023,2.46,67.8,?,suspended
+STU-0812, Daniel   Adebayo ,27,FEMALE,Business Administration,08081465877,daniel.adebayo181@example.com,"Nov 20, 2022",3.52,73.7,600577.9,suspended
+STU-0813,  Michael Smith  ,24,M,Business Administration,080-99409697,michael.smith471@example,07-30-2020,3.38,82.1,1007555.95,graduated
+STU-0814,Amina Williams,22,mle,Business Administration,+234 8011766304,amina.williams695@example.com,2023-07-16,3.15,80.1,966420.98,ACTIVE
+STU-0815,Michael Eze,23,Male,Mass Communication,08054789731,michael.eze401@example.com,02-27-2021,3.54,68.1,955120.87,Suspended
+STU-0816,Daniel Thomas,41,M,Bio chemistry,08045779800,daniel.thomas316@example.com,24/12/2023,2.6,96.8,-1074206.12,Actve
+STU-0817,michael musa,37,Female,ECONOMICS,(080)64276246, michael.musa371@example.com ,20/02/2021,2.52,60.3,765414.69,Graduated
+STU-0818,sarah garba,41,MALE,Business Administration,234956962473,N/A,01-19-2022,2.19,73.6,682049.49,ACTIVE
+STU-0819,Chiamaka Usman,24,male,Business Admin,080-68146477,chiamaka.usman105@example.com,09-22-2023,3.04,79.3,1184226.17,On Leave
+STU-0820,john eze,24,Female,Biochemistry,080-31262910,john.eze915@example.com,"Apr 01, 2022",2.95,84.5,851888.68,on leave
+STU-0821,Fatima Usman,22,female,ComputerScience,,fatima.usman27@example.com,06-16-2023,,81.7,1004540.51,on leave
+STU-0822,Amina Adebayo,18,Femle,Mass Communication ,234925137026,AMINA.ADEBAYO473@EXAMPLE.COM,11/07/2021,2.85,87.2,729867.65,on leave
+STU-0823, Mary   Brown ,21,Femle,Mass Communication,080-27571070,NA,"Dec 17, 2022",2.72,87.1,,Graduated
+STU-0824, Emeka   Eze ,18,mle,Mass Communication,,emeka.eze851@example.com,04-16-2024,,85.7,881382.81,on leave
+STU-0825,Michael Garba,34,M,Mass Communication ,(080)11670954,michael.garba701@example.com,05-12-2020,3.72,83.2,1055991.45,Actve
+STU-0826,Daniel Thomas,42,femal,computer science,080-29251806,daniel.thomas623@example.com,2023-12-12,2.77,70.4,706235.09,graduated
+STU-0827,Emeka Adeyemi,27,M,Business Admin,(080)26862750,EMEKA.ADEYEMI863@EXAMPLE.COM,2024-11-28,3.84,81.6,1131980.1,Actve
+STU-0828,chiamaka thomas,41,Femle,business admin,(080)46672801,chiamaka.thomas150@example.com,"Jan 05, 2020",3.33,90.1,922311.68,On Leave
+STU-0829,Esther Brown,32,mle,mass communication,080-46922101,esther.brown168@example,2023-05-16,2.93,62.3,1116125.42,suspended
+STU-0830,Mary Johnson,36,FEMALE,BIOCHEMISTRY,080-19041638,mary.johnson466@example.com,2023-08-24,3.34,98.0,856245.64,Graduated
+STU-0831, Michael   Smith ,33,MALE,mass communication,080-57768511,michael.smith511@example.com,03/12/2024,3.16,86.1,604170.94,graduated
+STU-0832,Peter James,31,M,Bio chemistry,080-81616721,peter.james931@example.com,11-20-2025,1.73,82.9,1048841.58,Graduated
+STU-0833,Chiamaka Eze,26,F,ComputerScience,,chiamaka.eze742@example.com,03-03-2022,3.8,86.8,779266.67,GRADUATED
+STU-0834,Blessing Johnson,21,Male,business admin,08058907580,blessing.johnson691@example.com,10-28-2023,3.2,61.1,1299719.11,on leave
+STU-0835,Ibrahim Williams,36,female,Computer Science,(080)52963074,IBRAHIM.WILLIAMS342@EXAMPLE.COM,30/10/2022,3.4,88.1,1087396.45,suspended
+STU-0836,Sarah Bello,40,Female,BUSINESS ADMIN,+234 8061309704,sarah.bello41@example.com,2021-04-05,3.41,98.8,1087158.49,on leave
+STU-0837,Fatima Adebayo,39,mle,Business Admin,(080)40185646,fatima.adebayo494@example.com,"Dec 05, 2020",2.56,96.5,,Active
+STU-0838,David Smith,33,mle,Bio chemistry,08041563693,david.smith884@example.com,2021-07-19,3.67,94.8,1034377.4,graduated
+STU-0839,mary bello,39,mle,computer science,234895622573,mary.bello419@example.com,"Jan 16, 2022",3.41,85.6,955013.46,active
+STU-0840,David Eze,32,female,Bio chemistry,08090297656,david.eze413@example.com,2023-02-07,2.43,87.8,1056713.32,Suspended
+STU-0841,CHIAMAKA JAMES,19,femal,Mass Communication,-,chiamaka.james240@example.com,08-15-2021,2.54,75.6,1044587.68,on leave
+STU-0842,Sarah Bello,45,Male,economics,234912786385, sarah.bello964@example.com ,17/05/2024,0.0,71.6,789940.42,active
+STU-0843,Chiamaka Adeyemi,26,MALE,computer science,+234 8068924636,chiamaka.adeyemi891@example.com,03-13-2020,3.38,90.0,1144378.18,Suspended
+STU-0844,Samuel Usman,36,femal,Business Admin,234813008522,samuel.usman447@example.com,2020-07-05,2.73,79.2,683212.13,Active
+STU-0845,Ibrahim Williams,34,M,Computer Science,,ibrahim.williams308@example.com,2021-04-13,4.8,47.6,793084.7,Graduated
+STU-0846,GRACE WILLIAMS,23,male,Bio chemistry,234819536143,grace.williams351@example.com,08/07/2023,4.43,85.1,843119.64,on leave
+STU-0847,Ibrahim Musa,18,MALE,BIOCHEMISTRY,080-25172779,ibrahim.musa280@example.com,"Jun 26, 2022",3.34,69.2,716928.84,Graduated
+STU-0848,GRACE ADEBAYO,18,F,ECONOMICS,08017139950,grace.adebayo801@example.com,"Aug 24, 2022",2.97,103.7,813062.88,graduated
+STU-0849,Samuel Thomas,30,female,BUSINESS ADMIN,234954503009,samuel.thomas63@example.com,09/07/2025,2.97,98.7,-1037567.31,GRADUATED
+STU-0850,John Adeyemi,25,mle,ComputerScience,08050801972,john.adeyemi787@example.com,2022-10-06,2.37,84.0,982385.62,Graduated
+STU-0851,Chiamaka Usman,32,femal,Business Administration,, chiamaka.usman209@example.com ,17/01/2020,2.45,78.5,686341.74,on leave
+STU-0852,John Obi,26,Male,mass communication,234983448780,john.obi786@example.com,24/07/2022,2.35,95.8,934369.44,Graduated
+STU-0853,Emeka Obi,32,Femle,ECONOMICS,,emeka.obi812@example.com,2025-10-11,3.46,84.2,873304.15,graduated
+STU-0854,John Eze,40,MALE,computer science,,john.eze408@example.com,12/07/2025,2.33,84.1,934896.9,Graduated
+STU-0855,David Williams,37,Female,computer science,+234 8043069942, david.williams494@example.com ,2022-11-03,2.22,71.3,763730.65,ACTIVE
+STU-0856,Emeka Obi,42,mle,Bio chemistry,08067173377,,"May 22, 2022",2.02,71.9,860232.43,Graduated
+STU-0857,Fatima Williams,20,female,BIOCHEMISTRY,08076173030,fatima.williams87@example.com,"Dec 26, 2025",,90.4,859009.25,Actve
+STU-0858,David Williams,28,FEMALE,Business Admin,,david.williams706@example.com,12-15-2021,2.12,68.5,1002654.32,Suspended
+STU-0859,Mary James,26,MALE,ECONOMICS,234800959882, mary.james467@example.com ,,3.38,59.8,1295777.25,Graduated
+STU-0860,Samuel Thomas,24,M,BIOCHEMISTRY,234910087315,samuel.thomas61@example,09/10/2023,0.0,75.6,673136.73,Actve
+STU-0861,Samuel Obi,32,Male,business admin,080-49158461,samuel.obi940@example.com,2023-06-27,1.96,63.3,976792.56,suspended
+STU-0862,Esther Ibrahim,35,mle,Business Administration,(080)62085479,esther.ibrahim579@example.com,02/10/2020,3.47,96.9,1051090.71,graduated
+STU-0863,David Garba,28,Female,mass communication,234884533804,david.garba709@example.com,"May 14, 2024",3.72,83.6,1432763.15,On Leave
+STU-0864,Chiamaka Ibrahim,34,F,Mass Communication,+234 8014626303,CHIAMAKA.IBRAHIM908@EXAMPLE.COM,2025-11-11,2.95,,1241169.78,on leave
+STU-0865,Peter Smith,18,Female,Mass Communication ,+234 8043230125,peter.smith786@example.com,11/06/2024,3.27,114.6,932463.87,on leave
+STU-0866,Mary Adebayo,33,male,COMPUTER SCIENCE,null,,14/01/2024,3.02,92.4,908026.11,GRADUATED
+STU-0867,emeka okafor,37,Female,Bio chemistry,234945852164,emeka.okafor469@example.com,2023-06-28,3.37,84.8,896104.55,GRADUATED
+STU-0868,Samuel Bello,15,Female,computer science,,samuel.bello816@example.com,01-09-2023,2.54,82.4,1231814.18,Active
+STU-0869,David Adebayo,27,mle,business admin,(080)32571212,david.adebayo984@example.com,01-25-2025,1.19,98.7,1359847.83,Active
+STU-0870,Mary Adebayo,37,femal,Computer Science,080-84841905,mary.adebayo25@example.com,08/01/2025,2.98,82.2,1002114.57,GRADUATED
+STU-0871,Blessing Williams,26,female,business admin,,blessing.williams625@example.com,2024-08-01,3.78,72.9,681706.98,GRADUATED
+STU-0872,Amina Smith,26,M,MASS COMM.,234928980305,amina.smith393@example.com,2025-10-04,2.91,80.8,1307984.64,Actve
+STU-0873,Sarah Johnson,27,Female,MASS COMM.,234818960575,sarah.johnson38@example.com,,2.9,72.1,974946.63,suspended
+STU-0874,Samuel Obi,18,MALE,Computer Science,+234 8018808442,samuel.obi573@example.com,16/10/2024,2.82,84.6,1129629.16,graduated
+STU-0875, Blessing   Musa ,37,FEMALE,Business Admin,080-95409507,blessing.musa252@example.com,"Jul 09, 2021",3.21,95.6,1069726.52,GRADUATED
+STU-0876,Amina Williams,34,female,business admin,,amina.williams266@example.com,2022-09-17,2.53,88.7,820482.13,Actve
+STU-0877,Peter Brown,38,femal,Computer Science,,peter.brown903@example.com,18/04/2021,3.24,65.7,666474.3,Actve
+STU-0878,Grace Garba,34,MALE,COMPUTER SCIENCE,,grace.garba535@example.com,"May 31, 2023",3.18,57.6,1403299.05,suspended
+STU-0879,Samuel Johnson,44,MALE,ECONOMICS,(080)77173996,SAMUEL.JOHNSON646@EXAMPLE.COM,11-26-2025,2.33,106.6,601300.91,  Actve  
+STU-0880,Chiamaka Garba,19,MALE,Mass Communication ,(080)21261113,chiamaka.garba637@example.com,"Sep 18, 2023",3.11,64.5,938267.13,GRADUATED
+STU-0881,Ibrahim Thomas,33,Female,Mass Communication ,234898054658,ibrahim.thomas95@example.com,2023-11-04,3.1,88.0,-956601.97,on leave
+STU-0882,Fatima Obi,38,female,business admin,234972207025,fatima.obi132@example.com,15/11/2020,2.27,,1045317.01,Active
+STU-0883,Michael Adebayo,44,M,Biochemistry,080-24554890,michael.adebayo634@example.com,2022-02-24,2.74,96.8,797247.49,GRADUATED
+STU-0884,Mary James,40,FEMALE,ComputerScience,234817044780,mary.james199@example.com,10-20-2021,3.69,88.8,971452.35,Active
+STU-0885,Fatima Eze,17,mle,BUSINESS ADMIN,+234 8089536887,fatima.eze594@example.com,03/06/2025,2.25,100.8,907936.2,Actve
+STU-0965,Daniel Thomas,18,female,mass communication,080-97293578,daniel.thomas194@example.com,10/09/2020,3.71,85.8,853017.88,Active
+STU-0887,Samuel Garba,20,Femle,computer science,(080)34478644, samuel.garba67@example.com ,05-04-2025,3.07,71.3,953573.79,GRADUATED
+STU-0888,John Ibrahim,38,male,Business Admin,+234 8082569585,john.ibrahim484@example.com,2020-02-15,3.27,,980932.29,On Leave
+STU-0889,Ibrahim Garba,26,FEMALE,Computer Science,08031051536,ibrahim.garba658@example.com,2023-11-19,3.37,95.9,728797.98,Suspended
+STU-0890,Sarah Williams,40,Male,NA,,sarah.williams737@example.com,15/08/2022,2.75,91.1,1179181.39,On Leave
+STU-0891,N/A,43,mle,ECONOMICS,, michael.usman49@example.com ,04-30-2025,3.24,95.8,996350.64,Graduated
+STU-0892,David Williams,27,Male,Computer Science,,david.williams62@example.com,2025-11-09,3.01,77.3,1048455.19,active
+STU-0893,Chiamaka Thomas,19,Femle,Mass Communication,234809509499,chiamaka.thomas520@example.com,11-06-2022,2.99,68.6,743942.01,  GRADUATED  
+STU-0894,Emeka Garba,22,male,computer science,(080)68727076,emeka.garba80@example.com,06/07/2022,2.39,82.2,743817.91,graduated
+STU-0895, Fatima   Okafor ,19,MALE,COMPUTER SCIENCE,234984209016,fatima.okafor670@example.com,05/05/2024,3.35,77.9,755540.94,Actve
+STU-0896,John Smith,27,Femle,BUSINESS ADMIN,(080)46228945,,2023-03-13,2.38,68.0,947742.39,graduated
+STU-0897,Peter Musa,38,female,Business Admin,080-10025466,peter.musa682@example.com,2025-07-25,3.09,55.2,995977.33,active
+STU-0898,DANIEL JOHNSON,24,Female,Mass Communication ,08089769122, daniel.johnson330@example.com ,2021-10-10,3.53,91.5,739671.0,on leave
+STU-0899, Sarah   Ibrahim ,23,F,Business Admin,(080)48347556,sarah.ibrahim509@example.com,01-24-2020,2.17,62.6,962577.61,active
+STU-0254,Chiamaka Thomas,33,MALE,Bio chemistry,080-50811360,chiamaka.thomas97@example.com,09-08-2022,2.94,78.5,983765.58,ACTIVE
+STU-0901,Daniel Bello,37,female,computer science,080-63595914,daniel.bello650@example.com,24/07/2025,2.95,95.5,1165148.73,Graduated
+STU-0902,Blessing Musa,44,Male,Business Administration,,blessing.musa971@example,2023-05-26,3.26,,1039816.54,ACTIVE
+STU-0903,Mary Brown,38,male,Biochemistry,(080)35024363,MARY.BROWN632@EXAMPLE.COM,11-01-2024,,102.3,724397.59,GRADUATED
+STU-0904,ESTHER IBRAHIM,37,mle,mass communication,08019685469,esther.ibrahim442@example.com,,2.61,86.9,1393880.98,Active
+STU-0905, Peter   Thomas ,29,M,Computer Science,,peter.thomas722@example.com,2023-05-10,1.78,78.8,N/A,suspended
+STU-0906,Blessing Brown,37,F,Business Admin,,blessing.brown300@example.com,2021-01-11,2.48,103.5,1244298.36,Graduated
+STU-0907,-,41,MALE,MASS COMM.,08011128094,sarah.williams425@example,09-27-2022,2.16,81.3,1128905.25,suspended
+STU-0908,Mary Adeyemi,36,MALE,Bio chemistry,080-13338694,MARY.ADEYEMI124@EXAMPLE.COM,09-03-2021,2.82,,1127637.89,active
+STU-0909, Ibrahim   Smith ,40,Femle,ECONOMICS,(080)63120465,ibrahim.smith449@example.com,,3.71,70.7,937496.0,ACTIVE
+STU-0910,Fatima Ibrahim,35,MALE,Business Administration,08020043688,fatima.ibrahim967@example.com,2022-01-16,3.32,105.0,696384.81,graduated
+STU-0911,Daniel Obi,45,M,MASS COMM.,(080)20134704,daniel.obi513@example,11/03/2020,2.69,?,1210221.43,active
+STU-0912,Chiamaka Bello,19,female,Business Administration,080-55644509,chiamaka.bello49@example.com,02/08/2020,3.81,76.3,981237.63,Graduated
+STU-0913,DAVID MUSA,35,Femle,Business Admin,+234 8080101828,,2023-06-08,3.0,95.1,,active
+STU-0914, Amina   Adebayo ,26,MALE,mass communication,234854900842,,01/03/2020,2.97,73.0,N/A,active
+STU-0915,Amina Thomas,18,FEMALE,BUSINESS ADMIN,+234 8058739274,AMINA.THOMAS293@EXAMPLE.COM,2024-03-11,3.66,97.3,,Graduated
+STU-0916,Peter Obi,37,femal,Computer Science,234859310911,peter.obi493@example.com,2022-11-25,2.76,62.6,918059.24,Suspended
+STU-0917, Emeka   Smith ,34,MALE,MASS COMM.,+234 8017740444,emeka.smith966@example.com,2022-06-18,2.17,74.4,861945.12,Active
+STU-0918,Fatima Musa,30,Femle,Business Administration,(080)35775998,fatima.musa43@example.com,01-26-2020,2.9,70.9,1134654.79,GRADUATED
+STU-0919,Esther Musa,?,female,MASS COMM.,+234 8010483013,,"Sep 17, 2024",2.95,83.4,917293.48,GRADUATED
+STU-0920,John Johnson,44,FEMALE,MASS COMM.,(080)17790292,JOHN.JOHNSON957@EXAMPLE.COM,01-10-2022,2.97,85.9,,On Leave
+STU-0921,Mary Thomas,32,F,Biochemistry,(080)47742612,mary.thomas813@example.com,2020-11-30,3.06,0.0,-926659.47,On Leave
+STU-0922,Ibrahim Adeyemi,44,mle,Biochemistry,234966866033,,22/07/2022,3.28,87.9,704618.75,Actve
+STU-0923,Fatima Ibrahim,21,F,Business Administration,234993486904,fatima.ibrahim628@example.com,2023-06-10,3.11,90.7,746814.44,Graduated
+STU-0924,Peter Usman,21,FEMALE,MASS COMM.,(080)80126641, peter.usman870@example.com ,2025-06-05,3.32,79.9,750962.53,on leave
+STU-0925,Amina Bello,22,Male,Economics,+234 8042223075,amina.bello490@example.com,"Jul 15, 2023",2.49,80.8,982144.67,Active
+STU-0926,Samuel Brown,21,Femle,mass communication,,samuel.brown122@example.com,13/12/2021,2.34,74.8,851428.6,active
+STU-0927,Sarah Eze,31,male,economics,234971164043,sarah.eze258@example.com,13/04/2021,3.16,64.3,1111356.95,active
+STU-0928,Emeka Adeyemi,42,FEMALE,Mass Communication,08031399416,emeka.adeyemi982@example.com,01-24-2020,2.97,65.7,1027064.11,graduated
+STU-0929,john bello,40,Female,MASS COMM.,08055870667,john.bello965@example.com,10-11-2023,1.45,70.4,694440.95,Graduated
+STU-0930,Peter Williams,18,female,BIOCHEMISTRY,080-69100732,peter.williams830@example.com,31/07/2020,3.87,82.6,786058.34,ACTIVE
+STU-0931,Grace Obi,24,FEMALE,business admin,080-33564894,grace.obi532@example.com,2020-07-26,3.3,91.8,792832.99,ACTIVE
+STU-0932,Fatima Thomas,18,female,ComputerScience,(080)10689091,fatima.thomas137@example,2023-03-01,3.05,100.0,620081.72,Suspended
+STU-0933,Sarah Obi,45,Male,Bio chemistry,234983390161,SARAH.OBI285@EXAMPLE.COM,2023-03-02,3.09,85.6,820199.58,Suspended
+STU-0934,samuel garba,38,Female,ComputerScience,080-67413969,samuel.garba341@example.com,-,2.63,,698810.3,Actve
+STU-0935,Blessing Bello,19,male,BIOCHEMISTRY,080-25748807,blessing.bello613@example.com,08-03-2020,3.48,79.5,834456.29,on leave
+STU-0936,Chiamaka Adeyemi,45,F,Business Admin,234806764925,chiamaka.adeyemi155@example.com,"Apr 27, 2024",2.78,81.3,1049244.75,Suspended
+STU-0937,Amina Thomas,33,mle,BIOCHEMISTRY,080-80731489,amina.thomas606@example.com,30/11/2024,3.16,83.6,659801.72,On Leave
+STU-0330,john adebayo,22,M,BIOCHEMISTRY,(080)24897066, john.adebayo81@example.com ,08/01/2021,3.31,80.1,992117.16,active
+STU-0939,Daniel Eze,32,Male,ECONOMICS,,daniel.eze533@example.com,"May 28, 2020",2.75,50.8,?,Actve
+STU-0940,Daniel Obi,21,mle,Mass Communication ,234800002044,daniel.obi387@example.com,2023-11-02,3.2,89.8,1172212.4,active
+STU-0941,Daniel Obi,27,M,Business Administration,08029272762,daniel.obi862@example.com,,2.87,73.8,921097.54,suspended
+STU-0942,Fatima Johnson,40,Femle,Computer Science,080-30935465, fatima.johnson315@example.com ,2024-08-19,2.58,73.3,884360.2,Graduated
+STU-0943, Peter   Adebayo ,26,mle,MASS COMM.,, peter.adebayo360@example.com ,07/08/2023,2.68,76.6,641772.53,On Leave
+STU-0944,john ibrahim,43,F,business admin,(080)41769382,,06-28-2024,1.93,73.8,778781.54,Active
+STU-0945,Blessing Thomas,36,MALE,Mass Communication ,08070166421,blessing.thomas687@example.com,NA,2.83,83.8,809125.38,graduated
+STU-0946,Fatima Thomas,40,male,ECONOMICS,(080)39571113, fatima.thomas228@example.com ,10-30-2022,3.59,73.9,1205587.92,Actve
+STU-0947,John Thomas,26,F,COMPUTER SCIENCE,08093962235,JOHN.THOMAS762@EXAMPLE.COM,,3.45,89.1,1080849.68,suspended
+STU-0948,Amina Johnson,17,mle,computer science,08097991132,amina.johnson550@example.com,20/05/2022,3.43,85.1,1054357.02,Active
+STU-0949,  Daniel Williams  ,32,MALE,BUSINESS ADMIN,080-51609600,daniel.williams698@example.com,2021-03-11,2.97,97.8,1355517.88,Suspended
+STU-0950,Michael Okafor,25,F,  Bio chemistry  ,, michael.okafor579@example.com ,2024-12-28,2.81,,633837.85,On Leave
+STU-0951,Peter Usman,19,F,Business Admin,080-77610261,,10-24-2020,3.11,96.4,961013.28,Active
+STU-0952,MICHAEL USMAN,30,male,computer science,, michael.usman80@example.com ,2024-05-26,2.84,78.6,934436.0,GRADUATED
+STU-0953,Amina Bello,37,mle,-,(080)28775160,amina.bello182@example.com,"Aug 11, 2020",4.27,96.6,831798.87,active
+STU-0954,Michael Smith,20,Female,Business Administration,080-58872668,michael.smith207@example.com,2021-10-30,2.22,95.0,-896496.03,on leave
+STU-0955,AMINA ADEBAYO,41,femal,computer science,+234 8071032712, amina.adebayo993@example.com ,2022-10-02,3.12,68.9,934441.86,on leave
+STU-0956,DAVID WILLIAMS,39,MALE,BIOCHEMISTRY,234888385137, david.williams965@example.com ,2023-11-05,3.29,75.6,748531.53,ACTIVE
+STU-0957, Daniel   Thomas ,31,Female,mass communication,(080)97647254,daniel.thomas992@example.com,2020-05-14,3.86,97.4,1158396.83,active
+STU-0958,michael thomas,26,M,Biochemistry,08037544962,michael.thomas565@example,2022-01-10,,70.4,605086.36,Active
+STU-0959,Peter Johnson,19,femal,Business Administration,+234 8016275194,peter.johnson979@example.com,2025-03-04,,92.1,742330.93,suspended
+STU-0960,Peter Smith,23,Male,mass communication,(080)36177289,peter.smith46@example.com,01-09-2024,3.1,78.7,606538.1,graduated
+STU-0961,Emeka Brown,42,MALE,computer science,,emeka.brown477@example.com,2021-03-26,2.81,95.8,677270.41,  On Leave  
+STU-0962,Mary Thomas,12,Female,computer science,080-44308375,mary.thomas63@example.com,03/04/2025,2.89,89.1,992433.9,Suspended
+STU-0963,Amina James,38,female,  computer science  ,,AMINA.JAMES532@EXAMPLE.COM,2023-12-22,4.8,79.2,950370.57,GRADUATED
+STU-0964,samuel eze,24,MALE,MASS COMM.,,samuel.eze366@example.com,,2.41,64.4,713534.07,On Leave
+STU-0965,IBRAHIM BROWN,33,Male,COMPUTER SCIENCE,08040009695,ibrahim.brown312@example.com,"Apr 26, 2022",0.84,,1202013.72,on leave
+STU-0966,Samuel Okafor,29,male,Computer Science,08050391923,samuel.okafor571@example.com,2021-06-30,2.86,82.4,601702.98,suspended
+STU-0967,Blessing Garba,24,Female,  Computer Science  ,(080)78434004,BLESSING.GARBA92@EXAMPLE.COM,09-27-2024,3.15,105.0,993723.3,Graduated
+STU-0968,John Okafor,45,Female,mass communication,+234 8092847419,john.okafor297@example.com,27/01/2024,2.37,99.9,814353.25,ACTIVE
+STU-0969, David   Adebayo ,19,M,Mass Communication,(080)55840690,david.adebayo455@example.com,2024-03-24,3.38,68.0,1435923.71,ACTIVE
+STU-0970,Sarah James,41,FEMALE,business admin,08084607647,SARAH.JAMES818@EXAMPLE.COM,07/09/2021,2.15,108.6,1217883.87,Suspended
+STU-0971,Amina Garba,28,F,Business Administration,234870011886,amina.garba249@example.com,,2.4,77.6,1101726.27,active
+STU-0972,Grace Johnson,18,MALE,ComputerScience,234911189310,grace.johnson420@example.com,2025-11-06,3.03,78.8,902671.03,active
+STU-0973,Sarah James,32,femal,Bio chemistry,(080)38694369,sarah.james395@example.com,17/08/2022,2.98,86.3,925645.45,On Leave
+STU-0974,Esther Musa,12,female,Computer Science,+234 8083134889, esther.musa364@example.com ,2024-03-11,3.82,112.6,630470.87,on leave
+STU-0975,Esther Adebayo,23,FEMALE,computer science,+234 8052154329,esther.adebayo691@example.com,2024-05-30,3.11,69.4,1222799.05,active
+STU-0976,Samuel Usman,39,male,Business Administration,+234 8070885158,samuel.usman404@example.com,,2.9,87.6,1106149.26,Active
+STU-0977,John Adeyemi,44,Female,COMPUTER SCIENCE,08094626457,john.adeyemi444@example.com,"Oct 27, 2020",2.86,,687648.95,Actve
+STU-0978,Chiamaka Bello,30,Femle,computer science,08094179280,-,09/04/2023,3.05,78.5,1303864.04,GRADUATED
+STU-0979,John Brown,34,MALE,Business Administration,(080)50340054,john.brown890@example.com,11/02/2020,3.16,95.0,1195855.75,Actve
+STU-0980,John Bello,21,MALE,Bio chemistry,080-26500093, john.bello72@example.com ,,2.9,73.2,1120963.8,Graduated
+STU-0981,SARAH ADEYEMI,38,female,Computer Science,234803199961,sarah.adeyemi294@example,21/07/2021,4.04,102.4,-1081714.98,Suspended
+STU-0982, Samuel   Adeyemi ,23,femal,MASS COMM.,,samuel.adeyemi503@example.com,2024-05-09,3.15,52.7,678147.92,suspended
+STU-0983,PETER OBI,26,male,Biochemistry,080-14025144,peter.obi27@example.com,2025-04-12,3.37,76.5,902237.32,graduated
+STU-0984,Blessing Ibrahim,44,female,Mass Communication,+234 8016739631,blessing.ibrahim75@example.com,,3.66,96.9,831709.17,on leave
+STU-0985,Peter Brown,25,Female,Biochemistry,080-82227630, peter.brown428@example.com ,"Feb 22, 2024",2.78,79.1,981604.93,GRADUATED
+STU-0986,amina ibrahim,28,Male,Bio chemistry,(080)65209073,amina.ibrahim218@example.com,08/09/2022,3.78,65.6,647968.7,Graduated
+STU-0987,FATIMA THOMAS,30,MALE,Biochemistry,080-53874572,,24/09/2021,3.2,56.6,632769.64,graduated
+STU-0988,Samuel Obi,45,male,Biochemistry,+234 8032626307,SAMUEL.OBI321@EXAMPLE.COM,2022-06-14,2.45,90.4,1142967.72,GRADUATED
+STU-0989,blessing brown,34,Male,Business Admin,(080)54462221,blessing.brown593@example.com,,2.7,74.8,867869.74,ACTIVE
+STU-0990,Esther Garba,40,male,Mass Communication,+234 8059945149,esther.garba486@example.com,05/08/2023,2.8,78.5,886727.48,Actve
+STU-0991,Sarah James,33,male,MASS COMM.,080-82718595,sarah.james739@example.com,2024-06-24,2.52,100.3,852639.86,Active
+STU-0992,SARAH EZE,34,female,computer science,+234 8036303126,sarah.eze306@example.com,"May 22, 2020",3.28,95.6,603705.81,graduated
+STU-0993,JOHN ADEYEMI,38,Male,BIOCHEMISTRY,08058599888,john.adeyemi267@example.com,06/02/2024,2.3,73.8,757958.91,suspended
+STU-0994,John Ibrahim,20,Femle,Biochemistry,,john.ibrahim313@example.com,2020-11-25,3.75,76.7,,Actve
+STU-0995,david johnson,31,Female,mass communication,,david.johnson967@example.com,"Jun 23, 2020",2.4,84.5,680141.04,Active
+STU-0996,Sarah Bello,36,Femle,ComputerScience,234810733395,sarah.bello207@example.com,25/06/2024,3.63,67.7,694215.51,Graduated
+STU-0997,N/A,21,female,Economics,234973376424,peter.johnson802@example.com,"Nov 19, 2024",-1.0,90.7,601562.03,ACTIVE
+STU-0998,Daniel Ibrahim,28,Female,ECONOMICS,(080)55543325,daniel.ibrahim254@example.com,2020-08-30,3.02,87.2,874336.22,graduated
+STU-0999,Esther Garba,40,male,Bio chemistry,+234 8085772529, esther.garba39@example.com ,"May 02, 2020",4.8,,873724.33,Suspended
+STU-1000, Amina   Thomas ,30,MALE,Bio chemistry,080-50842534,amina.thomas211@example.com,01/04/2023,,82.6,877544.98,On Leave
+STU-1001,Blessing Adebayo,37,Male,Economics,+234 8012454879,,02-07-2021,3.6,102.8,-768814.65,ACTIVE
+STU-1002,Mary Bello,25,female,Mass Communication ,+234 8025750424, mary.bello292@example.com ,05-25-2022,2.79,85.5,1061057.3,ACTIVE
+STU-1003,Daniel Okafor,17,MALE,Business Admin,08046208532,daniel.okafor277@example.com,2022-08-28,2.61,86.5,853627.46,Active
+STU-1004,Grace James,43,mle,economics,+234 8085268912,grace.james30@example.com,15/01/2020,3.25,82.4,623473.86,active
+STU-1005,Ibrahim Garba,23,F,Mass Communication ,+234 8065369442,,11-17-2021,3.39,77.7,853393.2,Suspended
+STU-1006,Daniel Adeyemi,45,FEMALE,business admin,080-22511048,daniel.adeyemi797@example.com,07-27-2024,2.99,130.0,1093482.73,Graduated
+STU-1007,Peter Musa,33,FEMALE,BIOCHEMISTRY,,peter.musa211@example.com,03-07-2020,2.76,101.2,871032.03,active
+STU-1008,Daniel Usman,41,female,Mass Communication ,080-48127377,daniel.usman321@example.com,25/01/2021,2.93,75.2,1108224.49,graduated
+STU-1009,Grace Obi,30,M,Biochemistry,(080)68513707,grace.obi910@example.com,2020-06-25,2.11,67.3,1214118.51,graduated
+STU-1010,Esther Ibrahim,35,femal,Bio chemistry,,esther.ibrahim476@example.com,05-24-2021,2.45,95.8,1305580.2,active
+STU-1011,Grace Okafor,32,Male,Bio chemistry,(080)54747268,grace.okafor215@example.com,12-29-2022,3.49,91.9,782859.53,On Leave
+STU-1012,GRACE JOHNSON,37,FEMALE,computer science,,GRACE.JOHNSON583@EXAMPLE.COM,"Jan 10, 2025",3.13,124.6,738902.91,Actve
+STU-1013,Blessing Bello,37,Femle,  BIOCHEMISTRY  ,234900471384, blessing.bello969@example.com ,15/12/2025,2.73,73.2,790478.47,Active
+STU-1014, John   Obi ,35,femal,Economics,08072904657,john.obi623@example.com,2021-05-16,3.69,70.9,671989.73,GRADUATED
+STU-1015,Michael Okafor,39,male,economics,080-90945392,michael.okafor218@example.com,"Mar 10, 2022",2.46,67.4,839160.55,on leave
+STU-1016,Grace Bello,17,mle,economics,+234 8020805810,grace.bello882@example.com,2020-02-25,1.97,82.9,971971.05,ACTIVE
+STU-1017,Samuel Garba,24,MALE,Mass Communication,(080)92093283,samuel.garba97@example.com,07/06/2024,2.22,90.7,612960.68,ACTIVE
+STU-1018,John Garba,17,MALE,Business Admin,08056944133,john.garba679@example.com,03-04-2024,3.05,63.1,798031.87,Actve
+STU-1019,Mary Garba,19,Femle,business admin,,mary.garba401@example.com,01-21-2024,2.96,96.2,1281737.74,graduated
+STU-1020,John Ibrahim,40,FEMALE,ECONOMICS,080-88608544,john.ibrahim787@example.com,07/07/2022,3.63,80.7,1149700.89,on leave
+STU-1021,Amina Thomas,28,FEMALE,Mass Communication ,(080)85964409,amina.thomas907@example.com,2024-02-05,3.24,93.4,810213.51,Graduated
+STU-1022,David Musa,43,M,Biochemistry,(080)18818495,david.musa556@example.com,11-17-2020,2.33,74.2,676410.48,On Leave
+STU-1023,Emeka Johnson,25,Male,BUSINESS ADMIN,+234 8044098923,emeka.johnson835@example.com,10/05/2024,3.5,100.5,1472674.36,On Leave
+STU-1024,Esther Obi,19,male,Mass Communication,+234 8076974764, esther.obi927@example.com ,15/01/2021,3.0,68.6,not available,Suspended
+STU-1025,Grace Adebayo,22,MALE,MASS COMM.,+234 8071972955,grace.adebayo148@example.com,14/02/2021,3.18,80.7,1446614.83,Graduated
+STU-1026,emeka adebayo,40,Female,Computer Science,+234 8050832603,,08/07/2022,3.41,90.1,750619.01,On Leave
+STU-1027,ESTHER OKAFOR,19,male,ECONOMICS,+234 8048736483,esther.okafor239@example.com,,3.52,84.6,839219.05,graduated
+STU-1028,Peter Thomas,28,Female,Bio chemistry,08052476652,peter.thomas259@example.com,2024-07-08,3.41,68.3,1247105.73,suspended
+STU-1029,Grace Ibrahim,30,mle,MASS COMM.,+234 8058141710,grace.ibrahim325@example.com,19/11/2021,2.84,64.2,692581.75,Active
+STU-1030,John Williams,33,male,Bio chemistry,(080)66170804,john.williams445@example.com,16/01/2025,2.16,75.3,885084.05,graduated
+STU-1031,Emeka Obi,35,Female,business admin,+234 8046574048,emeka.obi471@example.com,"Dec 19, 2024",3.08,75.5,1207375.68,graduated
+STU-1032,Amina James,40,F,economics,+234 8058156129,,11-05-2024,2.73,82.7,894902.3,On Leave
+STU-1033,Peter Eze,45,Femle,BUSINESS ADMIN,08038935531,peter.eze404@example.com,2025-07-16,2.47,93.4,882090.01,ACTIVE
+STU-1034, Emeka   Smith ,25,female,ComputerScience,080-50004350,emeka.smith482@example.com,,3.56,86.0,769437.36,active
+STU-1035,Amina Thomas,40,Femle,computer science,(080)75544693,amina.thomas340@example.com,07-19-2021,3.32,77.9,904844.44,active
+STU-1036,Mary Ibrahim,41,Female,Biochemistry,,mary.ibrahim300@example.com,2023-12-24,2.16,98.5,684660.76,GRADUATED
+STU-1037,  Daniel Garba  ,34,Female,MASS COMM.,080-20589873,daniel.garba116@example.com,04-21-2022,2.86,88.4,1095353.02,graduated
+STU-1038,Emeka Garba,34,Female,ECONOMICS,(080)77967501,emeka.garba935@example.com,11-06-2021,3.24,66.4,1058934.52,ACTIVE
+STU-1039,Grace Garba,38,MALE,BIOCHEMISTRY,,grace.garba505@example.com,2025-08-15,3.22,83.0,926884.08,on leave
+STU-1040,Sarah Garba,36,male,Biochemistry,08056030474,sarah.garba878@example.com,03-17-2024,3.53,89.2,952176.49,ACTIVE
+STU-1041,Daniel Adebayo,24,Female,Biochemistry,234986854130,DANIEL.ADEBAYO493@EXAMPLE.COM,20/10/2021,2.58,67.4,566383.99,GRADUATED
+STU-1042, Peter   Garba ,41,F,economics,+234 8087163061,null,09-17-2023,0.0,84.5,1345570.63,Active
+STU-1043,BLESSING JOHNSON,unknown,male,COMPUTER SCIENCE,,blessing.johnson855@example.com,25/06/2020,2.35,103.9,948520.31,graduated
+STU-1044,DAVID IBRAHIM,45,mle,Business Administration,+234 8010391997,david.ibrahim611@example.com,,2.58,73.8,978909.45,On Leave
+STU-1045,Michael Adeyemi,20,female,MASS COMM.,+234 8092869181,michael.adeyemi723@example.com,2021-02-21,2.73,95.0,772584.57,On Leave
+STU-1046,fatima adeyemi,27,mle,Business Admin,234861574856,fatima.adeyemi824@example.com,09-25-2025,4.56,79.3,608196.48,ACTIVE
+STU-1047,Mary Obi,44,F,Bio chemistry,234883280046,mary.obi994@example.com,"Aug 12, 2020",2.76,74.1,1195198.75,On Leave
+STU-1048, Sarah   Adebayo ,27,MALE,Mass Communication,(080)22581413,sarah.adebayo773@example.com,2025-04-04,3.22,unknown,631391.98,On Leave
+STU-1049, Ibrahim   Johnson ,not available,M,Mass Communication ,, ibrahim.johnson540@example.com ,24/01/2022,3.61,72.7,1055050.71,ACTIVE
+STU-1050,Daniel Smith,37,F,BIOCHEMISTRY,(080)38106374,daniel.smith686@example.com,09-08-2023,3.02,84.4,1122027.79,on leave
+STU-1051,fatima thomas,26,MALE,Computer Science,08061907296,fatima.thomas184@example.com,02-23-2020,3.0,87.2,1248041.33,suspended
+STU-1052,ibrahim thomas,38,M,Economics,+234 8025156575,ibrahim.thomas356@example.com,07-17-2023,3.12,80.8,893197.57,graduated
+STU-1053,amina thomas,33,mle,mass communication,080-67372177,amina.thomas67@example.com,2021-05-31,3.63,78.5,1068173.26,On Leave
+STU-1054,Amina Adeyemi,32,mle,ComputerScience,(080)81654101,amina.adeyemi450@example.com,"Jul 19, 2024",2.82,80.9,1318364.34,graduated
+STU-1055,Esther Musa,34,Male,Computer Science,234998801612, esther.musa833@example.com ,2025-03-24,2.23,76.1,999335.55,Graduated
+STU-1056,JOHN OBI,44,MALE,Economics,(080)74911690,john.obi656@example.com,20/06/2021,2.24,,1376322.95,GRADUATED
+STU-1057,Peter Eze,28,Femle,Business Administration,080-91778509,peter.eze496@example.com,12-04-2024,3.22,74.6,951247.92,suspended
+STU-1058,Amina Okafor,43,female,Mass Communication ,,amina.okafor582@example.com,2022-07-19,2.96,74.2,1085351.92,active
+STU-1059,Peter James,99,mle,ComputerScience,234944956922,peter.james261@example.com,2020-12-19,3.18,,1000647.31,On Leave
+STU-1060,Fatima Obi,34,M,Business Administration,234954710198,fatima.obi923@example.com,18/10/2023,2.85,87.4,1123086.17,graduated
+STU-1061,Samuel Adeyemi,20,female,business admin,080-91735172,SAMUEL.ADEYEMI103@EXAMPLE.COM,2022-06-18,3.46,97.2,,active
+STU-1062,DANIEL ADEYEMI,32,Male,ComputerScience,08041957393,daniel.adeyemi361@example.com,2022-12-31,-1.0,83.9,833169.74,On Leave
+STU-1063,john adebayo,34,Female,Mass Communication ,(080)72350002, john.adebayo752@example.com ,05-02-2024,3.11,90.1,771689.83,Graduated
+STU-1064,Emeka Bello,27,F,Biochemistry,,emeka.bello839@example.com,19/03/2023,3.23,77.6,1079711.43,on leave
+STU-1065,Chiamaka Usman,18,mle,  Mass Communication   ,08043104543,chiamaka.usman814@example.com,01-12-2021,3.33,65.0,,Actve
+STU-1066,Samuel Adeyemi,26,FEMALE,Mass Communication ,08058672365,samuel.adeyemi351@example.com,"Jun 28, 2025",3.01,93.8,565428.53,active
+STU-1067,Ibrahim Usman,41,Male,MASS COMM.,+234 8025776293,ibrahim.usman267@example.com,04-01-2022,2.18,74.5,582826.96,GRADUATED
+STU-1068,John James,31,Femle,Economics,,john.james404@example.com,2024-02-28,2.76,92.6,1110632.44,ACTIVE
+STU-1069,Sarah Ibrahim,32,Femle,ComputerScience,,sarah.ibrahim764@example.com,2020-09-02,3.23,-10.0,622857.72,Actve
+STU-1070,Blessing Williams,25,Femle,Computer Science,,blessing.williams743@example.com,"Sep 05, 2022",3.31,72.5,811639.07,suspended
+STU-1071, Peter   Ibrahim ,45,Female,mass communication,08080419276,peter.ibrahim386@example.com,2025-08-24,2.79,90.1,623999.32,Graduated
+STU-1072,Grace Musa,23,male,Bio chemistry,080-83454989,grace.musa469@example.com,2022-12-01,3.11,103.4,672873.2,Active
+STU-1073, Peter   Brown ,45,male,BUSINESS ADMIN,(080)24744781,peter.brown265@example.com,02-18-2020,,95.0,928371.78,GRADUATED
+STU-1074,Sarah Bello,44,Male,COMPUTER SCIENCE,(080)25991156,sarah.bello892@example.com,06-24-2023,3.89,-10.0,887475.14,Actve
+STU-1075,Fatima Johnson,32,M,BUSINESS ADMIN,(080)43470912,fatima.johnson826@example.com,19/02/2020,3.14,78.2,798899.19,Active
+STU-1076, Daniel   Williams ,25,F,Business Admin,08092478249,,30/04/2021,2.68,79.0,1188678.83,Suspended
+STU-1077,Esther Adeyemi,32,Femle,ECONOMICS,08046637174,esther.adeyemi653@example.com,"Nov 13, 2021",2.32,73.3,1125277.63,graduated
+STU-1078,Chiamaka Adebayo,27,MALE,BIOCHEMISTRY,(080)75508503, chiamaka.adebayo540@example.com ,10/12/2022,2.3,95.1,598170.79,  Active  
+STU-1079,Daniel Williams,25,Femle,ECONOMICS,,daniel.williams170@example.com,07-14-2025,3.39,96.4,623792.37,GRADUATED
+STU-1080,Chiamaka Smith,23,Female,BIOCHEMISTRY,+234 8049722934,chiamaka.smith968@example.com,05-14-2021,2.54,0.0,1013976.81,suspended
+STU-1081, Chiamaka   Brown ,21,M,Mass Communication ,N/A, chiamaka.brown490@example.com ,2024-01-31,2.27,88.5,1458692.52,Actve
+STU-1082,Chiamaka Usman,27,MALE,computer science,(080)60235254,chiamaka.usman298@example.com,,3.56,69.9,830475.72,Actve
+STU-1083,amina bello,18,F,COMPUTER SCIENCE,,amina.bello379@example.com,2020-11-22,2.65,71.3,795174.74,Actve
+STU-1084,ESTHER BELLO,24,MALE,MASS COMM.,08021848629,ESTHER.BELLO383@EXAMPLE.COM,29/03/2022,2.14,72.0,822219.58,active
+STU-1085,Sarah Johnson,45,mle,Business Admin,+234 8041454480,,"Sep 07, 2023",,77.9,702859.37,Graduated
+STU-0892,fatima johnson,18,mle,BIOCHEMISTRY,08049972303,fatima.johnson760@example.com,,2.46,95.0,,ACTIVE
+STU-1087, Grace   Usman ,27,male,COMPUTER SCIENCE,+234 8096930825,grace.usman650@example.com,04-01-2022,3.35,88.6,756107.68,suspended
+STU-1088,Esther Bello,27,Male,BIOCHEMISTRY,080-32416608,esther.bello930@example.com,2021-07-22,2.79,71.9,-844336.0,graduated
+STU-1089,Amina James,21,Female,ECONOMICS,08017656828,,2025-06-28,3.37,82.1,1027608.33,On Leave
+STU-1090,Peter Williams,44,F,MASS COMM.,080-60922725,peter.williams429@example.com,06-28-2021,2.68,65.2,1221369.75,active
+STU-1091,Peter Musa,45,FEMALE,MASS COMM.,(080)39661542,peter.musa267@example.com,2020-10-28,3.2,79.8,825298.42,on leave
+STU-1092,Amina Williams,23,femal,ComputerScience,234948168203,amina.williams91@example.com,11-02-2024,3.08,85.9,1111710.53,ACTIVE
+STU-1093,Esther Okafor,23,mle,mass communication,(080)49202161,,2022-11-12,3.72,71.7,895066.82,graduated
+STU-1094,Amina Adeyemi,27,male,Business Administration,234863784173,amina.adeyemi739@example.com,01-22-2020,2.79,90.3,1106064.55,GRADUATED
+STU-1095,David James,45,male,MASS COMM.,+234 8030129602,david.james341@example.com,2022-11-03,3.1,?,1122103.57,  Graduated  
+STU-1096,Samuel Thomas,21,Femle,Business Administration,08076096131, samuel.thomas633@example.com ,07-24-2025,2.74,68.7,1042971.53,GRADUATED
+STU-1097,John Adebayo,38,F,MASS COMM.,,john.adebayo584@example.com,05/01/2022,3.81,72.5,563578.06,Active
+STU-1098,Emeka Smith,41,M,Business Admin,, emeka.smith549@example.com ,2022-07-29,3.89,118.3,1420274.22,ACTIVE
+STU-1099,Fatima Garba,27,Female,economics,08038591846,fatima.garba888@example.com,06-18-2023,2.55,83.9,964379.51,On Leave
+STU-1100,Mary Eze,39,MALE,COMPUTER SCIENCE,+234 8030685017,,2024-05-07,2.72,74.4,847415.2,active
+STU-1101,MICHAEL OBI,26,Femle,business admin,(080)56859420,,12-29-2024,2.53,81.8,729942.53,On Leave
+STU-1102,Amina Eze,34,femal,Business Administration,,amina.eze674@example.com,18/08/2022,3.55,68.7,1067063.04,ACTIVE
+STU-1103, Samuel   Bello ,26,MALE,Business Admin,08065581930,samuel.bello726@example,2022-08-09,,110.6,942747.12,Actve
+STU-1104,Samuel Garba,17,femal,economics,08096578976,samuel.garba60@example.com,07-21-2023,3.25,70.9,1072306.3,graduated
+STU-1105,Blessing Johnson,36,MALE,MASS COMM.,08080368252, blessing.johnson943@example.com ,11-02-2023,1.95,66.1,826051.13,Suspended
+STU-1106,Chiamaka Bello,28,Male,BUSINESS ADMIN,234854030637,,2022-12-04,2.45,105.3,843797.9,ACTIVE
+STU-1107,mary smith,22,Male,BUSINESS ADMIN,080-84558334,mary.smith800@example.com,2023-09-14,2.81,81.8,952427.99,Actve
+STU-1108,Emeka Adeyemi,43,FEMALE,Bio chemistry,080-42325408,emeka.adeyemi746@example.com,21/11/2021,2.9,80.3,691935.63,  Active  
+STU-1109,Amina Brown,32,F,Mass Communication,080-15732101,,"Jan 04, 2021",3.09,102.2,929722.19,Actve
+STU-1110,EMEKA BELLO,41,FEMALE,Computer Science,234895589840, emeka.bello506@example.com ,03-14-2020,3.39,78.6,-990009.51,ACTIVE
+STU-1111,Daniel Usman,31,F,Economics,234880300921,daniel.usman699@example.com,"Mar 13, 2021",2.6,88.2,1152080.42,Suspended
+STU-1112,Blessing Garba,45,FEMALE,mass communication,+234 8066612308,blessing.garba308@example,09-06-2023,,83.8,850883.81,Actve
+STU-1113,Sarah James,44,femal,BUSINESS ADMIN,+234 8082885129,sarah.james29@example.com,11-29-2023,3.85,83.9,902162.14,GRADUATED
+STU-1114,Esther Eze,36,mle,COMPUTER SCIENCE,,,2020-02-04,3.32,58.8,928945.6,ACTIVE
+STU-1115,SARAH SMITH,35,F,ComputerScience,234807596043,sarah.smith169@example.com,08-06-2024,2.78,-10.0,1075813.73,graduated
+STU-1195,blessing eze,25,MALE,COMPUTER SCIENCE,234876459619,blessing.eze803@example.com,04/05/2023,3.1,87.3,660385.39,on leave
+STU-1117,Fatima Johnson,43,mle,BIOCHEMISTRY,080-98216153,fatima.johnson427@example.com,04-07-2023,3.38,130.0,1001166.67,On Leave
+STU-1118,Esther James,36,mle,BUSINESS ADMIN,N/A,esther.james994@example.com,07-03-2025,3.54,68.2,877579.96,Actve
+STU-1119,amina brown,26,FEMALE,ECONOMICS,(080)44454293,amina.brown50@example.com,"May 20, 2022",2.84,83.5,706203.77,Suspended
+STU-1120,Esther Williams,35,Male,BUSINESS ADMIN,234985616893,esther.williams840@example.com,12-09-2021,2.27,101.4,685049.3,Suspended
+STU-1121,Mary Usman,35,Female,economics,,mary.usman318@example,27/02/2023,3.67,57.2,972513.78,Actve
+STU-1122,Peter Okafor,20,Femle,Computer Science,(080)99626682, peter.okafor286@example.com ,30/03/2024,2.18,63.5,824859.11,GRADUATED
+STU-1123,Mary Ibrahim,17,Female,MASS COMM.,08088267767,mary.ibrahim893@example.com,"Jul 05, 2023",3.06,110.5,771188.12,GRADUATED
+STU-1124, Sarah   James ,43,female,Computer Science,08021676647,sarah.james245@example.com,"Feb 07, 2020",3.57,74.8,1187802.4,graduated
+STU-1125,Peter Obi,32,M,MASS COMM.,234829186523,,06-10-2021,3.5,85.5,937763.62,Suspended
+STU-1126,Ibrahim Adebayo,44,male,MASS COMM.,+234 8086438686,ibrahim.adebayo487@example.com,,3.19,85.6,861088.05,Graduated
+STU-1127,Peter Thomas,32,mle,Business Admin,,peter.thomas375@example.com,2021-04-10,3.03,106.8,795396.33,Actve
+STU-1128,  Daniel Smith  ,36,Male,Business Administration,080-19786298,daniel.smith28@example.com,28/11/2023,3.77,86.6,808453.34,GRADUATED
+STU-1129, Samuel   Bello ,31,male,BUSINESS ADMIN,,samuel.bello845@example.com,03-04-2021,2.96,78.3,982083.48,on leave
+STU-1130,Sarah Bello,21,F,MASS COMM.,08072579376,sarah.bello16@example,2023-10-05,2.71,70.6,1482057.54,active
+STU-1131,Ibrahim Thomas,19,mle,Mass Communication ,080-42601209,ibrahim.thomas850@example.com,2022-08-30,2.68,98.2,947451.9,Active
+STU-1132,,42,Female,Business Admin,08013950664, peter.thomas831@example.com ,2024-12-27,3.37,99.9,898071.49,Actve
+STU-1133, Mary   Thomas ,31,F,null,08067102430,mary.thomas809@example.com,01-26-2021,3.27,71.1,1208249.45,Active
+STU-1134,David Adebayo,33,Femle,Business Administration,234869980884,david.adebayo311@example.com,2023-02-24,-1.0,75.9,850465.52,Graduated
+STU-1135,Daniel Usman,39,femal,mass communication,,daniel.usman272@example.com,2020-09-09,2.1,77.6,1124067.51,active
+STU-1136,Amina Williams,26,mle,Mass Communication ,08026604990,amina.williams725@example.com,"Oct 23, 2023",2.53,79.4,685229.55,graduated
+STU-1137,Esther Adebayo,45,femal,computer science,(080)68762878,esther.adebayo730@example.com,"Apr 02, 2023",3.15,83.8,986068.5,Suspended
+STU-1138,Daniel Bello,37,mle,Computer Science,234852245988,daniel.bello58@example.com,,1.87,70.8,1138573.13,Graduated
+STU-1139,Ibrahim Adebayo,32,Femle,Bio chemistry,NA,ibrahim.adebayo371@example,16/10/2024,2.31,99.3,-757581.6,On Leave
+STU-1140,grace eze,37,FEMALE,BUSINESS ADMIN,234898514988,grace.eze847@example.com,05-17-2021,3.0,82.6,,Suspended
+STU-1141,Sarah James,34,MALE,mass communication,(080)25903895,sarah.james847@example.com,11-03-2023,3.31,,591153.11,graduated
+STU-1142,Emeka Smith,12,mle,BUSINESS ADMIN,,emeka.smith605@example.com,06-15-2022,9.0,73.5,844437.36,active
+STU-1143, Grace   Obi ,39,MALE,economics,-,grace.obi846@example.com,2022-09-13,2.85,56.0,832372.04,Graduated
+STU-1144,Chiamaka Ibrahim,44,femal,Business Administration,080-19015294, chiamaka.ibrahim858@example.com ,08-19-2021,3.18,89.3,1069589.84,Actve
+STU-1145,Samuel Williams,19,femal,BIOCHEMISTRY,+234 8081656110,samuel.williams215@example,28/01/2020,2.08,77.6,989888.94,Actve
+STU-1146,Ibrahim Williams,19,MALE,Business Admin,+234 8086161533,ibrahim.williams885@example.com,25/02/2022,2.47,85.4,839913.56,ACTIVE
+STU-1147,David Smith,25,F,Biochemistry,,david.smith763@example.com,17/04/2022,3.3,105.0,628878.6,Actve
+STU-1148,Michael Obi,38,female,Biochemistry,(080)19257513,michael.obi443@example.com,"Aug 11, 2025",2.74,63.9,1231414.46,active
+STU-1149,Peter Williams,22,MALE,Computer Science,234979361804,PETER.WILLIAMS573@EXAMPLE.COM,2023-02-26,2.92,76.5,932160.09,GRADUATED
+STU-1150,John Adeyemi,12,MALE,Business Administration,+234 8054828475, john.adeyemi230@example.com ,15/06/2020,2.82,94.1,837915.82,Actve
+STU-1151,Amina Obi,45,Femle,computer science,(080)27060981,amina.obi502@example.com,,4.18,87.8,unknown,Graduated
+STU-1152,Grace Okafor,29,Male,Business Administration,+234 8019218583,grace.okafor703@example.com,,2.84,93.4,949812.17,On Leave
+STU-1153,Ibrahim Obi,17,M,mass communication,080-70929597,ibrahim.obi739@example.com,2021-04-05,3.88,67.1,804424.06,GRADUATED
+STU-1154,Sarah Brown,34,mle,ComputerScience,08042270424,sarah.brown69@example.com,15/03/2020,2.94,98.6,1037874.08,ACTIVE
+STU-1155,Chiamaka Adebayo,N/A,femal,Economics,+234 8055850585,chiamaka.adebayo966@example.com,2021-05-29,2.82,94.4,741284.44,Suspended
+STU-1156,Sarah Johnson,34,Femle,Mass Communication,08021230923, sarah.johnson58@example.com ,2022-09-11,3.79,102.5,917957.4,graduated
+STU-1157, David   Adebayo ,37,Female,Bio chemistry,08029474245, david.adebayo494@example.com ,2025-03-24,3.35,89.4,not available,suspended
+STU-1158,Peter Obi,37,M,Biochemistry,(080)36192472,,04-24-2021,3.14,88.2,834062.53,suspended
+STU-1159,John Okafor,40,Male,,,JOHN.OKAFOR557@EXAMPLE.COM,2022-09-17,,61.0,786514.46,Suspended
+STU-1160,Blessing Brown,20,male,ECONOMICS,,blessing.brown342@example.com,08/10/2023,3.51,107.0,1052619.25,Active
+STU-1161,mary adebayo,18,F,Economics,234864633383,mary.adebayo440@example.com,21/06/2023,3.21,87.4,720916.66,on leave
+STU-0451,amina eze,35,FEMALE,Bio chemistry,08096073067,amina.eze922@example,2025-03-06,2.73,96.6,893492.97,Suspended
+STU-1163, Daniel   James ,44,FEMALE,Business Administration,,daniel.james641@example.com,,?,57.8,801692.23,on leave
+STU-1164,Michael Adebayo,29,M,ComputerScience,+234 8063224620,michael.adebayo536@example.com,2024-10-09,0.0,77.0,1011779.01,GRADUATED
+STU-1165,Michael Williams,30,MALE,Economics,, michael.williams382@example.com ,2024-04-10,3.49,90.7,704868.92,on leave
+STU-1166,GRACE THOMAS,21,Femle,Business Administration,080-31434467,grace.thomas183@example.com,03/08/2022,2.88,100.0,1046394.9,Suspended
+STU-1167,Fatima Obi,43,Female,Mass Communication ,(080)28637663,,"Oct 16, 2020",,101.5,783017.48,Suspended
+STU-1168,Ibrahim Ibrahim,32,male,Economics,234819779811,IBRAHIM.IBRAHIM147@EXAMPLE.COM,"Jan 22, 2025",3.28,77.3,644583.07,Graduated
+STU-0646,JOHN THOMAS,37,Female,Mass Communication ,08088713236,john.thomas784@example.com,17/01/2022,3.42,97.1,837470.28,Active
+STU-1170,Fatima Johnson,18,F,Computer Science,08062920251, fatima.johnson14@example.com ,24/08/2022,1.93,79.3,1212394.36,GRADUATED
+STU-1171,Fatima Eze,41,female,COMPUTER SCIENCE,+234 8078765508,fatima.eze104@example.com,08-28-2020,,58.8,1056361.39,GRADUATED
+STU-1172,Peter Williams,25,femal,COMPUTER SCIENCE,, peter.williams467@example.com ,2025-09-07,2.58,89.7,720274.21,suspended
+STU-1173,Emeka Okafor,20,MALE,Economics,+234 8089086118,emeka.okafor849@example.com,15/07/2020,2.31,,796621.33,Active
+STU-1174,Peter Bello,32,F,ECONOMICS,,peter.bello141@example.com,12/09/2021,3.5,N/A,-1150053.53,active
+STU-1175,Michael Williams,22,male,N/A,08059472142,michael.williams23@example.com,2023-06-08,3.19,,1320925.01,Suspended
+STU-1176,John James,44,FEMALE,ECONOMICS,(080)35375217,john.james534@example.com,"Feb 04, 2022",3.38,78.6,1044559.83,active
+STU-1177,Daniel Ibrahim,21,Male,Biochemistry,080-37212613,daniel.ibrahim489@example.com,2023-02-22,2.79,75.5,773036.57,active
+STU-1178,Esther Thomas,45,male,Business Administration,+234 8028669069,esther.thomas940@example.com,"Dec 30, 2021",3.54,91.0,1264478.15,On Leave
+STU-1179,PETER WILLIAMS,23,femal,Bio chemistry,+234 8087617437,,"Oct 29, 2024",2.64,79.5,1056334.86,graduated
+STU-1180,Peter Okafor,31,M,Mass Communication ,08049807310,peter.okafor977@example.com,12-02-2021,3.93,87.2,1040783.46,suspended
+STU-1181,SAMUEL IBRAHIM,27,M,Mass Communication ,08022275265,samuel.ibrahim368@example.com,01/06/2023,3.36,83.4,794232.32,on leave
+STU-1182, Chiamaka   Ibrahim ,26,FEMALE,Computer Science,234876886919,CHIAMAKA.IBRAHIM419@EXAMPLE.COM,2024-01-13,4.46,97.1,989176.44,On Leave
+STU-1183,Grace James,20,F,  MASS COMM.  ,+234 8053010035,grace.james260@example.com,02/08/2025,3.33,59.9,1005932.56,Suspended
+STU-1184,Ibrahim Brown,12,Female,Bio chemistry,080-42325794,ibrahim.brown91@example.com,"May 31, 2023",3.28,83.1,610012.17,GRADUATED
+STU-1185,  Chiamaka Johnson  ,22,male,MASS COMM.,(080)88038079,CHIAMAKA.JOHNSON408@EXAMPLE.COM,02-19-2024,2.06,81.9,639700.79,ACTIVE
+STU-1186,Fatima Thomas,28,femal,  Bio chemistry  ,, fatima.thomas986@example.com ,09-18-2022,3.53,64.5,832236.19,ACTIVE
+STU-1187,Ibrahim Thomas,21,female,Economics,(080)42156020,ibrahim.thomas463@example.com,2023-01-09,4.56,90.2,857587.96,Graduated
+STU-1188,Mary Musa,27,F,Mass Communication,08088753467,mary.musa74@example.com,"Sep 06, 2021",5.5,88.2,808156.9,suspended
+STU-1189,Mary Bello,32,Female,Biochemistry,(080)22407504, mary.bello167@example.com ,"Jul 29, 2025",3.5,76.8,1031801.17,Graduated
+STU-1190, Fatima   Musa ,35,FEMALE,Bio chemistry,(080)57892178,fatima.musa506@example.com,2025-01-20,3.33,100.5,801965.39,On Leave
+STU-1191, Chiamaka   James ,38,FEMALE,Biochemistry,08085744745,CHIAMAKA.JAMES850@EXAMPLE.COM,31/08/2025,2.42,90.1,844215.92,GRADUATED
+STU-1192,Samuel Ibrahim,34,M,Mass Communication ,(080)42736334,samuel.ibrahim245@example.com,12-15-2022,3.15,98.8,1233581.8,Graduated
+STU-1193,John Johnson,23,male,business admin,08086771637,john.johnson340@example.com,07/06/2023,2.77,130.0,,ACTIVE
+STU-1194,Peter Brown,37,mle,BIOCHEMISTRY,,peter.brown524@example.com,"Jan 05, 2024",2.23,82.4,948368.27,on leave
+STU-1195,-,21,Femle,mass communication,+234 8023856295,chiamaka.eze181@example.com,2022-03-29,2.51,64.9,645648.6,Active
+STU-1196, Blessing   Williams ,20,male,Business Admin,08079646561,blessing.williams405@example.com,2020-07-28,2.8,56.8,938535.19,on leave
+STU-1197,Amina Thomas,32,Female,Economics,080-43112468,AMINA.THOMAS445@EXAMPLE.COM,03-21-2023,,92.6,973461.11,suspended
+STU-1198, Peter   Musa ,40,mle,ECONOMICS,+234 8090284632, peter.musa80@example.com ,2021-11-19,2.76,86.1,800545.5,Graduated
+STU-1199,Chiamaka James,33,F,BUSINESS ADMIN,+234 8021638124,chiamaka.james156@example.com,2022-09-16,3.41,77.7,831489.85,Suspended
+STU-1200,Esther Smith,34,FEMALE,BUSINESS ADMIN,(080)56320943,esther.smith692@example.com,2020-01-05,2.73,65.2,636106.53,active
+STU-1201, Blessing   Adebayo ,19,female,ComputerScience,080-38263017,blessing.adebayo154@example,2024-06-02,3.6,91.7,847541.65,graduated
+STU-1202,ESTHER IBRAHIM,22,male,Mass Communication ,(080)24580532,esther.ibrahim349@example.com,11-30-2022,4.8,86.6,562987.79,active
+STU-1203, Chiamaka   Smith ,38,Male,Business Administration,080-55866312,chiamaka.smith602@example.com,2021-06-03,3.61,79.5,786672.77,active
+STU-1204,Daniel Thomas,38,Female,Computer Science,(080)56153532, daniel.thomas320@example.com ,"Nov 28, 2024",2.51,73.7,842153.84,ACTIVE
+STU-1205,peter smith,22,mle,Economics,234845454787,peter.smith683@example.com,2021-12-04,4.04,73.2,725388.0,On Leave
+STU-1206,Blessing Thomas,26,Femle,computer science,(080)45249475,BLESSING.THOMAS980@EXAMPLE.COM,2020-02-13,2.86,90.7,881396.24,on leave
+STU-1207,Mary Bello,42,F,Mass Communication ,08091341156,mary.bello343@example.com,07-18-2024,1.82,94.3,625809.78,graduated
+STU-1208,David Okafor,35,mle,MASS COMM.,234945345063,-,08/07/2025,2.7,73.6,900587.16,suspended
+STU-1209,John Usman,67,F,Mass Communication,+234 8020821552,john.usman418@example.com,2022-09-28,2.51,88.2,621707.12,suspended
+STU-1210, Fatima   Adeyemi ,43,mle,Biochemistry,, fatima.adeyemi231@example.com ,14/05/2021,2.72,74.7,1098967.38,Active
+STU-1211,Ibrahim Johnson,31,male,Computer Science,(080)16512969,IBRAHIM.JOHNSON563@EXAMPLE.COM,"May 06, 2023",2.8,90.7,888801.78,Suspended
+STU-1212,None,26,mle,Bio chemistry,+234 8065918256,grace.okafor283@example.com,09-18-2022,2.76,83.5,651432.76,On Leave
+STU-1213,Michael Bello,41,MALE,Mass Communication ,234863621071,michael.bello167@example.com,23/04/2022,3.39,73.9,unknown,Suspended
+STU-1214,Mary Eze,39,M,Bio chemistry,08091740770, mary.eze564@example.com ,,3.16,92.4,863947.43,Suspended
+STU-1215,Emeka Ibrahim,32,MALE,ComputerScience,+234 8096434076, emeka.ibrahim272@example.com ,2023-06-05,2.63,63.3,996936.16,active
+STU-1216,Amina Obi,34,mle,computer science,234807705581,amina.obi532@example,18/03/2021,2.41,83.7,586980.37,Graduated
+STU-1217,Ibrahim Obi,20,M,business admin,,ibrahim.obi594@example.com,2022-03-19,2.3,97.1,934734.42,ACTIVE
+STU-1218,Esther Thomas,21,M,ECONOMICS,,esther.thomas806@example.com,2023-11-10,2.35,86.8,1215544.46,suspended
+STU-1219,Fatima Bello,20,Female,ECONOMICS,08082125049,fatima.bello729@example.com,,2.65,87.9,1021414.51,GRADUATED
+STU-1220,Amina Williams,24,male,ComputerScience,+234 8096103584,amina.williams976@example,10/08/2024,3.9,81.3,956970.36,on leave
+STU-1221, Blessing   Brown ,18,Femle,Computer Science,080-91550169,blessing.brown629@example,,2.43,61.3,643725.42,On Leave
+STU-1222,Mary Musa,27,Femle,Business Administration,+234 8078523889,mary.musa595@example.com,"Dec 22, 2025",3.13,114.4,1062996.33,Actve
+STU-1223,MICHAEL THOMAS,34,femal,Economics,080-73959210,michael.thomas176@example.com,2022-10-12,N/A,,1033789.84,On Leave
+STU-1224,Daniel Obi,26,female,economics,080-35726336,daniel.obi772@example.com,07-23-2022,3.25,71.4,914778.87,GRADUATED
+STU-1225,David Obi,42,female,Economics,234914282929,,2020-09-28,2.69,86.5,864102.86,graduated
+STU-1226,michael garba,33,Femle,mass communication,+234 8067325462,michael.garba340@example.com,2021-01-14,0.0,85.0,1034268.73,on leave
+STU-1227,Ibrahim Adeyemi,36,mle,economics,234971695448,ibrahim.adeyemi131@example.com,12/04/2024,3.89,91.0,1170782.24,graduated
+STU-1228,Blessing Williams,36,female,Business Admin,080-61282814,blessing.williams417@example.com,05/02/2020,3.48,65.9,970155.02,Suspended
+STU-1229,samuel johnson,20,M,Mass Communication,,samuel.johnson281@example.com,19/04/2025,2.54,81.3,948921.02,On Leave
+STU-1230,Amina Williams,23,mle,BIOCHEMISTRY,234883123444,amina.williams63@example.com,01-28-2020,4.17,93.4,896496.48,GRADUATED
+STU-1231,emeka ibrahim,38,Female,computer science,+234 8052223632,emeka.ibrahim127@example.com,07-10-2020,2.5,60.7,1204050.6,Suspended
+STU-1232,Fatima Johnson,21,mle,Biochemistry,,fatima.johnson748@example.com,05/08/2021,3.14,100.6,741726.48,graduated
+STU-1233,emeka eze,35,F,,234856670499,emeka.eze275@example.com,"Dec 07, 2022",2.64,73.4,782480.71,GRADUATED
+STU-1234,Sarah Thomas,34,femal,COMPUTER SCIENCE,(080)10960273,sarah.thomas416@example.com,"Oct 12, 2020",2.69,101.6,937954.82,Actve
+STU-1235,Blessing Johnson,44,Male,ECONOMICS,,blessing.johnson709@example,,2.45,99.3,700849.23,Graduated
+STU-1236,Mary Brown,44,F,Economics,08070502766,mary.brown686@example.com,06/05/2023,2.2,,953526.74,on leave
+STU-1237,Fatima Johnson,22,male,Business Admin,080-29474247,fatima.johnson812@example.com,2022-05-28,4.43,91.3,947558.02,On Leave
+STU-1238,Mary Adebayo,41,male,  Bio chemistry  ,08075487931,mary.adebayo195@example.com,2023-11-27,2.87,86.1,1456240.47,ACTIVE
+STU-1239,Chiamaka Eze,22,Female,computer science,234942527358,,18/11/2021,3.33,75.0,582888.37,on leave
+STU-1240,Samuel Thomas,24,female,Bio chemistry,+234 8080345555,samuel.thomas204@example.com,02/12/2020,3.38,,1333095.12,GRADUATED
+STU-1241,Amina Williams,30,female,Bio chemistry,(080)67514401,amina.williams216@example.com,20/07/2023,2.49,78.0,982777.8,On Leave
+STU-1242,Sarah Bello,29,Male,COMPUTER SCIENCE,,sarah.bello640@example.com,03-31-2024,2.78,80.5,960166.24,Suspended
+STU-1243,SAMUEL JOHNSON,20,female,ECONOMICS,+234 8087503959,samuel.johnson545@example.com,12/04/2023,2.84,77.9,661527.79,on leave
+STU-1244, Mary   Thomas ,35,femal,Computer Science,080-37124161,mary.thomas197@example.com,2024-03-17,2.68,92.1,698324.52,Suspended
+STU-1245,Peter Usman,42,female,Bio chemistry,(080)98358259,peter.usman229@example.com,2021-08-21,2.0,93.9,791464.61,Active
+STU-1246,David Eze,34,Male,economics,08011935480, david.eze686@example.com ,27/12/2024,2.12,89.1,1213354.89,suspended
+STU-1247,David Williams,26,mle,economics,(080)27288703,david.williams255@example,2020-04-09,3.33,87.9,-918218.1,ACTIVE
+STU-1248,Daniel Smith,17,Female,MASS COMM.,08040121699,daniel.smith922@example.com,"Aug 16, 2020",3.12,85.5,-1005219.9,Graduated
+STU-1249,Ibrahim Garba,18,M,Mass Communication ,+234 8040531323,ibrahim.garba853@example.com,2022-02-17,2.8,,612995.96,GRADUATED
+STU-0435,JOHN SMITH,29,FEMALE,economics,234863679640,john.smith969@example.com,23/03/2021,,77.6,662919.11,Active
+STU-1251,Ibrahim Thomas,38,mle,Economics,08090452950,ibrahim.thomas873@example.com,12-22-2023,3.31,89.8,1140307.23,ACTIVE
+STU-1252,N/A,31,Male,Economics,08090936822,amina.james785@example.com,16/02/2023,2.86,87.2,1135296.34,suspended
+STU-1253,Grace Eze,24,mle,mass communication,08049506811,grace.eze470@example.com,05-08-2021,2.9,72.3,1017461.27,Suspended
+STU-1254,Mary Adebayo,39,mle,economics,080-70708208,mary.adebayo730@example.com,29/02/2020,1.49,66.1,1015894.14,Graduated
+STU-1255,Sarah Thomas,33,MALE,COMPUTER SCIENCE,08013266203,sarah.thomas699@example.com,,3.23,92.7,726301.69,active
+STU-1256,Chiamaka Garba,42,FEMALE,MASS COMM.,08098160282,,2025-07-11,3.47,78.0,1078196.16,Suspended
+STU-1257,Mary Johnson,35,mle,economics,+234 8067460982,mary.johnson445@example.com,10-03-2022,3.18,,1148673.14,On Leave
+STU-1258,Grace Okafor,43,Femle,BIOCHEMISTRY,+234 8015598972,grace.okafor161@example.com,2023-09-03,3.33,86.3,855519.27,Suspended
+STU-1259,michael musa,22,Female,BIOCHEMISTRY,080-53612924,,"Sep 19, 2021",3.62,77.8,958978.1,Graduated
+STU-1260,Peter Adebayo,36,femal,ECONOMICS,+234 8028527163,,23/01/2023,3.02,73.2,1408988.11,on leave
+STU-1261,Michael Usman,44,Female,economics,,michael.usman122@example.com,,3.18,92.9,1222197.55,graduated
+STU-1262,Michael Eze,19,female,MASS COMM.,080-51642594,,2022-06-01,2.85,94.7,764093.7,on leave
+STU-1263,Amina Adebayo,99,F,COMPUTER SCIENCE,234914631575,amina.adebayo540@example.com,"Sep 11, 2022",2.39,67.0,644019.55,Actve
+STU-0350,grace smith,44,Male,MASS COMM.,080-24398697,grace.smith892@example.com,2021-09-13,3.42,79.5,921457.72,graduated
+STU-1265,Fatima James,28,M,mass communication,08072961066,fatima.james107@example.com,2025-10-13,3.32,83.7,1339628.65,Actve
+STU-1266,Chiamaka Usman,24,femal,Mass Communication,234989464086,CHIAMAKA.USMAN18@EXAMPLE.COM,2025-10-15,3.05,52.7,1032133.3,Actve
+STU-1267,  Emeka Obi  ,20,Femle,Bio chemistry,(080)91986060,emeka.obi243@example.com,2021-01-13,3.68,88.8,926714.42,Actve
+STU-1268,Esther Smith,22,FEMALE,Business Admin,08082273999,esther.smith470@example.com,2020-08-09,4.09,55.9,894763.25,ACTIVE
+STU-1269, Blessing   Eze ,18,FEMALE,business admin,+234 8018045934,,19/10/2023,4.22,,901350.27,suspended
+STU-1270,michael bello,35,male,Computer Science,08090665654,,2023-04-21,-1.0,74.7,737813.66,ACTIVE
+STU-1271,Esther Johnson,33,mle,Mass Communication,(080)24141103,,2024-06-04,,106.1,1059651.16,Suspended
+STU-1272, Samuel   Okafor ,27,Male,Business Administration,234975040392,samuel.okafor302@example.com,"Jan 06, 2023",3.16,84.7,673137.24,active
+STU-1273,CHIAMAKA JAMES,18,male,Mass Communication ,,chiamaka.james616@example.com,2022-04-01,,77.2,991053.36,Actve
+STU-1274,Blessing Johnson,40,female,COMPUTER SCIENCE,+234 8013266243,blessing.johnson391@example.com,2024-11-05,2.21,,1103857.46,Active
+STU-1275,Grace James,24,Male,Computer Science,,,"Dec 11, 2023",1.83,91.9,,On Leave
+STU-1276,Emeka Williams,45,Female,Mass Communication ,+234 8054267107,emeka.williams415@example.com,"Jul 10, 2023",3.83,68.8,975227.69,GRADUATED
+STU-1392,Esther Adeyemi,25,Male,ComputerScience,234851772323,esther.adeyemi910@example.com,"Mar 25, 2021",3.69,69.0,-1453458.59,Graduated
+STU-1278,Ibrahim Smith,44,Male,ECONOMICS,+234 8040365050,ibrahim.smith669@example.com,2024-10-21,2.02,64.5,1470529.34,on leave
+STU-1279,Emeka Johnson,30,M,Economics,08062710968,,06/05/2023,3.24,65.1,1214587.02,active
+STU-1280,Fatima Bello,22,Femle,Bio chemistry,08020634839,fatima.bello665@example.com,22/01/2024,3.56,77.9,821296.21,GRADUATED
+STU-1281,Michael Brown,44,Female,Biochemistry,(080)86489552,michael.brown73@example.com,"Feb 01, 2022",2.29,86.3,966097.82,Active
+STU-1282,BLESSING JAMES,33,Female,ECONOMICS,080-23722275,blessing.james697@example.com,27/02/2022,3.38,86.1,941226.83,  ACTIVE  
+STU-1283,Mary Ibrahim,25,Female,mass communication,08025347650,mary.ibrahim403@example.com,2024-06-11,3.65,82.2,889041.51,on leave
+STU-1284,Michael Okafor,21,F,Business Administration,234851981888, michael.okafor197@example.com ,2025-12-14,2.84,80.8,833968.86,active
+STU-1285,Sarah Ibrahim,36,femal,BUSINESS ADMIN,08039972511,sarah.ibrahim235@example.com,2024-04-22,2.54,65.1,934727.19,suspended
+STU-1286,Ibrahim Bello,27,MALE,Mass Communication,08096738276,ibrahim.bello337@example.com,2023-03-27,2.88,98.5,733374.8,ACTIVE
+STU-1287,Samuel Bello,17,M,Mass Communication ,234878205316,samuel.bello913@example.com,25/01/2023,3.43,90.5,1127690.73,ACTIVE
+STU-1288,David Eze,31,Female,Biochemistry,,david.eze61@example.com,25/09/2020,2.27,,975534.93,  suspended  
+STU-1289,mary usman,38,MALE,  mass communication  ,08092375368,mary.usman334@example.com,2023-05-08,2.48,64.6,1443640.23,Suspended
+STU-1290,Daniel Musa,32,F,BIOCHEMISTRY,+234 8084977504,daniel.musa277@example.com,"Sep 17, 2023",1.86,96.2,1069197.16,Actve
+STU-1291,Grace Eze,26,femal,Mass Communication ,(080)29633939,grace.eze755@example.com,"Nov 26, 2025",-1.0,92.5,1468520.89,Graduated
+STU-1292,Amina Johnson,17,female,ECONOMICS,+234 8075271031,amina.johnson935@example.com,2022-08-10,3.96,76.0,939084.27,Suspended
+STU-1293,Daniel Usman,42,female,business admin,,daniel.usman752@example.com,2023-06-18,2.63,76.7,997572.01,On Leave
+STU-1294,Chiamaka Bello,35,F,Mass Communication ,,chiamaka.bello68@example.com,"Dec 24, 2025",2.77,82.6,877576.41,ACTIVE
+STU-1295, Chiamaka   Musa ,45,Female,Computer Science,234980685244,chiamaka.musa392@example.com,05-01-2021,3.66,95.6,900520.42,Actve
+STU-1296,Esther Musa,31,femal,economics,234969250194,esther.musa514@example.com,2022-05-18,3.49,85.7,1284786.48,suspended
+STU-1297,Chiamaka Williams,23,male,N/A,080-51629260,chiamaka.williams511@example.com,12-19-2021,4.0,73.9,1356343.63,suspended
+STU-1298,Samuel Usman,36,male,Business Administration,234903581983,samuel.usman643@example.com,04-25-2024,2.9,83.2,599518.86,active
+STU-1299,Esther Brown,40,mle,BIOCHEMISTRY,(080)41855659,esther.brown597@example.com,27/02/2022,3.32,94.6,1148860.57,Active
+STU-1300,EMEKA JAMES,34,Female,Economics,080-17391622,emeka.james422@example.com,14/03/2021,3.23,89.4,849471.0,on leave
+STU-1301,amina eze,18,femal,Business Admin,234852470208,amina.eze653@example.com,05-19-2021,2.37,81.6,602624.53,on leave
+STU-1302, Grace   Musa ,39,male,Biochemistry,+234 8045474716,grace.musa603@example.com,"Dec 05, 2023",2.89,not available,896299.03,suspended
+STU-1303,Amina Bello,29,male,ComputerScience,(080)89270698,amina.bello473@example.com,"Nov 28, 2023",2.72,,689856.67,Suspended
+STU-1304,Michael Musa,43,Femle,Mass Communication ,,michael.musa954@example.com,N/A,3.33,75.2,-860817.38,Actve
+STU-1305,David Okafor,27,Femle,economics,08050146211,david.okafor448@example.com,02/01/2025,3.53,75.3,754355.85,suspended
+STU-1306,Sarah Ibrahim,28,Femle,ComputerScience,(080)51544824,sarah.ibrahim721@example.com,23/07/2020,3.46,71.0,1383180.81,Graduated
+STU-1307,ibrahim garba,31,female,Computer Science,234838384385,ibrahim.garba192@example.com,,2.52,55.3,1004271.01,on leave
+STU-1308,BLESSING BROWN,24,female,Computer Science,+234 8016574282,blessing.brown731@example.com,2024-02-12,3.13,102.8,1280858.0,on leave
+STU-1309,Emeka Usman,45,Femle,Business Administration,+234 8031359709,,2025-05-01,4.4,102.5,732017.38,GRADUATED
+STU-1310, Chiamaka   James ,20,M,Bio chemistry,,null,2023-12-09,2.75,76.7,1309867.57,graduated
+STU-1311,Grace Eze,18,M,Business Administration,, grace.eze946@example.com ,2022-06-19,3.6,73.1,858076.78,ACTIVE
+STU-1312, David   Okafor ,23,Male,ComputerScience,08052364377, david.okafor884@example.com ,29/08/2021,2.35,65.9,826471.34,GRADUATED
+STU-1313,Chiamaka Johnson,37,MALE,ECONOMICS,234852492224,CHIAMAKA.JOHNSON925@EXAMPLE.COM,"Dec 21, 2021",2.81,96.8,1413510.33,Graduated
+STU-1314,John Bello,38,FEMALE,business admin,, john.bello351@example.com ,2024-07-26,2.7,84.0,988926.23,Active
+STU-1315,David Williams,41,M,computer science,,david.williams187@example.com,2020-02-22,3.8,65.6,1158383.94,on leave
+STU-1316,Mary Johnson,40,Female,Business Admin,+234 8043349163,mary.johnson663@example.com,2025-04-28,3.28,110.0,964326.2,suspended
+STU-1317,David Williams,40,femal,computer science,+234 8068012403,david.williams408@example.com,17/05/2025,2.39,,1254327.33,On Leave
+STU-1318,   Sarah   Garba   ,44,female,Biochemistry,+234 8075727269, sarah.garba984@example.com ,23/01/2023,3.86,92.6,796629.15,Actve
+STU-1319,Esther Bello,37,Femle,Bio chemistry,080-45200994, esther.bello219@example.com ,2024-02-08,9.0,58.6,696463.62,On Leave
+STU-1320,Emeka Okafor,23,F,Business Admin,,emeka.okafor506@example.com,08-26-2022,3.65,0.0,934862.08,ACTIVE
+STU-1321,SARAH JOHNSON,43,mle,Mass Communication,08088232230,sarah.johnson297@example.com,12-27-2022,2.59,68.2,954474.84,GRADUATED
+STU-1322, Chiamaka   Bello ,15,femal,Bio chemistry,+234 8092526521,chiamaka.bello428@example.com,09/02/2025,2.73,,,on leave
+STU-1323,Sarah Johnson,26,M,ECONOMICS,,SARAH.JOHNSON949@EXAMPLE.COM,01-04-2022,1.92,95.4,1073152.61,Active
+STU-1324,Mary Ibrahim,40,MALE,Mass Communication,080-52948026,mary.ibrahim509@example,12-02-2020,1.87,75.1,688640.18,Graduated
+STU-1325,Mary Garba,23,female,Business Administration,234800559593,mary.garba826@example.com,"Jul 20, 2023",3.34,91.9,843447.73,Graduated
+STU-1326,PETER ADEYEMI,26,mle,Computer Science,08082817633,peter.adeyemi998@example.com,09-29-2025,3.68,,1101432.66,Active
+STU-1327,JOHN OKAFOR,35,Male,Computer Science,+234 8084308936,,01-02-2025,2.98,80.4,617167.11,on leave
+STU-1328, Emeka   Brown ,20,M,Mass Communication ,080-78335057,emeka.brown256@example.com,08-10-2021,3.54,0.0,1180189.41,Suspended
+STU-1329,samuel james,19,mle,BIOCHEMISTRY,(080)12277574,samuel.james541@example.com,,3.38,91.1,1481077.37,ACTIVE
+STU-1330,emeka garba,33,Female,Computer Science,080-95747852,emeka.garba331@example.com,05-01-2024,2.33,92.5,692504.89,Actve
+STU-1331,Esther Adebayo,41,Male,  Biochemistry  ,(080)94413762,esther.adebayo469@example,24/12/2023,3.5,83.0,885330.47,Suspended
+STU-1332,Samuel Adeyemi,23,Femle,Business Admin,,samuel.adeyemi586@example.com,06/09/2025,2.47,86.3,812986.93,On Leave
+STU-1333,john brown,41,female,ECONOMICS,080-98034153,john.brown689@example.com,2025-08-27,3.44,89.9,1098326.49,ACTIVE
+STU-1334,Sarah Musa,33,MALE,MASS COMM.,234960254110,sarah.musa16@example.com,"Dec 15, 2024",3.09,69.6,885460.16,On Leave
+STU-1335, Grace   James ,19,mle,MASS COMM.,080-32575036,grace.james57@example,2021-03-20,3.32,69.8,893738.22,Graduated
+STU-1336,Fatima Johnson,33,MALE,Mass Communication,234816590828,fatima.johnson445@example.com,"Dec 25, 2022",3.87,77.3,1088856.83,Active
+STU-1337,Chiamaka Thomas,33,Femle,Bio chemistry,080-52733629,chiamaka.thomas901@example,2020-08-28,2.66,84.0,1433551.91,graduated
+STU-1338,John Garba,26,male,ComputerScience,(080)22516891,,21/02/2024,2.84,81.6,1171981.6,GRADUATED
+STU-1339,Fatima Williams,35,femal,business admin,,fatima.williams989@example.com,2022-05-17,3.2,105.0,1177455.38,Active
+STU-1340,Chiamaka James,29,Female,COMPUTER SCIENCE,,chiamaka.james116@example,09-08-2020,not available,74.7,,Graduated
+STU-1341,N/A,45,M,ECONOMICS,234820666352,john.smith60@example.com,09-22-2022,3.43,-10.0,1413805.01,ACTIVE
+STU-1342,Ibrahim Okafor,23,mle,BIOCHEMISTRY,,ibrahim.okafor348@example.com,"Oct 19, 2025",3.53,77.8,762485.35,On Leave
+STU-1343,David Eze,23,Femle,BIOCHEMISTRY,08039268909,david.eze708@example.com,"Aug 29, 2020",unknown,82.8,1024576.98,Actve
+STU-1344,Blessing Ibrahim,29,Femle,business admin,234812036310,blessing.ibrahim865@example.com,,3.26,-10.0,913254.82,Actve
+STU-1345,FATIMA EZE,27,male,Mass Communication ,,fatima.eze93@example.com,03-06-2022,3.18,73.9,1119089.48,ACTIVE
+STU-1346,  Grace Okafor  ,32,F,computer science,(080)93365670,grace.okafor346@example,24/07/2023,3.94,78.5,974323.71,GRADUATED
+STU-1347,Ibrahim Ibrahim,18,Male,Economics,,ibrahim.ibrahim472@example.com,"Dec 09, 2024",3.75,82.1,678754.78,ACTIVE
+STU-1348,Daniel Williams,41,F,BIOCHEMISTRY,234902567455,daniel.williams884@example.com,2022-09-15,3.38,79.9,1169625.54,suspended
+STU-1349, Samuel   Eze ,18,femal,Bio chemistry,(080)19222372,samuel.eze762@example.com,07-07-2025,2.36,74.8,759328.71,on leave
+STU-1350,Peter Obi,28,male,economics,(080)87874449,PETER.OBI187@EXAMPLE.COM,05-15-2023,2.7,91.2,842866.02,graduated
+STU-1351,IBRAHIM JOHNSON,31,Male,Business Administration,234966337390,ibrahim.johnson54@example.com,2020-02-25,2.32,65.1,864399.04,on leave
+STU-1352,Amina Musa,33,FEMALE,Computer Science,234983818183,amina.musa176@example.com,"Oct 11, 2023",2.6,79.5,756011.09,suspended
+STU-1353,JOHN USMAN,19,FEMALE,Mass Communication ,080-32305787,john.usman860@example.com,N/A,3.29,unknown,917764.44,Graduated
+STU-1354,grace brown,27,Female,Biochemistry,+234 8056898545,grace.brown687@example.com,2023-11-21,2.7,,980491.83,Actve
+STU-1355,John Williams,18,F,Business Admin,(080)66622545,john.williams94@example.com,05-27-2024,3.99,97.0,796342.18,Actve
+STU-1356,Ibrahim Eze,29,FEMALE,Biochemistry,+234 8093860221,,2020-06-30,3.13,80.6,,active
+STU-1357,  Fatima Adebayo  ,23,Female,computer science,(080)95187659,fatima.adebayo438@example.com,01-26-2023,3.34,66.3,806688.01,On Leave
+STU-1358,Grace Eze,42,Female,computer science,234947534384, grace.eze155@example.com ,2023-08-08,3.27,0.0,1124567.83,ACTIVE
+STU-1359, Chiamaka   Obi ,30,female,Business Administration,,chiamaka.obi673@example.com,2023-06-15,3.01,74.7,845517.54,Active
+STU-1360,Mary Okafor,31,female,mass communication,, mary.okafor164@example.com ,"Jun 20, 2022",3.25,112.6,742514.46,Active
+STU-1361,Amina Garba,24,MALE,COMPUTER SCIENCE,,amina.garba470@example.com,02/12/2021,2.8,96.5,1379145.08,GRADUATED
+STU-1362, Ibrahim   Okafor ,27,F,Computer Science,080-23877559,ibrahim.okafor419@example.com,,3.65,104.2,1063451.82,active
+STU-1363,FATIMA BELLO,20,Male,Mass Communication,080-86721443,fatima.bello704@example.com,"Dec 13, 2020",3.3,88.9,1153903.2,ACTIVE
+STU-1364,Fatima Musa,31,female,Mass Communication,080-25391344,fatima.musa683@example.com,07/07/2021,3.47,83.4,1227381.02,suspended
+STU-1365,Emeka Thomas,40,Male,computer science,+234 8037929303,emeka.thomas479@example.com,10/08/2023,3.5,81.6,889742.46,Actve
+STU-1366,Emeka Thomas,23,F,Mass Communication,08098018612,emeka.thomas872@example.com,N/A,2.6,-10.0,1056650.67,Actve
+STU-1367,Emeka Thomas,21,F,Mass Communication,(080)44174318,emeka.thomas508@example.com,2021-11-29,2.16,78.4,844047.76,suspended
+STU-1368,  Ibrahim Okafor  ,39,femal,Mass Communication ,08057735650,IBRAHIM.OKAFOR723@EXAMPLE.COM,"Nov 15, 2021",2.63,71.7,760910.56,Suspended
+STU-1241,Amina Bello,17,femal,economics,080-44476629,amina.bello246@example.com,,1.7,70.3,912529.24,ACTIVE
+STU-1370,Peter Ibrahim,23,F,Mass Communication ,,peter.ibrahim330@example.com,2022-05-28,2.87,82.4,836441.45,Graduated
+STU-1371,michael bello,19,male,BUSINESS ADMIN,080-40302110, michael.bello153@example.com ,"Dec 07, 2023",2.84,102.0,822491.09,on leave
+STU-1372,Samuel Ibrahim,35,female,BIOCHEMISTRY,+234 8061357048,samuel.ibrahim689@example.com,03/01/2025,2.89,68.2,634217.8,graduated
+STU-1373, David   Eze ,38,F,economics,234988195931,david.eze995@example.com,2022-07-13,2.32,64.2,985634.76,Actve
+STU-1374,peter williams,29,MALE,computer science,234919983023,PETER.WILLIAMS664@EXAMPLE.COM,2022-01-08,2.58,83.4,983088.68,suspended
+STU-1375,Fatima Smith,39,Female,Bio chemistry,234805352265,fatima.smith589@example.com,2022-02-28,,93.2,1461193.32,Active
+STU-1376,Grace Usman,45,Femle,Economics,,grace.usman149@example.com,2025-03-17,3.54,,926275.45,suspended
+STU-1377,None,20,Female,Computer Science,+234 8070619303,,2020-06-13,2.94,65.8,1044888.97,Active
+STU-1378,NA,31,mle,economics,234974437795,chiamaka.okafor658@example.com,06-19-2022,2.98,73.3,819594.68,GRADUATED
+STU-1379,Sarah Obi,41,femal,economics,080-12367107,sarah.obi260@example.com,24/12/2021,3.01,84.5,744452.55,active
+STU-1380,Daniel Williams,44,MALE,BIOCHEMISTRY,(080)22756766,daniel.williams787@example.com,N/A,2.64,60.8,755811.19,ACTIVE
+STU-1381,Fatima Brown,27,Femle,MASS COMM.,234909095579,fatima.brown104@example.com,29/01/2023,3.07,88.8,685472.21,ACTIVE
+STU-1382,   Mary   Adebayo   ,17,Female,ECONOMICS,(080)27132960,mary.adebayo582@example.com,08/01/2020,3.09,79.9,N/A,Graduated
+STU-1383,Esther Obi,44,male,BIOCHEMISTRY,(080)21050448,esther.obi25@example.com,2021-02-03,2.69,83.6,1055976.02,Graduated
+STU-1384,john johnson,41,female,business admin,,john.johnson384@example.com,03-29-2020,3.35,109.1,655186.96,suspended
+STU-1385,Sarah Eze,20,Female,economics,080-76391638,sarah.eze769@example.com,10-09-2021,2.44,-10.0,1017045.68,GRADUATED
+STU-1386, Blessing   Brown ,29,M,  ComputerScience  ,234982117096,,,2.54,78.8,1314671.81,Active
+STU-1387,Michael Adebayo,45,female,economics,+234 8045399932,michael.adebayo335@example.com,2021-01-17,2.97,61.2,967847.41,active
+STU-1388,Chiamaka Adeyemi,45,Femle,ECONOMICS,+234 8015710544,chiamaka.adeyemi507@example.com,"Sep 12, 2025",4.17,,731085.42,active
+STU-1389,Blessing Williams,30,Femle,Economics,08029872395,blessing.williams283@example,2025-04-24,5.5,88.9,840221.92,GRADUATED
+STU-1390,Ibrahim Johnson,39,F,mass communication,None, ibrahim.johnson215@example.com ,16/11/2024,2.92,79.8,950186.7,Graduated
+STU-1391,Fatima Adeyemi,26,femal,business admin,08047046421,fatima.adeyemi189@example.com,2020-08-24,2.67,73.0,929770.28,Suspended
+STU-1392,Emeka Johnson,21,femal,Computer Science,(080)25401783, emeka.johnson147@example.com ,2025-12-08,3.17,80.8,930288.82,Suspended
+STU-1393,Sarah Brown,18,F,MASS COMM.,,sarah.brown890@example.com,2025-12-07,3.37,104.4,1321239.77,on leave
+STU-1394,Daniel James,25,mle,business admin,+234 8057696569,daniel.james610@example.com,2025-08-23,3.84,110.2,650618.1,Actve
+STU-1395,David Adeyemi,67,mle,Business Administration,080-11579353, david.adeyemi838@example.com ,"May 21, 2020",2.24,,835453.56,suspended
+STU-1396,Chiamaka Ibrahim,36,male,COMPUTER SCIENCE,234984380869,chiamaka.ibrahim147@example.com,02/09/2020,3.0,85.1,820706.5,Actve
+STU-1397,Samuel James,25,Female,Mass Communication,234832691862,SAMUEL.JAMES241@EXAMPLE.COM,2022-02-07,4.65,84.8,1054708.8,on leave
+STU-1398,daniel johnson,25,female,mass communication,,daniel.johnson536@example.com,,2.71,91.1,1252832.52,suspended
+STU-1399,John Bello,23,FEMALE,BUSINESS ADMIN,234958350696, john.bello849@example.com ,29/12/2022,2.88,70.9,1234119.66,active
+STU-1400,Emeka Okafor,28,femal,Bio chemistry,+234 8033393915,EMEKA.OKAFOR656@EXAMPLE.COM,10-06-2021,2.93,77.5,649612.49,Graduated
+STU-1401,Daniel Brown,42,Male,Computer Science,080-62524996,daniel.brown32@example.com,2020-11-17,3.91,80.3,720439.03,active
+STU-1402,Amina Williams,45,male,Mass Communication ,(080)22933891,amina.williams983@example.com,"Mar 13, 2022",4.18,90.0,700252.89,active
+STU-1403,Amina Adeyemi,23,Femle,Computer Science,080-56270643,AMINA.ADEYEMI314@EXAMPLE.COM,2023-01-14,2.58,62.7,881009.05,Graduated
+STU-1404,Amina Obi,45,FEMALE,Computer Science,(080)66104626,amina.obi819@example.com,2020-08-17,3.47,72.0,677187.71,Suspended
+STU-1405,Daniel James,42,FEMALE,Mass Communication ,080-48233322,DANIEL.JAMES248@EXAMPLE.COM,22/12/2025,3.29,113.8,923300.71,on leave
+STU-1406,Esther Usman,43,mle,BUSINESS ADMIN,+234 8065887868,,2020-08-11,4.27,85.7,792488.4,ACTIVE
+STU-1407,Mary Garba,38,MALE,Computer Science,+234 8099783790,mary.garba86@example.com,"Feb 23, 2021",2.64,88.2,623534.92,active
+STU-1408,Daniel Okafor,33,female,ComputerScience,(080)95370432,daniel.okafor361@example.com,2021-12-13,3.03,77.9,660319.88,On Leave
+STU-1409,Emeka Okafor,20,mle,computer science,08049187285,emeka.okafor754@example.com,10-14-2024,3.03,75.6,573887.61,Active
+STU-1410,Grace Adeyemi,17,female,Mass Communication ,08075082614,grace.adeyemi410@example.com,2021-03-05,3.18,88.3,986625.81,on leave
+STU-1411,Ibrahim Brown,19,F,economics,+234 8046717261,ibrahim.brown971@example.com,12-24-2021,3.19,70.9,1183096.76,ACTIVE
+STU-1412,Esther Johnson,29,male,business admin,080-20406697,esther.johnson93@example.com,08-09-2023,2.76,79.5,1205163.18,on leave
+STU-1413,John Johnson,38,Male,Business Administration,234948109779,john.johnson461@example,"Jul 04, 2020",3.13,101.3,692317.09,  Active  
+STU-1414,Peter Adebayo,43,female,economics,(080)60694692,,2022-11-22,3.06,99.0,874408.74,On Leave
+STU-1415, Samuel   Williams ,18,F,BUSINESS ADMIN,,SAMUEL.WILLIAMS62@EXAMPLE.COM,09/01/2020,2.46,80.2,722061.06,suspended
+STU-1416,John Thomas,22,F,BIOCHEMISTRY,(080)98676691, john.thomas102@example.com ,2025-11-27,,60.9,827345.37,On Leave
+STU-1417, Emeka   Adeyemi ,42,Male,Computer Science,(080)79306008,emeka.adeyemi985@example.com,"Aug 17, 2023",3.35,83.8,1150531.65,ACTIVE
+STU-1418,blessing eze,36,Female,Business Admin,080-24324249,BLESSING.EZE127@EXAMPLE.COM,02-25-2024,2.29,91.1,1394006.76,Active
+STU-1419,Fatima Ibrahim,41,F,Biochemistry,080-14390339,fatima.ibrahim934@example.com,"Jan 04, 2025",2.89,,-635024.36,suspended
+STU-1420,BLESSING GARBA,19,mle,COMPUTER SCIENCE,234975607046,blessing.garba868@example.com,2021-12-18,2.65,76.8,862690.96,Actve
+STU-1421,  Peter Okafor  ,33,female,computer science,+234 8042740363,peter.okafor201@example,10/07/2023,3.42,82.1,1009004.59,active
+STU-0607,Emeka Bello,21,female,computer science,(080)69396351,emeka.bello449@example.com,"Jun 26, 2022",3.49,106.4,1147588.79,Active
+STU-1423,PETER JOHNSON,17,mle,Mass Communication,080-82647906,peter.johnson449@example.com,02-20-2022,2.99,86.2,,Suspended
+STU-1424,Esther Smith,42,Male,Economics,08048781104,esther.smith237@example.com,2021-09-24,3.62,103.5,645520.23,suspended
+STU-1425,Esther Okafor,18,FEMALE,Mass Communication ,+234 8059966150,esther.okafor310@example.com,2021-05-29,2.79,66.8,825366.93,on leave
+STU-1426,Samuel Ibrahim,39,MALE,Business Admin,(080)43449482,SAMUEL.IBRAHIM135@EXAMPLE.COM,"May 20, 2024",2.09,78.8,,Active
+STU-1427,FATIMA WILLIAMS,28,femal,mass communication,080-35288440,fatima.williams495@example.com,2021-02-14,3.05,98.5,1040508.84,Suspended
+STU-1428,Samuel Obi,23,male,MASS COMM.,(080)35932477,,2025-09-20,2.12,87.0,,Active
+STU-1429,  Mary Usman  ,30,FEMALE,computer science,,mary.usman593@example.com,03-09-2020,3.09,66.0,1153762.84,Actve
+STU-1430,Daniel Smith,17,femal,COMPUTER SCIENCE,080-62116961,daniel.smith851@example.com,2020-11-14,3.63,98.3,915885.97,on leave
+STU-1431,Emeka Adeyemi,36,MALE,Biochemistry,,emeka.adeyemi396@example.com,"Sep 09, 2024",2.45,83.2,863987.67,suspended
+STU-1432,David Musa,20,Male,Mass Communication ,(080)89577838,,2024-04-10,2.67,91.2,1031903.54,ACTIVE
+STU-1433,Amina Williams,41,female,economics,234863914748,amina.williams381@example.com,2024-02-21,2.87,86.4,,Active
+STU-1434, Daniel   Musa ,28,Male,Economics,08035169179,daniel.musa735@example,2022-11-13,3.52,110.2,1098095.72,Graduated
+STU-1435,Fatima Musa,42,MALE,Business Admin,+234 8012779775,fatima.musa357@example.com,,3.12,79.3,785208.69,ACTIVE
+STU-1436,Emeka Eze,26,mle,mass communication,08070346777,emeka.eze245@example.com,2025-01-06,2.63,78.1,700921.07,on leave
+STU-1437,mary johnson,44,M,Business Administration,+234 8010526737,mary.johnson633@example.com,02/04/2020,3.49,80.6,1249199.65,Actve
+STU-1438,Fatima Usman,24,F,economics,+234 8029866386,fatima.usman819@example,2023-09-25,2.16,73.2,1235523.83,on leave
+STU-1439,Fatima Adebayo,36,mle,Computer Science,08082055192,fatima.adebayo757@example.com,2025-10-07,1.67,63.3,832926.1,GRADUATED
+STU-1440, Sarah   Brown ,32,Femle,Business Administration,080-37127183, sarah.brown803@example.com ,2022-09-08,2.97,80.4,1446504.23,on leave
+STU-1441,peter williams,44,mle,MASS COMM.,08057569445,peter.williams271@example,15/04/2021,,86.3,918035.54,  On Leave  
+STU-1442,Esther Brown,36,Female,Biochemistry,234969745341,esther.brown85@example.com,"Jun 11, 2024",2.77,94.1,1242267.54,GRADUATED
+STU-1443,ESTHER OBI,39,MALE,business admin,(080)18226375,esther.obi912@example.com,"Oct 01, 2024",2.54,66.1,953586.05,suspended
+STU-1444,Chiamaka Okafor,34,mle,economics,(080)26767654,chiamaka.okafor108@example.com,09/08/2024,2.23,84.1,851337.53,On Leave
+STU-1445,Amina Adeyemi,39,femal,computer science,,,02-04-2024,,92.8,919628.71,active
+STU-1446,Samuel Adeyemi,40,FEMALE,BUSINESS ADMIN,+234 8056653220,samuel.adeyemi414@example.com,11-29-2025,2.07,72.7,664090.53,Actve
+STU-1447,Esther Adeyemi,29,MALE,ComputerScience,080-22713438,esther.adeyemi220@example.com,27/06/2021,3.07,71.8,925057.18,Active
+STU-1448,Ibrahim Bello,17,Female,Economics,(080)27321327,IBRAHIM.BELLO602@EXAMPLE.COM,"Dec 06, 2023",3.11,72.9,1226534.63,Suspended
+STU-1449,Amina Garba,19,F,Business Administration,+234 8046153221,amina.garba796@example.com,09-01-2023,2.76,68.2,1339083.13,Graduated
+STU-1450,daniel james,17,M,Mass Communication ,234864955963, daniel.james74@example.com ,28/10/2025,2.55,94.2,798551.57,Graduated
+STU-1451,MICHAEL IBRAHIM,18,Femle,Business Admin,+234 8063070312,michael.ibrahim213@example.com,2023-04-16,2.81,68.1,1247653.41,Active
+STU-1452,BLESSING ADEYEMI,29,femal,Mass Communication,N/A,,10-12-2025,3.53,,894693.67,On Leave
+STU-1453,Chiamaka Brown,41,MALE,BUSINESS ADMIN,,chiamaka.brown867@example.com,,,unknown,795005.38,Graduated
+STU-1454,Michael Brown,39,F,ComputerScience,+234 8030025581,MICHAEL.BROWN739@EXAMPLE.COM,11/05/2020,2.65,78.2,913176.94,GRADUATED
+STU-1455,Esther James,22,female,Computer Science,234976516818,esther.james362@example.com,20/06/2021,3.1,70.1,651566.1,on leave
+STU-1456, Mary   Garba ,29,Female,  Biochemistry  ,080-76993394,mary.garba329@example,20/09/2024,2.5,90.6,786720.25,active
+STU-1457,Emeka Ibrahim,36,mle,Economics,+234 8043208172,EMEKA.IBRAHIM237@EXAMPLE.COM,2022-01-08,3.16,78.0,1160351.71,On Leave
+STU-1458,Fatima Smith,35,Female,BUSINESS ADMIN,+234 8056629454,fatima.smith742@example,"Mar 01, 2023",,71.6,737845.57,graduated
+STU-1459,Fatima Bello,37,MALE,business admin,08074246909,fatima.bello165@example.com,09-04-2020,4.8,66.9,1312696.8,on leave
+STU-1460,samuel brown,22,Female,business admin,080-10871323,samuel.brown19@example.com,01/09/2022,2.33,54.9,1312909.68,active
+STU-1461,John Okafor,36,Male,BIOCHEMISTRY,,john.okafor444@example,"Nov 15, 2024",,,-1083601.38,Suspended
+STU-1462,Grace Bello,41,FEMALE,mass communication,234965395563,grace.bello824@example.com,2023-05-14,2.29,84.3,1176467.53,Suspended
+STU-1463, Mary   Ibrahim ,27,male,MASS COMM.,, mary.ibrahim188@example.com ,03/04/2020,5.5,96.8,1183670.61,On Leave
+STU-1464,Michael Musa,39,Femle,ComputerScience,(080)66339882,michael.musa949@example.com,2025-07-17,2.85,91.4,1140698.13,Actve
+STU-1465,grace musa,42,FEMALE,BIOCHEMISTRY,,grace.musa635@example.com,2024-06-26,0.0,105.0,900821.61,Active
+STU-1466,Michael Smith,42,Female,MASS COMM.,,,2023-04-24,2.99,71.2,772404.69,GRADUATED
+STU-1467,Samuel James,33,female,COMPUTER SCIENCE,+234 8010354522, samuel.james383@example.com ,2020-12-06,3.14,78.8,953106.37,Actve
+STU-1468,Fatima Thomas,23,M,Mass Communication ,080-97355299,FATIMA.THOMAS522@EXAMPLE.COM,2025-10-05,2.47,78.2,646852.17,active
+STU-1469,Ibrahim Usman,21,Male,  Economics  ,+234 8054842686,ibrahim.usman202@example.com,2022-09-23,3.22,69.0,659320.17,suspended
+STU-1470,Fatima Ibrahim,17,MALE,business admin,080-40208166,fatima.ibrahim504@example.com,22/06/2025,3.15,87.4,612406.05,active
+STU-1471,David Adeyemi,29,male,mass communication,234910922521,david.adeyemi480@example.com,27/01/2021,3.76,68.8,761119.45,Active
+STU-1472,Amina Okafor,29,M,ECONOMICS,08080838374,,10-30-2023,3.02,82.7,-1447306.6,On Leave
+STU-1473,David Brown,18,M,Business Administration,,david.brown538@example.com,2021-11-24,2.84,84.3,585556.53,Actve
+STU-1474,MARY SMITH,18,femal,ECONOMICS,,mary.smith289@example.com,13/08/2022,3.55,65.1,815221.67,On Leave
+STU-1475,Fatima Eze,41,Female,ComputerScience,080-22847697,fatima.eze597@example.com,05-07-2021,3.02,93.4,1200760.76,On Leave
+STU-1476,Mary Adeyemi,31,Male,Mass Communication ,+234 8049496557,mary.adeyemi150@example,2020-02-18,3.32,95.4,891828.86,graduated
+STU-1477,Peter Adebayo,34,Female,COMPUTER SCIENCE,(080)48497965,peter.adebayo135@example.com,2023-11-09,3.16,78.1,900764.5,Active
+STU-1478,Ibrahim Okafor,72,male,computer science,+234 8097412469,ibrahim.okafor549@example.com,16/09/2021,1.71,64.2,700794.06,ACTIVE
+STU-1479, Sarah   Adebayo ,39,Male,ECONOMICS,(080)44827605,sarah.adebayo763@example.com,2024-05-08,3.05,75.4,963830.2,graduated
+STU-1480,AMINA WILLIAMS,43,mle,BIOCHEMISTRY,(080)53087805,amina.williams771@example.com,12/03/2024,2.97,77.7,,ACTIVE
+STU-1481,michael adeyemi,42,Female,ECONOMICS,,michael.adeyemi424@example.com,2023-09-18,4.0,71.3,-879230.52,ACTIVE
+STU-1482,CHIAMAKA USMAN,43,femal,Business Administration,08093201577,chiamaka.usman758@example.com,,4.13,83.2,945418.21,Suspended
+STU-1483, Amina   Johnson ,31,F,Computer Science,+234 8056401854,amina.johnson961@example.com,11/07/2021,2.86,85.0,592559.19,  Graduated  
+STU-1484,John Okafor,37,MALE,mass communication,08012962832,,2024-05-24,2.9,68.7,1166213.47,Active
+STU-1485,Chiamaka Eze,22,MALE,NA,080-59020129,chiamaka.eze569@example.com,14/04/2024,3.01,105.0,816066.04,Graduated
+STU-1486,Chiamaka Johnson,36,Female,ComputerScience,+234 8070380380,chiamaka.johnson624@example.com,03/05/2024,1.98,79.3,1034242.49,Actve
+STU-1487,michael johnson,31,F,business admin,+234 8058739211,michael.johnson709@example.com,,,,1124678.35,Suspended
+STU-1488, Daniel   Adebayo ,23,femal,mass communication,08046370092,daniel.adebayo684@example.com,"Feb 02, 2025",3.25,70.3,919060.49,On Leave
+STU-1489,Samuel Bello,45,mle,MASS COMM.,080-50605722,samuel.bello158@example.com,2024-08-14,3.46,84.3,856590.11,graduated
+STU-1490, Amina   Smith ,39,female,MASS COMM.,(080)69984144,amina.smith313@example.com,29/10/2022,3.5,71.8,,active
+STU-1491,Daniel Eze,31,femal,Economics,,daniel.eze775@example,2024-03-25,3.12,63.9,1467436.62,On Leave
+STU-1492, Sarah   Williams ,38,female,Computer Science,234901421498,sarah.williams222@example.com,23/10/2021,3.01,86.3,1258636.91,  Graduated  
+STU-1493,Peter Garba,22,FEMALE,economics,08081969666,peter.garba597@example.com,2020-11-09,2.92,73.1,1120712.27,on leave
+STU-0358,DAVID WILLIAMS,23,Femle,mass communication,234920851150,david.williams683@example.com,12-12-2022,2.95,,719364.09,GRADUATED
+STU-1495,GRACE THOMAS,45,M,ECONOMICS,, grace.thomas423@example.com ,10-31-2023,1.76,105.6,983367.82,Graduated
+STU-1496, Mary   Adeyemi ,44,Male,BIOCHEMISTRY,08010972825,MARY.ADEYEMI471@EXAMPLE.COM,10-19-2024,2.93,83.4,625806.38,Actve
+STU-1497,michael brown,25,Femle,null,234833041068,michael.brown751@example.com,"Jan 05, 2020",3.55,82.6,809711.48,Active
+STU-1498,Fatima James,23,Male,Bio chemistry,(080)39053522,fatima.james937@example.com,12/02/2023,-1.0,97.6,1298851.15,graduated
+STU-1499,Amina Bello,26,Male,Computer Science,,amina.bello507@example.com,"Dec 07, 2020",unknown,96.1,734009.85,On Leave
+STU-1500,Emeka Obi,44,F,Economics,,emeka.obi77@example.com,2023-01-28,3.41,76.6,1040600.45,ACTIVE
+STU-0548,Esther Garba,33,female,COMPUTER SCIENCE,08032410104,esther.garba411@example.com,2021-05-27,3.48,79.9,794775.66,on leave
+STU-0985,Peter Brown,25,Female,Biochemistry,080-82227630, peter.brown428@example.com ,"Feb 22, 2024",not available,79.1,981604.93,GRADUATED
+STU-0713,David Obi,67,female,ECONOMICS,,david.obi68@example.com,"Aug 26, 2025",3.15,90.5,997686.74,Graduated
+STU-0639,Blessing Adeyemi,22,F,ComputerScience,,blessing.adeyemi933@example.com,05/03/2023,3.7,70.0,925850.01,graduated
+STU-0472,Ibrahim Bello,45,femal,NA,,ibrahim.bello233@example.com,19/07/2022,3.32,92.0,914653.7,On Leave
+STU-1150,John Adeyemi,12,MALE,Business Administration,+234 8054828475, john.adeyemi230@example.com ,15/06/2020,2.82,94.1,837915.82,Actve
+STU-0393,Michael Smith,26,mle,economics,+234 8073187443,michael.smith193@example.com,2024-12-27,3.59,77.4,705867.63,ACTIVE
+STU-1159,John Okafor,40,Male,Mass Communication,,JOHN.OKAFOR557@EXAMPLE.COM,2022-09-17,,61.0,786514.46,Suspended
+STU-1022,David Musa,43,M,Biochemistry,(080)18818495,david.musa556@example.com,11-17-2020,2.33,74.2,676410.48,On Leave
+STU-0427,Grace Eze,42,mle,ComputerScience,234848694052, grace.eze255@example.com ,27/04/2022,3.1,86.2,954445.64,suspended
+STU-1133, Mary   Thomas ,31,F,ComputerScience,08067102430,mary.thomas809@example.com,01-26-2021,3.27,71.1,1208249.45,Active
+STU-0417,David Garba,41,FEMALE,Economics,, david.garba865@example.com ,2021-10-20,2.72,80.3,1498693.04,active
+STU-0718,Blessing Ibrahim,42,female,Business Admin,,blessing.ibrahim760@example.com,2023-09-10,2.04,71.9,893044.6,on leave
+STU-0979,John Brown,34,MALE,Business Administration,(080)50340054,john.brown890@example.com,11/02/2020,3.16,95.0,1195855.75,Actve
+STU-0836,Sarah Bello,unknown,Female,BUSINESS ADMIN,+234 8061309704,sarah.bello41@example.com,2021-04-05,3.41,98.8,1087158.49,on leave
+STU-0829,Esther Brown,32,mle,mass communication,080-46922101,esther.brown168@example,2023-05-16,2.93,62.3,1116125.42,suspended
+STU-0805,Daniel Adebayo,33,Male,business admin,080-16633469,daniel.adebayo70@example.com,,3.38,81.4,835689.43,active
+STU-0748,David Obi,31,Female,ComputerScience,08024343861,david.obi431@example.com,09/09/2022,2.34,130.0,868179.85,suspended
+STU-0072,Emeka Musa,40,F,business admin,+234 8066529615,emeka.musa542@example.com,"Sep 13, 2021",3.15,100.2,1219913.23,Graduated
+STU-0699,mary thomas,18,MALE,mass communication,080-52201328, mary.thomas947@example.com ,"Apr 28, 2020",3.45,73.2,989599.87,suspended
+STU-0044,Blessing Brown,25,Female,MASS COMM.,,blessing.brown766@example.com,28/10/2025,3.06,103.1,894970.53,  On Leave  
+STU-1124, Sarah   James ,43,female,Computer Science,08021676647,sarah.james245@example.com,"Feb 07, 2020",3.57,74.8,1187802.4,graduated
+STU-0926,  Samuel Brown  ,21,Femle,mass communication,,samuel.brown122@example.com,13/12/2021,2.34,74.8,851428.6,active
+STU-1072,Grace Musa,23,male,Bio chemistry,080-83454989,grace.musa469@example.com,2022-12-01,3.11,103.4,672873.2,Active
+STU-1406,Esther Usman,43,mle,BUSINESS ADMIN,+234 8065887868,,2020-08-11,4.27,85.7,792488.4,ACTIVE
+STU-0644,Fatima Thomas,35,male,ComputerScience,234900118265,fatima.thomas250@example.com,08-02-2024,2.84,130.0,569935.98,active
+STU-0279, Chiamaka   Eze ,37,FEMALE,ComputerScience,(080)86785069,chiamaka.eze600@example.com,2025-01-29,2.77,98.0,1178017.89,GRADUATED
+STU-0309,  Chiamaka Thomas  ,39,Femle,Business Admin,,CHIAMAKA.THOMAS631@EXAMPLE.COM,01-16-2023,2.9,82.7,808763.22,Active
+STU-1264,grace smith,44,Male,MASS COMM.,080-24398697,grace.smith892@example.com,2021-09-13,3.42,79.5,921457.72,graduated
+STU-0064,Peter Adebayo,43,female,Economics,234905438755,PETER.ADEBAYO960@EXAMPLE.COM,"May 25, 2022",2.38,130.0,1034753.2,Active
+STU-0607,Grace Johnson,42,Male,COMPUTER SCIENCE,234835849301,grace.johnson789@example.com,2024-07-03,2.91,62.6,-756409.23,graduated
+STU-0596, Mary   Brown ,35,mle,ComputerScience,,mary.brown835@example.com,04-01-2020,4.0,81.9,823639.84,Actve
+STU-0096,peter garba,34,Female,BUSINESS ADMIN,+234 8050702357,peter.garba676@example.com,09-11-2024,2.75,82.6,913092.28,suspended
+STU-0112,david brown,22,Male,Computer Science,08066125490,david.brown225@example.com,04/02/2021,2.67,98.1,816591.83,active
+STU-0709,John Bello,23,Male,BIOCHEMISTRY,234806571684,john.bello918@example.com,"Jul 07, 2023",3.8,88.8,640358.59,graduated
+STU-1051,fatima thomas,26,MALE,Computer Science,08061907296,null,02-23-2020,3.0,87.2,1248041.33,suspended
+STU-1316,Mary Johnson,40,Female,Business Admin,+234 8043349163,mary.johnson663@example.com,2025-04-28,3.28,110.0,964326.2,suspended
+STU-0242,emeka obi,41,Female,  Business Administration  ,08030911367,emeka.obi399@example.com,11-23-2020,2.96,91.3,776806.86,on leave
+STU-0331,John Adebayo,23,male,economics,,john.adebayo52@example.com,"Dec 20, 2025",1.95,74.3,810816.33,Active
+STU-0705,SAMUEL THOMAS,26,MALE,Mass Communication ,,samuel.thomas597@example.com,2025-01-26,0.0,,581106.05,graduated
+STU-0694,EMEKA USMAN,21,Female,computer science,08093172405,,2023-04-14,2.92,103.5,838879.19,graduated
+STU-0147,Amina Johnson,18,MALE,ECONOMICS,(080)87707943,amina.johnson547@example.com,08-27-2021,2.86,89.0,855199.26,Suspended
+STU-0826,Daniel Thomas,42,femal,computer science,080-29251806,daniel.thomas623@example.com,2023-12-12,2.77,70.4,706235.09,graduated
+STU-0873,Sarah Johnson,27,Female,MASS COMM.,234818960575,sarah.johnson38@example.com,,2.9,72.1,974946.63,suspended
+STU-1207,Mary Bello,42,F,Mass Communication ,08091341156,mary.bello343@example.com,07-18-2024,1.82,94.3,625809.78,graduated
+STU-1052,ibrahim thomas,38,M,Economics,+234 8025156575,ibrahim.thomas356@example.com,07-17-2023,3.12,80.8,893197.57,graduated
+STU-0201,grace adebayo,31,female,BUSINESS ADMIN,,,2025-11-20,3.46,84.9,875894.69,Actve
+STU-0061,michael ibrahim,37,F,computer science,234850156836,michael.ibrahim511@example.com,01/01/2021,2.83,60.9,865201.65,GRADUATED
+STU-0587,Mary Ibrahim,45,Femle,ComputerScience,,MARY.IBRAHIM404@EXAMPLE.COM,2021-10-14,3.65,,1294001.21,Graduated
+STU-0598,mary thomas,43,Femle,computer science,+234 8026087333,mary.thomas439@example.com,02/12/2024,3.04,84.1,1120250.89,Suspended
+STU-0716,Blessing Bello,37,Female,economics,08044817259,,2020-12-01,2.99,86.0,1087812.0,Actve
+STU-1390,Ibrahim Johnson,39,F,mass communication,234959536173, ibrahim.johnson215@example.com ,16/11/2024,2.92,79.8,950186.7,Graduated
+STU-1183,Grace James,20,F,MASS COMM.,+234 8053010035,grace.james260@example.com,02/08/2025,3.33,59.9,1005932.56,Suspended
+STU-0102,Fatima Eze,22,femal,Mass Communication ,08032602220,fatima.eze584@example.com,2020-08-27,3.44,90.0,890514.65,graduated
+STU-0879,Samuel Johnson,44,MALE,ECONOMICS,(080)77173996,SAMUEL.JOHNSON646@EXAMPLE.COM,11-26-2025,2.33,106.6,601300.91,Actve
