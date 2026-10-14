@@ -53,7 +53,7 @@ A summary table comparing null counts, duplicate counts, row counts, and dtype a
   - `data/cleaned_student_records.csv` — final cleaned dataset
 
 ## 🎥 Demo
-[Link to video walkthrough]
+[Link to video walkthrough](https://drive.google.com/file/d/12nv1VSrekAeF3l2FXNnZUn0zwmgAXvIG/view?usp=drivesdk)
 
 ## 🔑 Key Takeaways
 - Prioritized **transparency over automation** — every imputation/correction decision is justified in a markdown cell rather than applied silently.
